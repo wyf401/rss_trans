@@ -8,7 +8,7 @@
 
  📢查看 我写的更加详细版的[部署说明](https://www.tjsky.net/tutorial/801)
 
- 📢查看[ 已翻译的订阅源列表 ](https://tjsky.github.io/Rss-Translation) 修改自[ rss-translate ](https://github.com/rcy1314/Rss-Translation)
+ 📢查看[ 已翻译的订阅源列表 ](https://wyf401.github.io/rss_trans) 修改自[ rss-translate ](https://github.com/wyf401/rss_trans)
 
 ## 已转换翻译源
  - source001 [https://rsshub.app/telegram/channel/Artificial_intelligence_in](https://rsshub.app/telegram/channel/Artificial_intelligence_in) -> [Artificial_intelligence_in](rss/Artificial_intelligence_in.xml)
