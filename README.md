@@ -13,3 +13,4 @@
 ## 已转换翻译源
  - source001 [https://rsshub.app/telegram/channel/Artificial_intelligence_in](https://rsshub.app/telegram/channel/Artificial_intelligence_in) -> [Artificial_intelligence_in](rss/Artificial_intelligence_in.xml)
  - source002 [http://arxiv.org/rss/cs.CL](http://arxiv.org/rss/cs.CL) -> [CL](rss/CL.xml)
+ - source003 [https://back.nber.org/rss/new.xml](https://back.nber.org/rss/new.xml) -> [YZQ](rss/YZQ.xml)
