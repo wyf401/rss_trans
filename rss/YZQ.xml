@@ -4,111 +4,13 @@
     <title>国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 29 Apr 2024 06:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:18:22 GMT</lastBuildDate>
     <item>
-      <title>自动化社会科学：作为科学家和主体的语言模型 -- 作者：Benjamin S. Manning、Kehang Zhu、John J. Horton</title>
-      <link>https://www.nber.org/papers/w32381#fromrss</link>
-      <description><![CDATA[我们提出了一种在计算机中自动生成和测试社会科学假设的方法。这种自动化是通过大型语言模型 (LLM) 的最新进展实现的，但该方法的关键特征是使用结构因果模型。结构因果模型提供了一种陈述假设的语言、构建基于 LLM 的代理的蓝图、实验设计和数据分析计划。拟合的结构因果模型成为可用于预测或规划后续实验的对象。我们通过几种场景演示了该方法：谈判、保释听证会、工作面试和拍卖。在每种情况下，系统都会提出和测试因果关系，为某些而不是其他人找到证据。我们提供的证据表明，法学硕士无法纯粹通过直接启发获得来自这些社交互动模拟的见解。当给定每种情况下提出的结构因果模型时，法学硕士擅长预测估计影响的迹象，但无法可靠地预测这些估计的大小。在拍卖实验中，计算机模拟结果与拍卖理论的预测非常吻合，但法学硕士得出的清算价格预测并不准确。然而，如果模型能够以拟合的结构因果模型为条件，那么法学硕士的预测将得到显着改善。简而言之，法学硕士知道的东西比它能（立即）告诉的多。]]></description>
-      <guid>https://www.nber.org/papers/w32381#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>学校分配机制中信息的提供和激励——作者：Derek Neal、Joseph Root</title>
-      <link>https://www.nber.org/papers/w32378#fromrss</link>
-      <description><![CDATA[对集中式学校分配机制的研究往往关注参与特定机制的家长是否有可能如实报告自己的偏好或参与各种代价高昂的策略行为。然而，越来越多的文献表明，家长可能对他们可以选择的学校了解不够，无法形成完整的偏好排名。我们开发了一个简单的模型来解释为什么学校分配机制的许多参与者掌握的关于他们可以选择的学校的信息有限，这并不奇怪。然后，我们讨论可以改善参与者向学校分配机制提供的信息以及他们选择的学校质量的政策。]]></description>
-      <guid>https://www.nber.org/papers/w32378#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>通货膨胀偏好 -- 作者：Hassan Afrouzi、Alexander Dietrich、Kristian Myrseth、Romanos Priftis、Raphael Schoenle</title>
-      <link>https://www.nber.org/papers/w32379#fromrss</link>
-      <description><![CDATA[我们记录了基于调查的关于美国消费者偏好的长期通胀率的新颖事实。消费者平均更喜欢 0.20% 的年通胀率，远低于美联储 2% 的目标。通货膨胀偏好不仅与人口和社会经济特征相关，而且与经济推理相关。一项随机对照试验表明，基于经济模型的两种叙述（描述通货膨胀如何降低工资和货币持有量的实际价值）会影响通货膨胀偏好。虽然我们的结果可以为央行关于通胀目标的沟通设计提供信息，但它们也提出了有关这些目标与消费者偏好之间一致性的问题。]]></description>
-      <guid>https://www.nber.org/papers/w32379#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>一次性退休金对劳动力供应的影响：来自秘鲁的证据——卡拉·莫雷诺 (Carla Moreno)、西塔·斯拉沃夫 (Sita Slavov)</title>
-      <link>https://www.nber.org/papers/w32380#fromrss</link>
-      <description><![CDATA[我们研究了 2016 年一项政策对劳动力供应的影响，该政策允许秘鲁私人养老金体系覆盖的符合退休资格的个人一次性领取退休福利，而不是年金。我们提出了一个理论模型，预测对于流动性受限的工人来说，一次性付款选择使正规就业（需要养老金参与）相对于非正规就业（不需要养老金参与）更具吸引力；它还鼓励提前退休。使用家庭面板数据，我们估计了 2016 年政策对私人养老金制度覆盖的工人与替代现收现付固定福利养老金覆盖的工人（不受政策影响）劳动力供应的影响。该政策与 50 岁（女性提前退休年龄）、55 岁（男性提前退休年龄）和 65 岁（所有工人完全退休年龄）退休的可能性增加相关。我们还发现，40 岁左右的女性和 50 岁出头的男性在正规部门的就业人数有所增加，这与人们为获得提前退休资格（需要最近缴纳养老金）而付出的努力是一致的。该政策的影响集中在受教育程度较低的工人身上，他们更有可能受到流动性限制。]]></description>
-      <guid>https://www.nber.org/papers/w32380#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>消费者资助的财政刺激：来自中国数字优惠券的证据 -- 作者：Jing Ding、Lei Jiang、Lucy Msall、Matthew J. Notowidigdo</title>
-      <link>https://www.nber.org/papers/w32376#fromrss</link>
-      <description><![CDATA[2020年，中国地方政府开始发放数字优惠券，以刺激餐馆和超市等目标类别的消费。通过大型电商平台的数据和聚类估算方法，我们发现优惠券导致政府每花1元支出大幅增加3.1-3.3元。大规模支出反应并非来自非目标支出类别的替代或短期跨期替代。为了使这些结果合理化，我们开发了一个动态消费模型，显示优惠券的最低支出阈值如何创造临时缺口，从而导致大量支出反应。]]></description>
-      <guid>https://www.nber.org/papers/w32376#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>城市、异质企业和贸易 -- 作者：Jan David Bakker、Alvaro Garcia Marin、Andrei V. Potlogea、Nico Voigtländer、Yang Yang</title>
-      <link>https://www.nber.org/papers/w32377#fromrss</link>
-      <description><![CDATA[国际贸易是否会影响城市的发展，反之亦然？通过汇总四个国家的分类数据，我们记录了一个新颖的程式化事实：出口活动不成比例地集中在大城市 — — 甚至比整体经济活动更集中。我们通过将标准的定量空间经济学模型与以国内和出口市场选择为特征的异质企业模型相结合来合理化这一事实。我们的模型对贸易与城市动态之间的双向相互作用提供了新颖的预测：一方面，贸易自由化将就业转移到大城市，另一方面，土地使用自由化增加了出口。我们使用中国制造业和法国企业的数据对模型进行结构性估计。我们发现贸易政策对城市成果具有定量上有意义的影响，反之亦然，并且贸易和城市政策的总体影响不同于不考虑贸易与城市之间相互作用的更标准模型。此外，我们的模型的一个显着预测（我们在数据中证实了这一点）是，地方贸易弹性随城市规模而系统性地变化，因此一个国家的总贸易弹性取决于其境内生产的空间分布。]]></description>
-      <guid>https://www.nber.org/papers/w32377#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么在家工作因国家和人而异？ ——巴勃罗·萨拉特、马蒂亚斯·多尔斯、史蒂文·J·戴维斯、尼古拉斯·布鲁姆、何塞·玛丽亚·巴雷罗、塞瓦特·吉雷·阿克索伊</title>
-      <link>https://www.nber.org/papers/w32374#fromrss</link>
-      <description><![CDATA[我们使用两项调查来评估为什么在家工作 (WFH) 因国家和人群而异。文化个人主义的衡量标准约占在家办公率跨国差异的三分之一。澳大利亚、加拿大、英国和美国在个人主义和在家办公率方面得分较高，而亚洲国家在这两项方面得分较低。其他因素，例如累积封锁严格程度、人口密度、行业组合和人均 GDP 也很重要，但它们对变化的影响较小。在审视美国的个体工人时，我们发现行业结构、人口密度和封锁严重程度有助于解释当前的在家办公率，以及工人居住县的党派倾向。我们的结论是，影响在家办公率的因素有多种，技术可行性只是其中之一。]]></description>
-      <guid>https://www.nber.org/papers/w32374#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>各国的精英统治——作者：Oriana Bandiera、Ananya Kotia、Ilse Lindenlaub、Christian Moser、Andrea Prat</title>
-      <link>https://www.nber.org/papers/w32375#fromrss</link>
-      <description><![CDATA[高收入国家的劳动力市场是否更加精英化，因为工人与工作的匹配是基于技能而不是与生产力无关的特殊属性？如果是这样，为什么？总体后果是什么？通过使用 28 个国家/地区超过 120,000 人的工人技能和工作技能要求的国际可比数据，我们记录了在高收入国家，工人的技能更符合其工作的技能要求。为了量化工人与工作匹配在发展核算中的作用，我们建立了一个均衡匹配模型，该模型考虑到三个基本方面的跨国差异：（i）多维工人技能的禀赋和工作技能要求，这决定了匹配的可行性； (ii) 技术，决定匹配回报； (iii) 特殊匹配摩擦，捕捉匹配过程中非生产性工人的角色和工作特征。估计模型提供了两个关键见解。首先，由于匹配摩擦的减少而导致的工人与工作匹配的改善只占跨国收入差异的一小部分。然而，其次，改善工人与工作的匹配对于释放因采用前沿禀赋和技术而产生的经济发展收益至关重要。]]></description>
-      <guid>https://www.nber.org/papers/w32375#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>退休前就业保护的劳动力市场外部性 -- 作者：Paweł Chrostek、Krzysztof Karbownik、Michał Myck</title>
-      <link>https://www.nber.org/papers/w32371#fromrss</link>
-      <description><![CDATA[利用人口层面的行政数据，我们研究了针对老年工人的特定年龄就业保护立法（EPL）所产生的劳动力市场外部性。我们的结果显示，EPL 对接近资格的男性或女性的就业或收入没有经济上有意义的总体影响。分别考虑在职工人和非雇员，我们发现对前者和后者的就业影响分别较小。]]></description>
-      <guid>https://www.nber.org/papers/w32371#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>透明度和百分比计划 -- 作者：Adam Kapor</title>
-      <link>https://www.nber.org/papers/w32372#fromrss</link>
-      <description><![CDATA[透明度与不透明度是大学录取政策的一个重要方面。大学可以通过全面审查申请人的材料获得有用的信息，但这样做可能会导致不确定性，从而阻碍信息不充分的潜在申请人。本文利用德克萨斯州的调查和管理数据以及大学申请、录取、入学、成绩和坚持的模型，研究了德克萨斯州“前 10% 计划”背景下招生透明度的影响。我估计，该计划对前 10% 学生进入旗舰大学的可能性产生的 9.1 个百分点影响中有三分之二是由于信息而不是机械效应。被诱导入学的学生更有可能来自低收入高中，并且在学业上的表现优于他们取代的学生。如果辅以经济援助信息，这些影响会更大，并且是由透明度驱动的，而不是自动录取和自由裁量录取规则之间的不一致。]]></description>
-      <guid>https://www.nber.org/papers/w32372#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不观察种族的情况下估计种族差异——作者：Cory McCartan、Robin Fisher、Jacob Goldin、Daniel E. Ho、Kosuke Imai</title>
-      <link>https://www.nber.org/papers/w32373#fromrss</link>
-      <description><![CDATA[对各个领域的种族差异的估计常常因缺乏个人层面的种族信息而受到阻碍。在许多情况下，法律禁止收集此类信息，以防止直接的种族歧视。因此，分析人员经常采用贝叶斯改进姓氏地理编码 (BISG) 及其变体，将个人姓名和地址与人口普查数据相结合来预测种族。不幸的是，BISG 的残差通常与感兴趣的结果相关，通常会削弱对种族差异的估计。为了纠正这种偏见，我们提出了一种替代识别策略，假设姓氏有条件地独立于给定（未观察到的）种族、居住地点和其他观察到的特征的结果。我们引入了一类新模型，即差异估计贝叶斯工具回归 (BIRDiE)，该模型将 BISG 概率作为输入，并通过使用姓氏作为种族工具变量来生成种族差异估计。我们的估计方法是可扩展的，使得分析大规模行政数据成为可能。我们还展示了如何解决可能违反关键识别假设的问题。基于北卡罗来纳州选民档案的验证研究表明，在估计政党登记中的种族差异时，BISG+BIRDiE 可将错误减少高达 84%。最后，我们应用所提出的方法，使用美国国税局的个人税务数据来估计谁从住房抵押贷款利息扣除中受益的种族差异。可以使用开源软件来实现所提出的方法。]]></description>
-      <guid>https://www.nber.org/papers/w32373#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>机制改革：儿童福利的应用 -- 作者：E. Jason Baron、Richard Lombardo、Joseph P. Ryan、Jeongsoo Suh、Quitze Valenzuela-Stookey</title>
-      <link>https://www.nber.org/papers/w32369#fromrss</link>
-      <description><![CDATA[在许多市场设计应用中，引入了一种新机制来改革现有制度。与孤立的机制设计相比，现状系统的存在给设计者带来了挑战和机遇。我们在改革分配儿童保护服务 (CPS) 调查员处理美国报告的虐待儿童案件的机制的背景下研究这个问题。CPS 调查员在儿童在家安全的情况下做出是否将其送入寄养的相应决定是有问题的。我们开发了一个基于两组结果的设计框架：（i）利用研究者的现状随机分配以及先前分配和结果的管理数据来评估研究者绩效的识别策略； (ii) 机制设计结果使我们能够引出调查人员的偏好并有效地分配案件。这种替代机制可以通过设置个性化的非线性速率来实现，每个调查员可以按照该速率交换各种类型的案例。在政策模拟中，我们表明，这种机制将调查人员的误报（被寄养的儿童在家中本来是安全的）数量减少了 10%，同时也减少了误报（留在家中随后受到虐待的儿童）的数量）和总体寄养安置。重要的是，该机制的设计目的是为了避免调查员的情况相对于现状变得更糟。我们表明，忽视研究者偏好异质性的幼稚方法会给研究者带来巨大的福利损失，并对研究者的招募和流动产生潜在的不利影响。]]></description>
-      <guid>https://www.nber.org/papers/w32369#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>内战后美国黑人与白人职业流动性差异的演变——作者：Steven N. Durlauf、Gueyon Kim、Dohyeon Lee、Xi Song</title>
-      <link>https://www.nber.org/papers/w32370#fromrss</link>
-      <description><![CDATA[本文研究了美国黑人和白人代际职业流动性的长期差异。结合历史人口普查和当代大规模调查的数据，我们提供了一套基于马尔可夫链的全面的流动性衡量标准，追踪职业差异的短期和长期动态。我们的研究结果强调了 1940 年至 1950 年出生群体经历的流动性变化对于塑造当前职业分布和缩小种族职业差距的独特重要性。我们进一步探讨了持续的职业不平等的性质，并认为这些差异可以通过缺乏交换流动性而不是结构流动性来更好地理解。因此，根据历史上的职业动态，不能指望当代职业差异会消失。]]></description>
-      <guid>https://www.nber.org/papers/w32370#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>缓慢学习——劳伦斯·克里斯蒂安诺、马丁·S·艾肯鲍姆、本杰明·K·约翰森</title>
-      <link>https://www.nber.org/papers/w32358#fromrss</link>
-      <description><![CDATA[本文研究了经济体的哪些特征决定了学习下的收敛是快还是慢。在我们考虑的所有模型中，人们对模型结果的信念是这些结果的核心决定因素。我们认为，在某些情况下，学习均衡向理性预期均衡的收敛可能非常缓慢，以至于基于理性预期的政策分析非常具有误导性。我们还开发了有关学习模型收敛率的新分析结果。]]></description>
-      <guid>https://www.nber.org/papers/w32358#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的零工工作或报告的变化？了解税务数据中的自营职业趋势 -- 作者：Andrew Garin、Emilie Jackson、Dmitri K. Koustas</title>
-      <link>https://www.nber.org/papers/w32368#fromrss</link>
-      <description><![CDATA[美国税务数据中的自营职业率不断上升，而调查数据中却没有这一点，这导致人们猜测，税务记录反映了调查所遗漏的新“零工”工作的增加。根据国税局的纳税申报表，我们发现公司报告的向“零工”和其他合同工付款的趋势并不能解释向国税局报告的自营职业的增加；相反，这种增长是由 EITC 阶段范围内的个人自我报告收入推动的。我们通过在年底信贷资格截止点附近检查工人第一个孩子的出生情况，将纯粹的报告反应与实际的劳动力供应反应区分开来，这会在劳动力供应决策已经失败后的纳税年度末产生外生税率变化。我们发现，让劳动力供应沉没的工人面临负边际税率会导致他们自我报告自营职业的倾向大幅增加——只有极少数会导致在拐点上聚集。与纯粹的战略报告行为一致，我们发现没有动力报告额外收入的纳税人的报告没有受到影响，也没有对公司报告的任何类型的付款产生影响。此外，我们发现，随着税收优惠知识的普及，这些报告的回应也在不断增加。量化练习表明，纳税人报告行为的变化是自我报告数据和第三方报告数据中自营职业趋势之间差异的主要驱动因素。我们的研究结果表明，在衡量劳动力市场趋势时，在使用自我报告的税收数据而不是其他数据源之前，需要谨慎行事。]]></description>
-      <guid>https://www.nber.org/papers/w32368#fromrss</guid>
-      <pubDate>Mon, 29 Apr 2024 06:17:59 GMT</pubDate>
+      <title>口罩强制成本 -- 作者：Patrick Carlin、Shyam Raman、Kosali I. Simon、Ryan Sullivan、Coady Wing</title>
+      <link>https://www.nber.org/papers/w32349#fromrss</link>
+      <description><![CDATA[本文介绍了一系列与戴口罩行为和观点相关的假设问题的结果，这些问题是在 2022 年初对 4,000 多名具有全国代表性的参与者进行抽样询问的。戴口罩的强制令在公共话语中引起了激烈争论，尽管存在大量研究尽管口罩的好处，但迄今为止还没有关于感知的合规成本分配的研究。正如旨在评估非市场活动对社会的价值的经济研究中常见的那样，我们使用调查评估方法并询问参与者愿意支付多少费用来免除强制社区遮盖规则。该调查特别询问了 3 个月的豁免。我们发现，大多数受访者（56%）不愿意付费来免除强制遮盖。然而，普通人愿意支付 525 美元，一小部分人 (0.9%) 表示他们愿意支付超过 5,000 美元以获得豁免。与年长的受访者相比，年轻的受访者表示更愿意付费以避免强制执行。将我们的结果与统计生命价值的标准衡量标准相结合，我们估计，只有在该政策挽救了至少 13,333 条生命的情况下，通过支付意愿问题才认为 3 个月的屏蔽令具有成本效益。]]></description>
+      <guid>https://www.nber.org/papers/w32349#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 06:18:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
