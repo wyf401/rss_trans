@@ -1,16 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>国家经济研究局工作论文</title>
+    <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 06 May 2024 06:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:14:39 GMT</lastBuildDate>
+    <item>
+      <title>社会科学基因组学：进展、挑战和未来方向 -- 作者：Daniel J. Benjamin、David Cesarini、Patrick Turley、Alexander Strudwick Young</title>
+      <link>https://www.nber.org/papers/w32404#fromrss</link>
+      <description><![CDATA[在确定人类遗传变异与社会和行为表型之间的联系方面取得了快速进展。主流经济学中的应用开始出现。本综述旨在提供必要的背景知识，让感兴趣的经济学家了解社会科学基因组学的前沿。我们的综述围绕一个理论框架展开，该框架嵌套了文献中发现的许多关键方法、概念和工具。我们澄清了关键假设和适当的解释。在回顾了几个重要的应用之后，我们最后概述了遗传学的未来进展，这些进展将扩大潜在应用的范围，并讨论了该研究领域出现的道德和沟通挑战。]]></description>
+      <guid>https://www.nber.org/papers/w32404#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>气候立法绿色悖论的实证检验——作者：Maya A. Norman、Wolfram Schlenker</title>
+      <link>https://www.nber.org/papers/w32405#fromrss</link>
+      <description><![CDATA[绿色悖论认为，化石燃料市场通过降低当前价格将消费转移到当前，以应对气候立法不断变化的预期，从而限制了未来的消费。我们证明，石油期货对预测市场对韦克斯曼-马基法案（2009-2010 年讨论的美国气候法案）将通过的预期的每日变化做出了负面反应。这种效应在不同期限内都是一致的，因为拟议的立法将重置整个价格和消费路径，这与随着时间的推移逐步消失的临时供应或需求冲击不同。该法案的通过将使当前全球石油消费量增加 2-4%。此外，气候政策的加强（以过去四十年媒体关于气候政策的每月关注度变化来衡量）以及两项法院裁决表明未来化石燃料的使用受到限制，都与石油未来的负异常回报相关。总而言之，我们的研究结果证实，限制未来化石燃料的使用将加速当前的消费。]]></description>
+      <guid>https://www.nber.org/papers/w32405#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>一切如常：银行净零承诺、贷款和参与 -- 作者：Parinitha R. Sastry、Emil Verner、David Marques Ibanez</title>
+      <link>https://www.nber.org/papers/w32402#fromrss</link>
+      <description><![CDATA[我们使用欧洲的行政信用登记数据来研究自愿贷款人净零承诺的影响。我们有两组调查结果。首先，我们没有发现贷款人撤资的证据。净零银行既不会减少对其脱碳目标部门的信贷供应，也不会增加对可再生能源项目的融资。其次，我们没有发现任何证据表明通过参与减少了融资排放。净零银行的借款人不太可能设定脱碳目标或减少其核实的排放量。我们的估计甚至排除了中等规模的影响。这些结果凸显了自愿脱碳承诺的局限性。]]></description>
+      <guid>https://www.nber.org/papers/w32402#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>在选定数据中构建非歧视算法 -- 作者：David Arnold、Will S. Dobbie、Peter Hull</title>
+      <link>https://www.nber.org/papers/w32403#fromrss</link>
+      <description><![CDATA[我们开发新的准实验工具来理解算法歧视，并在仅选择性观察感兴趣的结果时构建非歧视算法。这些工具适用于审前保释决定，其中仅使用已获释被告的不当行为结果生成传统算法预测。我们首先表明，当具有相同客观不当行为潜力的白人和黑人被告的可用算法输入存在系统性差异时，在这种情况下就会出现算法歧视。然后，我们展示如何通过测量和消除这些条件输入差异来消除算法歧视。利用纽约市保释法官的准随机分配，我们发现我们的新算法不仅消除了算法歧视，而且还通过纠正不当行为结果的选择性可观察性来生成更准确的预测。]]></description>
+      <guid>https://www.nber.org/papers/w32403#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>移民创业：新估计和研究议程 -- 作者：Saheel A. Chodavadia、Sari Pekkala Kerr、William R. Kerr、Louis J. Maiden</title>
+      <link>https://www.nber.org/papers/w32400#fromrss</link>
+      <description><![CDATA[在许多国家，移民对创业做出了不成比例的贡献，占美国新雇主企业的四分之一。我们回顾了最近关于移民创业衡量、移民创始人的特征、其经济影响和政策杠杆的研究。我们提供有关美国企业家移民比例的最新统计数据。我们利用年度商业调查来量化移民创办的公司的专利申请率和创新率。这种较高的创新倾向只能部分归因于教育水平和研究领域的差异。我们最后提出了未来研究的途径。]]></description>
+      <guid>https://www.nber.org/papers/w32400#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据驱动探索中的路灯效应——作者：Johannes Hoelzemann、Gustavo Manso、Abhishek Nagaraj、Matthew Tranchero</title>
+      <link>https://www.nber.org/papers/w32401#fromrss</link>
+      <description><![CDATA[我们研究科学研究或技术研发等创新环境，代理商必须在许多回报变化且不确定的潜在项目中进行搜索。是否最好拥有有关某些项目价值的不完整但准确的数据，或者在某些情况下最好在空白的石板上进行探索？虽然更多的数据通常会改善福利，但我们提出了一个理论框架来理解它如何意外地降低福利。在我们的路灯效应模型中，我们预测，当数据照亮有吸引力但不是最佳的项目时，它会严重缩小探索的广度并降低个人和团体的回报。我们在在线实验室实验中测试了我们的预测，结果表明，与不提供数据的情况相比，提供有关一个项目真实价值的数据可以使个人收益降低 17%，并将发现最佳结果的可能性降低 54% 。来自遗传学研究的提示性经验证据说明了我们在现实世界中的框架：中等前景的遗传目标的数据平均将有价值的发现延迟 1.6 年。我们的论文首次对路灯效应进行了系统研究，概述了数据导致代理人在灯柱下寻找而不是进行对社会有益的探索的条件。]]></description>
+      <guid>https://www.nber.org/papers/w32401#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>税收抑制企业借贷：来自私营企业的证据 -- 作者：Ivan T. Ivanov、Luke Pettit、Toni Whited</title>
+      <link>https://www.nber.org/papers/w32398#fromrss</link>
+      <description><![CDATA[我们利用州企业所得税税率的变化来重新审视税收与企业杠杆之间的关系。与之前的研究相反，我们发现小型私营企业减税后企业杠杆率上升。估计的动态均衡模型表明，减税可以提高资本生产率并刺激借贷。减税还带来了更遥远的违约门槛和更低的信用利差。这些影响超过了较低的利息税减免，并导致更高的最优杠杆选择，特别是对于投资政策灵活的公司而言。利息税减免的存在提高了消费者的均衡福利。]]></description>
+      <guid>https://www.nber.org/papers/w32398#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>产能投资的可计算动态寡头垄断模型 -- 作者：Gautam Gowrisankaran、Philipp Schmidt-Dengler</title>
+      <link>https://www.nber.org/papers/w32399#fromrss</link>
+      <description><![CDATA[本文分析了动态寡头垄断模型，其中投资是主要的战略利益变量，有大量的投资选择，并且存在私下观察到的对投资边际成本的冲击。我们表明，计算这些模型的模拟方法可能会导致纯策略均衡的不存在。我们提供了一种计算有效的方法来计算最优投资概率，并展示了如何将我们的方法应用于最近的动态实证文献。该方法迭代地找到以正概率和该组选项中私人信息冲击的截止值选择的投资选择。]]></description>
+      <guid>https://www.nber.org/papers/w32399#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧元区激励相容的失业再保险 -- 作者：Alexander Karaivanov、Benoit Mojon、Luiz Pereira da Silva、Albert Pierres Tejada、Robert Townsend</title>
+      <link>https://www.nber.org/papers/w32396#fromrss</link>
+      <description><![CDATA[我们为欧元区成员国的国家失业保险计划建立了再保险机制模型。我们分析的风险分担计划旨在平滑国家层面的失业风险和支出，使其保持在各国的中位数水平附近，从而使参与和缴费始终保持激励相容，并且不存在国家之间的再分配转移。我们表明，相对于现状，如果允许借入高达欧元区 GDP 的 2%，这种计划将为欧元区成员国在 2009 年主权债务危机后的失业支出风险提供近乎完美的保险。限制或不允许该计划借款仍将在 2000 年至 2019 年期间显著平滑国家失业保险计划的盈余和赤字。]]></description>
+      <guid>https://www.nber.org/papers/w32396#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>可再生能源技术的质量信号和需求：来自随机现场实验的证据 -- 作者：Aidan Coville、Joshua S. Graff Zivin、Arndt Reichert、Ann-Kristin Reitmann</title>
+      <link>https://www.nber.org/papers/w32397#fromrss</link>
+      <description><![CDATA[太阳能技术一直与私人和社会回报联系在一起，但由于对高质量产品的需求持续较低，其技术潜力往往仍未实现。在塞内加尔的一项随机现场实验中，我们评估了三种类型的质量信号在增加对高质量太阳能灯的需求方面的潜力。我们发现，当消费者获得退款保证时，需求不会受到影响，但第三方认证或保修的需求会增加，这与消费者不确定产品耐用性而不是其实用性的观念是一致的。然而，尽管支付意愿较高，但他们支付的价格仍远低于普通家庭的市场价格，这表明仅减少信息不对称不足以鼓励更广泛的采用。令人惊讶的是，我们还发现，我们环境中的有效质量信号通过在最不熟悉该产品的人中产生产品级效应来刺激对低质量产品的需求。]]></description>
+      <guid>https://www.nber.org/papers/w32397#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能抹掉犯罪记录的痕迹吗？犯罪记录补救对劳动力市场的影响 -- 作者：Amanda Y. Agan、Andrew Garin、Dmitri K. Koustas、Alexandre Mas、Crystal Yang</title>
+      <link>https://www.nber.org/papers/w32394#fromrss</link>
+      <description><![CDATA[我们调查消除以前获得的犯罪记录是否可以改善就业结果。我们估计了广泛颁布的犯罪记录补救法的因果影响，这些法律的目的是改善数百万有犯罪记录的人的就业机会。我们发现一致的证据表明，平均而言，删除现有记录并不能改善劳动力市场的结果。一个值得注意的例外是通过在线平台参与零工工作，该平台通常根据工人的记录而不是他们的就业历史来筛选工人。这些证据与最初给劳动力市场轨迹造成的创伤的记录是一致的，而这种创伤后来很难消除。]]></description>
+      <guid>https://www.nber.org/papers/w32394#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>获得信贷会降低保险价值——作者：Sonia Jaffe、Anup Malani、Julian Reif</title>
+      <link>https://www.nber.org/papers/w32395#fromrss</link>
+      <description><![CDATA[当个人进入信贷市场时，我们分析保险的价值。贷款使消费者能够随着时间的推移缓解金融冲击，从而降低保险平滑消费的价值。我们推导出可用于数据的保险价值公式，并展示该价值如何取决于个人特征和贷款特征。我们估计，获得五年期贷款会使平均受益人的社区和经验评级保险价值降低 232-366 美元（58--61%）。即使对于病情最严重的十分之一来说，这种贷款机会也会使社区评级保险的价值减少 1,099 美元 (17%)。]]></description>
+      <guid>https://www.nber.org/papers/w32395#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>或有贸易协定——巴德·哈斯塔 (Bård Harstad)</title>
+      <link>https://www.nber.org/papers/w32392#fromrss</link>
+      <description><![CDATA[贸易支持者和环保活动人士之间经常发生冲突。然而，本文展示了如何设计贸易协定以促进环境保护。我首先分析了一个标准贸易模型，其中资源开发（例如砍伐森林）是一种会造成环境破坏的特定贸易投资。在这种模式下，传统的贸易协定将造成更多的剥削。接下来，我研究了或有贸易协定（CTA）可以在多大程度上促进保护，其中默认关税可能会随着资源存量（例如森林覆盖率）的变化而变化。该模型允许许多产品、国家和合作者。一个数字例子表明，增长和自由化可以使巴西的农业面积扩大27%，但如果欧盟和美国提供CTA，这种扩大是可以避免的。]]></description>
+      <guid>https://www.nber.org/papers/w32392#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>展期危机下的国际储备管理——Mauricio Barbosa-Alves、Javier Bianchi、César Sosa-Padilla</title>
+      <link>https://www.nber.org/papers/w32393#fromrss</link>
+      <description><![CDATA[本文开发了一个框架来研究政府面临展期危机风险时的国际储备管理。在该模型中，政府最好通过首先降低债务，然后在接近安全区时增加债务和储备来降低其脆弱性。此外，我们发现发行额外债务以积累储备可以导致主权利差缩小。]]></description>
+      <guid>https://www.nber.org/papers/w32393#fromrss</guid>
+      <pubDate>Mon, 06 May 2024 15:14:33 GMT</pubDate>
+    </item>
     <item>
       <title>口罩强制成本 -- 作者：Patrick Carlin、Shyam Raman、Kosali I. Simon、Ryan Sullivan、Coady Wing</title>
       <link>https://www.nber.org/papers/w32349#fromrss</link>
       <description><![CDATA[本文介绍了一系列与戴口罩行为和观点相关的假设问题的结果，这些问题是在 2022 年初对 4,000 多名具有全国代表性的参与者进行抽样询问的。戴口罩的强制令在公共话语中引起了激烈争论，尽管存在大量研究尽管口罩的好处，但迄今为止还没有关于感知的合规成本分配的研究。正如旨在评估非市场活动对社会的价值的经济研究中常见的那样，我们使用调查评估方法并询问参与者愿意支付多少费用来免除强制社区遮盖规则。该调查特别询问了 3 个月的豁免。我们发现，大多数受访者（56%）不愿意付费来免除强制遮盖。然而，普通人愿意支付 525 美元，一小部分人 (0.9%) 表示他们愿意支付超过 5,000 美元以获得豁免。与年长的受访者相比，年轻的受访者表示更愿意付费以避免强制执行。将我们的结果与统计生命价值的标准衡量标准相结合，我们估计，只有在该政策挽救了至少 13,333 条生命的情况下，通过支付意愿问题才认为 3 个月的屏蔽令具有成本效益。]]></description>
       <guid>https://www.nber.org/papers/w32349#fromrss</guid>
-      <pubDate>Mon, 06 May 2024 06:18:21 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 15:14:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
