@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>cs.CL 在 arXiv.org 上更新</title>
+    <title>arXiv.org 上的 cs.CL 更新</title>
     <link>http://rss.arxiv.org/rss/cs.CL</link>
-    <description>cs.CL 在 arXiv.org 电子打印档案上更新。</description>
-    <lastBuildDate>Sat, 18 May 2024 04:00:00 GMT</lastBuildDate>
+    <description>cs.CL 在 arXiv.org 电子打印档案上进行更新。</description>
+    <lastBuildDate>Sun, 19 May 2024 04:00:00 GMT</lastBuildDate>
     </channel>
 </rss>
