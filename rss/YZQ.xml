@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>国家经济研究局工作论文</title>
+    <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 27 May 2024 06:19:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:19:16 GMT</lastBuildDate>
     <item>
-      <title>人们对通货膨胀的理解——作者：Alberto Binetti、Francesco Nuzzi、Stefanie Stantcheva</title>
-      <link>https://www.nber.org/papers/w32497#fromrss</link>
-      <description><![CDATA[本文研究了人们对通货膨胀的理解——他们认为的原因、后果、权衡——以及为减轻其影响而支持的政策。我们根据丰富的现有经济学文献设计了一项新的、详细的在线调查，其中包括两个实验部分——联合实验和信息实验——以检验公众观点与既定经济理论的吻合程度。我们的主要发现表明，通胀的主要原因包括政府行为，例如增加对外援助和战争相关支出，以及最近发生的 COVID-19 大流行、油价波动和供应链中断等事件导致的生产成本上升。受访者预计通货膨胀会带来许多负面后果，但最引人注目的是家庭决策的复杂性和难度增加。党派分歧明显显现，共和党人更有可能将通货膨胀归因于政府政策并预见到更广泛的负面结果，而民主党人则预计不平等效应会更大。通货膨胀被认为是一种明确的负面现象，没有任何潜在的积极经济关联。值得注意的是，人们普遍认为，无需做出重大权衡（例如减少经济活动或增加失业率）即可控制通胀。这些观念很难通过实验来改变。在政策反应方面，货币紧缩存在阻力，这与人们认为缺乏权衡以及没有必要减少经济活动来对抗通胀的信念相一致。人们普遍错误地认为利率上升导致通胀上升，甚至导致支持降息以降低通胀。人们明显倾向于那些被认为具有其他好处的政策，例如以渐进方式减少政府债务或增加公司税，以及支持弱势家庭，尽管存在潜在的通货膨胀影响。]]></description>
-      <guid>https://www.nber.org/papers/w32497#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:46 GMT</pubDate>
+      <title>社区银行数量的下降是否会对社区经济发展产生不利影响？——Bernadette Minton、Alvaro G. Taboada、Rohan Williamson</title>
+      <link>https://www.nber.org/papers/w32521#fromrss</link>
+      <description><![CDATA[我们的研究考察了社区银行数量减少对社区投资和经济发展的影响。首先，我们确认了社区银行的小企业贷款在当地发展中的重要作用。与普遍看法相反，我们发现社区银行数量的减少对社区投资有积极影响，通过发放小企业贷款 (SBL)。关键因素包括其他社区银行的本地存在以及合并银行存在的连续性。有趣的是，这种影响在服务不足或陷入困境的县保持中性，当一家大型银行收购一家社区银行而不维持当地存在时，这种影响会减弱。合并后，社区银行变得更大、更强大，能够发行更大的 SBL，而大型银行和金融科技公司则通过提供较小的 SBL 做出贡献。总体而言，我们的研究结果强化了社区银行对当地发展的关键贡献，表明社区银行数量的减少将导致小企业贷款领域银行基础设施更强大、更稳定。]]></description>
+      <guid>https://www.nber.org/papers/w32521#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:15 GMT</pubDate>
     </item>
     <item>
-      <title>公司投资的分位数模型 -- 作者：Heitor Almeida、Murillo Campello、Luciano I. de Castro、Antonio F. Galvao Jr</title>
-      <link>https://www.nber.org/papers/w32498#fromrss</link>
-      <description><![CDATA[我们开发了不确定性下企业投资的动态模型，该模型使用分位数偏好来捕获企业的风险态度。公司最大化其现值，定义为当前利润和投资加上下期价值 τ 分位数的贴现值。在我们的框架中，τ ε (0, 1) 参数化了公司对下行风险的态度。该模型意味着公司的投资政策将资本的边际成本与未来边际利润贴现现值的τ分位数等同起来——投资直接取决于公司的风险态度。我们进一步将我们的模型整合到投资的“q 理论”中。数值解显示了 τ 分位数的异质性如何影响公司价值和投资决策。分位数投资模型的实证估计表明，投资与托宾 q 之间的关系强度随着下行风险厌恶程度的降低而增强。对企业风险态度的估计揭示了高水平的下行风险厌恶情绪。]]></description>
-      <guid>https://www.nber.org/papers/w32498#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:46 GMT</pubDate>
+      <title>汇率作为一种产业政策--作者：Pablo Ottonello、Diego J. Perez、William Witheridge</title>
+      <link>https://www.nber.org/papers/w32522#fromrss</link>
+      <description><![CDATA[我们研究汇率在产业政策中的作用。我们构建了一个具有生产外部性的开放经济宏观经济框架，并表明这些政策的可取性主要取决于外部性的动态模式。当它们在早期发展阶段更强大时，向技术前沿靠拢的经济体可以通过干预外汇市场、保持汇率低估和加速转型来改善福利；而没有向技术前沿靠拢的经济体最好不要将汇率用作产业政策工具。资本流动流动性和劳动力市场活力在这些政策的有效性中发挥着核心作用。我们还讨论了资本管制作为产业政策工具的作用，并使用我们的框架来解释历史经验。]]></description>
+      <guid>https://www.nber.org/papers/w32522#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:15 GMT</pubDate>
     </item>
     <item>
-      <title>贴现因素和货币政策：来自双重上市股票的证据 -- 作者：Quentin Vandeweyer、Minghao Yang、Constantine Yannelis</title>
-      <link>https://www.nber.org/papers/w32499#fromrss</link>
-      <description><![CDATA[本文研究了货币政策通过投资者贴现因素向股市传导的情况。为了隔离这个渠道，我们研究了美国货币政策意外对在香港和中国内地同时上市的同一股票价格比率的影响，从而控制现金流预期的修正。我们发现这个渠道强大且不对称，其效应是由货币政策意外降息驱动的。意外降息 100 个基点会导致 5 天内股价比率上涨 30 个基点。这些结果表明，在宽松的货币政策意外出台后，股市风险溢价显着缓慢下降。]]></description>
-      <guid>https://www.nber.org/papers/w32499#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:46 GMT</pubDate>
+      <title>边际消费倾向中的潜在异质性——丹尼尔·刘易斯 (Daniel Lewis)、达维德·梅尔坎吉 (Davide Melcangi)、劳拉·皮洛索夫 (Laura Pilossoph)</title>
+      <link>https://www.nber.org/papers/w32523#fromrss</link>
+      <description><![CDATA[我们使用应用于 2008 年经济刺激支付的聚类回归估计了边际消费倾向 (MPC) 的无条件分布。通过偏离使用与可观察变量的相互作用估计 MPC 异质性的标准方法，我们可以恢复 MPC 的完整分布。我们发现家庭在一个季度内花费了 4% 到 133% 的回扣，并且各个家庭将回扣用于不同的商品。虽然许多可观察的特征与我们估计的 MPC 单独相关，但这些关系在联合测试时消失，收入和平均消费倾向除外。家庭可观察特征仅解释 8% 的 MPC 变化，突出了潜在异质性的作用。]]></description>
+      <guid>https://www.nber.org/papers/w32523#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:15 GMT</pubDate>
     </item>
     <item>
-      <title>局部投影的双重鲁棒性和一些令人不快的变异——作者：José Luis Montiel Olea、Mikkel Plagborg-Møller、Eric Qi、Christian K. Wolf</title>
-      <link>https://www.nber.org/papers/w32495#fromrss</link>
-      <description><![CDATA[我们考虑局部错误指定的平稳向量自回归 (VAR) 模型中的脉冲响应推断。即使错误指定很大以至于可以以接近 1 的概率检测到，传统的局部投影 (LP) 置信区间也具有正确的覆盖范围。这源于类似于现代部分线性回归估计器的“双鲁棒性”属性。相比之下，VAR 置信区间即使在错误指定如此之小以至于难以在统计上检测到并且不能根据经济理论排除的情况下也能显着隐藏。这是因为 VAR 的结果是“没有免费的午餐”：当且仅当方差接近 LP 时，最坏情况的偏差和覆盖范围失真很小。虽然可以通过使用偏差感知临界值或大滞后长度来恢复 VAR 覆盖范围，但所得置信区间往往至少与 LP 区间一样宽。]]></description>
-      <guid>https://www.nber.org/papers/w32495#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:45 GMT</pubDate>
+      <title>金融市场的小数定律：理论与证据—— Lawrence J. Jin、Cameron Peng 著</title>
+      <link>https://www.nber.org/papers/w32519#fromrss</link>
+      <description><![CDATA[我们建立了一个小数定律 (LSN) 模型（即错误地认为即使是小样本也能代表潜在总体的属性），以研究其对交易行为和资产价格的影响。在我们的模型中，对 LSN 的信念会诱使投资者预期短期价格趋势会恢复，长期价格趋势会持续。结果，资产价格表现出短期动量和长期逆转。该模型可以调和处置效应和回报外推的共存。此外，它对投资者行为做出了新的预测，包括购买和销售前的回报模式、长期持有的处置效应减弱、购买加倍、加倍与处置效应之间的正相关性以及与过去回报不同的出售倾向。通过使用账户级交易数据测试这些预测，我们表明 LSN 提供了一种理解各种投资者行为难题的简约方法。]]></description>
+      <guid>https://www.nber.org/papers/w32519#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:14 GMT</pubDate>
     </item>
     <item>
-      <title>种族隔离阴影下的学校平等：1940 年左右密西西比州资源不平等的原因和后果 -- 作者：David Card、Leah Clark、Ciprian Domnisoru、Lowell Taylor</title>
-      <link>https://www.nber.org/papers/w32496#fromrss</link>
-      <description><![CDATA[1920 年密西西比州制定的学校财政均衡计划未能帮助该州的许多黑人学生 — — 这种结果在种族隔离的美国南部很常见（Horace Mann Bond，1934 年）。在黑人占多数的学区，当地决策者在从国家现有的人均基金中分配资金时压倒性地支持白人学校，由此导致的对白人学生的高额支出使这些学区没有资格享受均等计划。因此，虽然居住在白人占多数地区的黑人学生受益于黑人学校支出和标准的增加，但黑人占多数地区的黑人学生的学校资金仍然极低，甚至不断恶化。我们对导致黑人学生学校教育资源不平等的所谓平等政策的过程进行了建模，并使用邻近县设计和 IV 策略来估计对黑人儿童的影响。我们发现，正如 1940 年人口普查所报告的那样，当地教育支出对黑人入学率有很大影响，边际支出随着黑人教育程度的提高而增加。最后，我们将 1940 年和 2000 年的人口普查联系起来，表明接受较高水平学校支出的黑人儿童的学业完成率明显更高，晚年收入也更高。]]></description>
-      <guid>https://www.nber.org/papers/w32496#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:45 GMT</pubDate>
+      <title>烟草 21 法对吸烟和电子烟的影响：来自小组数据和生物标志物的证据——作者：Chad D. Cotti、Philip DeCicca、Erik T. Nesson</title>
+      <link>https://www.nber.org/papers/w32520#fromrss</link>
+      <description><![CDATA[我们使用来自烟草使用和健康人口评估 (PATH) 的数据，这是一个包括烟草使用自述和生物标志物测量的纵向数据集，以研究州级烟草 21 (T21) 法律对吸烟和吸电子烟的影响。T21 法律减少了 18 至 20 岁人群中自述的吸烟情况，主要集中在男性。最初未使用烟草的人“年龄过大”后，不太可能开始自述吸烟或吸电子烟。接受治疗的吸烟者不太可能自己购买香烟，更有可能在其他州购买香烟。生物标志物结果好坏参半，我们发现一些证据表明尼古丁暴露量有所减少，但烟草暴露量减少的证据较少。最后，我们测试非经典测量误差。T21 法律降低了临床上确定的可能吸烟者自述为吸烟者的概率，这可能会增加 T21 法律对自述吸烟的明显影响。]]></description>
+      <guid>https://www.nber.org/papers/w32520#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:14 GMT</pubDate>
     </item>
     <item>
-      <title>不完全竞争匹配的经验框架——作者：Mons Chan、Kory Kroft、Elena Mattana、Ismael Mourifié</title>
-      <link>https://www.nber.org/papers/w32493#fromrss</link>
-      <description><![CDATA[本文建立、识别和估计了一个劳动力市场模型，该模型以工资设定和双边异质性的战略相互作用为特征，以揭示工资不平等的根源。我们提供了模型平衡的易于处理的表征，并证明了其存在性和唯一性。这种均衡的特征使我们能够得出一组丰富的比较静态数据，并衡量工人技能、对便利设施的偏好以及战略互动对均衡工资不平等的相对贡献。使用工具变量，我们确定了劳动力需求和供给参数，并使用来自丹麦的匹配雇主-雇员数据对其进行估计。使用我们估计的结构模型，我们进行了一系列反事实分析，以便对丹麦工资不平等的主要根源进行定量评估。]]></description>
-      <guid>https://www.nber.org/papers/w32493#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:44 GMT</pubDate>
+      <title>非恒定需求弹性、企业动态和货币非中性：需求冲击的作用——作者：S. Borağan Aruoba、Eugene Oue、Felipe Saffie、Jonathan Willis</title>
+      <link>https://www.nber.org/papers/w32518#fromrss</link>
+      <description><![CDATA[我们开发了一个简单的菜单成本模型，该模型具有非恒定需求弹性，具有特殊的生产力和需求冲击。该模型经过校准，以匹配根据美国数据估计的企业级生产力和需求过程。尽管简单，但校准后的模型提供了与美国微观数据一致的非目标定价动态和加价分布。此外，它还产生了相当大的货币非中性，可与明确针对定价动态的更复杂的替代菜单成本模型相媲美。协调公司和定价动态的关键在于非恒定需求弹性与特殊需求冲击之间的相互作用。因此，该框架毫不费力地统一了定价、加价和公司动态。]]></description>
+      <guid>https://www.nber.org/papers/w32518#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>名义贬值、通货膨胀和不平等——作者：Andrés Blanco、Andrés Drenik、Emilio Zaratiegui</title>
-      <link>https://www.nber.org/papers/w32494#fromrss</link>
-      <description><![CDATA[我们研究大幅贬值期间的劳动收入分配。在通货膨胀飙升以及实际劳动收入下降和随后复苏的背景下，货币大幅贬值后，各国的不平等现象有所下降。为了更好地了解不平等动态，我们使用了涵盖 2002 年阿根廷货币贬值的新颖行政数据集。我们发现，在所有工人的实际劳动收入同质下降之后，收入分配底部的恢复速度快于顶部。高收入工人的劳动力流动性低和缺乏工会覆盖率是其复苏缓慢的原因。]]></description>
-      <guid>https://www.nber.org/papers/w32494#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:44 GMT</pubDate>
+      <title>利用决策时间理解专家选择——David Card、Stefano DellaVigna、Chenxi Jiang、Dmitry Taubinsky 著</title>
+      <link>https://www.nber.org/papers/w32515#fromrss</link>
+      <description><![CDATA[实验室实验发现决策时间和备选方案的感知价值之间存在着密切的关系。本文研究了这些发现如何转化为专家在该领域的决策和信息获取。在专家在两种备选方案之间做出选择的程式化模型中，我们表明：(i) 不常选择的备选方案更有可能在较晚的时候被选择；(ii) 当选择每种备选方案的可能性接近 50% 时，决策时间会更长；(iii) 所选备选方案的最终质量可能会随着决策时间的增加或减少，这取决于较早或较晚的信号是否更具信息性。我们在编辑环境中测试了这些预测，我们观察了论文质量的代理和编辑可用的信号。我们记录了：(i) 积极决策的概率随着决策时间的增加而增加；(ii) 当我们估计的积极决策概率接近 50% 时，平均决策时间会更长；(iii) 对于具有拒绝 (R&amp;R) 决策的论文，论文质量与决策时间呈正（负）相关。结构估计表明，编辑延迟所获得的额外信息很少，对决策质量影响不大。]]></description>
+      <guid>https://www.nber.org/papers/w32515#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:12 GMT</pubDate>
     </item>
     <item>
-      <title>生命周期中的回报异质性和消费不平等——作者：Claudio Daminato、Luigi Pistaferri</title>
-      <link>https://www.nber.org/papers/w32490#fromrss</link>
-      <description><![CDATA[最近的一篇文献认为，财富回报的持续异质性（“类型依赖”）以及与财富水平的正相关（“规模依赖”）对于解释财富分布的特征，特别是其极端集中于顶层的特征发挥着重要作用。相比之下，传统的财富积累模型强调劳动力收入持续差异的作用。使用 PSID 的面板数据，我们首先记录了一个常见的未观察到的成分（我们将其解释为个人的认知和非认知技能的禀赋）推动了财富回报和劳动收入的持续异质性。我们将联合财富回报-收益过程的这些特征嵌入到消费者行为的生命周期模型中，并表明忽略它们将大大低估财富分配顶层人群的平均回报以及消费不平等的水平和加剧整个生命周期。]]></description>
-      <guid>https://www.nber.org/papers/w32490#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:43 GMT</pubDate>
+      <title>宽带互联网接入、经济增长和福祉——凯瑟琳·R·约翰逊、克劳迪娅·佩尔西科</title>
+      <link>https://www.nber.org/papers/w32517#fromrss</link>
+      <description><![CDATA[2000 年至 2008 年间，美国的高速宽带互联网接入量大幅增长，但对于高速互联网接入是改善还是损害福祉，人们仍存在争议。我们发现，县内宽带互联网接入率每增加 10%，县内自杀率就会下降 1.01%，同时自我报告的心理和身体健康状况也会得到改善。我们进一步发现，自杀死亡人数的减少可能是由于宽带互联网接入县的经济改善。宽带互联网接入量增加的县贫困率和失业率会下降。此外，获得宽带互联网接入的邮政编码地区的员工和机构数量会增加。此外，异质性分析表明，积极影响集中在工作年龄人口中，即 25 至 64 岁之间的人群。这种模式正是将经济状况与自杀风险联系起来的文献所预测的。]]></description>
+      <guid>https://www.nber.org/papers/w32517#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:12 GMT</pubDate>
     </item>
     <item>
-      <title>保持外表：相对排名信号的实验研究 -- 作者：Pascaline Dupas、Marcel Fafchamps、Laura Hernandez-Nunez</title>
-      <link>https://www.nber.org/papers/w32491#fromrss</link>
-      <description><![CDATA[我们通过一系列小插图和对科特迪瓦阿比让 2,000 多人进行的现场实验室实验，调查了相对排名考虑因素的潜在福利成本。我们表明：（1）被认为地位较低的个人更有可能在生活的许多方面被排除在有益的机会之外； （2）作为回应，个人扭曲自己的外表和消费选择，以显得更高的地位。这些影响是强大的并且具有显着的经济意义。正如一个简单的信号模型所预测的那样，对于社会经济地位较低（但不是太低）的个人来说，扭曲更大。]]></description>
-      <guid>https://www.nber.org/papers/w32491#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:43 GMT</pubDate>
+      <title>信任、无形资产和生产力 -- 作者：Gilbert Cet、Jimmy Lopez、Jacques Mairesse、Giuseppe Nicoletti</title>
+      <link>https://www.nber.org/papers/w32513#fromrss</link>
+      <description><![CDATA[知识密集型行业通常以信息流和自主任务为主导的商业环境，可能需要足够的社会资本才能生存和富有成效。在本文中，我们使用新的 EUKLEMS-INTANProd 行业级数据（Bontadini 等人，2023a），涵盖 1995 年至 2018 年期间的 19 个国家和 20 个行业的面板数据，以调查社会资本的一个关键要素——信任——对无形密集型行业劳动生产率的影响，控制可能限制管理者实施最佳实践的能力的招聘和解雇规定。我们发现，在这样的行业中，高信任度带来的生产率收益比其他行业更强，而过于严格的招聘和解雇规定对生产率的损害更大。使用一个更有限的样本，其中有管理质量数据，我们表明，高信任度对无形密集型行业生产率的积极影响是通过从良好管理中受益的能力来引导的，这是组织资本的一个关键要素。据估计，在知识丰富的环境中，相对较高的信任度所带来的生产率收益是相当可观的，并且我们的估计值通过了一系列稳健性检验。]]></description>
+      <guid>https://www.nber.org/papers/w32513#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>不平等对再分配的影响：计量经济学分析 -- 作者：Michael J. Boskin、Kareem Elnahal、Adam Zhang</title>
-      <link>https://www.nber.org/papers/w32492#fromrss</link>
-      <description><![CDATA[使用四分之一个世纪以来美国州和联邦税收和转移支付的数据，我们估计了一个回归模型，该模型可以得出市场收入份额从一个五分位到另一个五分位的任何转变对整个税后、转移后收入分配的边际效应。我们使用基于国际贸易冲击、国际大宗商品价格冲击和国内工业需求冲击以及滞后内生变量的工具来识别外生收入分配变化并解释反向因果关系，并控制收入水平、经济周期和收入水平。人口统计。我们发现，市场收入变化的衰减程度最初在五分位数排名中增加，在中间五分位数达到峰值，然后在收入较高的五分位数中下降，这与中位选民政治经济学理论和斯蒂格勒所说的董事定律一致。我们还提供了证据，证明在“实验”中对五分之一的人既没有获得也没有损失产生了相当大的系统性溢出效应，这也有利于中间的五分之一，我们将其称为贪婪的中间选民。提出了“投票”和“收入保险”的联合分析。我们发现平均实际收入和再分配之间存在很强的负相关关系，而两年主导的不平等影响不大。]]></description>
-      <guid>https://www.nber.org/papers/w32492#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:43 GMT</pubDate>
+      <title>医用大麻的可用性和心理健康：来自纽约医用大麻项目的证据——作者：Coleman Drake、Dylan Nagy、Matthew D. Eisenberg、David Slusky</title>
+      <link>https://www.nber.org/papers/w32514#fromrss</link>
+      <description><![CDATA[尽管美国大麻使用量迅速增加，心理健康危机持续存在，但大麻合法化对心理健康影响的证据仍然很少。我们使用精细的地理数据，估计 2011 年至 2021 年纽约州医用大麻药房供应对自我报告心理健康的影响，并采用两阶段差异法来尽量减少因药房分阶段开放而引入的偏差。我们的研究结果排除了医用大麻供应对成年人口整体心理健康产生负面影响的可能性。我们还发现，在 65 岁及以上的成年人中，医用大麻供应使过去一个月自我报告的心理健康状况不佳的天数减少了近 10%（3.37 个百分点）。这些结果表明，医用大麻的供应对老年人口的健康有积极影响，可能是通过缓解疼痛。]]></description>
+      <guid>https://www.nber.org/papers/w32514#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>家庭通胀预期：货币政策近期见解概述——作者：Francesco D’Acunto、Evangelos Charalambakis、Dimitris Georgarakos、Geoff Kenny、Justus Meyer、Michael Weber</title>
-      <link>https://www.nber.org/papers/w32488#fromrss</link>
-      <description><![CDATA[本文讨论了最近的一波研究，这些研究强调了消费者通胀预期指标的重要性。与专家或金融市场参与者等其他预期通胀指标相比，消费者的通胀预期反映了社会对通胀信念的更广泛分布。这项研究揭示了消费者期望形成的合理性与传统假设的显着偏差。然而，家庭确实会根据他们对通货膨胀的信念采取行动，尽管其方式可能与传统经济模型的预测不同。最近欧元区的经验凸显了跟踪消费者通胀预期锚定程度的重要性，同时考虑消费者通胀预期固有的复杂性、异质性和主观性。平均而言，消费者的中长期预期与央行目标水平存在明显偏差，并且与专家预期相反，消费者的中长期预期往往与短期通胀消息更加密切地同步变化。通过加强与更广泛公众的接触，央行或许能够通过建立更多的知识和信任来影响预期，从而支持更有效的货币传导。沟通工作需要持续进行，因为央行必须与许多其他对消费者注意力的需求进行竞争。]]></description>
-      <guid>https://www.nber.org/papers/w32488#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:42 GMT</pubDate>
+      <title>生命周期力量使货币政策传导以财富为中心——Paul Beaudry、Paolo Cavallino、Tim Willems</title>
+      <link>https://www.nber.org/papers/w32511#fromrss</link>
+      <description><![CDATA[本文将生命周期特征添加到新凯恩斯主义模型中，并展示了如何将金融财富置于消费/储蓄决策的中心，从而丰富总需求的决定因素并影响货币政策的传导。随着人们对退休的关注度增强，传统货币政策的效力下降，更多地取决于资产价格的反应（支持中央银行密切监测货币政策对资产价格的影响）。特别是“长期低/高”政策往往对经济活动的影响不大，因为抵消了利率的收入和替代效应，而量化宽松政策可能会加剧这种影响。我们还展示了为什么生命周期力量的存在可以有利于货币政策战略，该战略可以稳定资产价格以应对金融冲击。因此，明确退休储蓄在总需求中的作用为货币干预的几个方面提供了新的视角。]]></description>
+      <guid>https://www.nber.org/papers/w32511#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:10 GMT</pubDate>
     </item>
     <item>
-      <title>与美国相比，解释印尼人口的不良胆固醇水平和独特的性别模式——作者：Ralph I. Lawton、Elizabeth Frankenberg、Teresa Seeman、Arun S. Karlamangla、Cecep Sumantri、Duncan Thomas</title>
-      <link>https://www.nber.org/papers/w32489#fromrss</link>
-      <description><![CDATA[为了揭示低收入地区心血管疾病风险急剧上升的生物和社会驱动因素，我们将印度尼西亚亚齐省的这些风险与身体成分、行为和社会经济因素之间的联系与美国进行了对比。我们专注于对成人高密度脂蛋白和非高密度脂蛋白胆固醇进行严格验证的测量。尽管印度尼西亚人更年轻且体重指数较低，但与美国人相比，印度尼西亚人的胆固醇生物标志物较差。调整年龄后，这些差距会更大。影响胆固醇的身体成分、行为、人口和社会经济特征并不能解释国家之间的 HDL 差异，但在考虑药物使用后确实可以解释非 HDL 差异。平均而言，两国之间的性别差异不一致，并且在控制观察到的特征后仍然存在。利用印度尼西亚丰富的数据对同一家庭中的男性和女性进行比较，印度尼西亚人之间的性别差距不能用高密度脂蛋白胆固醇来解释，但对非高密度脂蛋白胆固醇来说却大大减弱。这一发现表明，未测量的家庭资源在决定非高密度脂蛋白胆固醇方面发挥着重要作用。更一般地说，它们似乎以复杂的方式受到社会和生物力量的影响，这些影响方式因国家而异，并且对于 HDL 和非 HDL 生物标志物的作用可能也不同。]]></description>
-      <guid>https://www.nber.org/papers/w32489#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:42 GMT</pubDate>
+      <title>什么是新闻价值？理论与证据——作者：Luis Armona、Matthew Gentzkow、Emir Kamenica、Jesse M. Shapiro</title>
+      <link>https://www.nber.org/papers/w32512#fromrss</link>
+      <description><![CDATA[我们从理论和实践两个方面研究新闻价值。我们关注新闻媒体观察到世界状况的实现，并必须决定是否向消费者报告这一实现，而消费者需要支付机会成本才能阅读该报道。在适当的评分规则中，消费者最优报告概率是单调的，该规则是相对于消费者先前的“新闻”数量的统计度量。我们表明，从统计文献中得出的特定评分规则可以简洁地捕捉美国电视新闻多个领域的报告概率的关键模式。我们认为，在研究人员希望测试新闻报道中的偏见的情况下，评分规则可以作为一个有用的控制变量。控制分数可以大大减少我们应用中偏见的出现。]]></description>
+      <guid>https://www.nber.org/papers/w32512#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:10 GMT</pubDate>
     </item>
     <item>
-      <title>职业许可会减少经济衰退期间的失业吗？ ——彼得·Q·布莱尔、鲍比·W·钟</title>
-      <link>https://www.nber.org/papers/w32486#fromrss</link>
-      <description><![CDATA[由于职业许可法是不对称的，有执照的工人可以在经济衰退期间免受失业之苦，这使得无执照的工人成为有执照的工人的非法替代品，但反之则不然。我们使用双重差分事件研究设计来检验我们的假设，该研究设计利用许可法律的跨州差异来比较 COVID-19 经济衰退和大衰退前后有执照和无执照工人之间的失业率。在控制工人能力的情况下，我们发现许可证可以保护工人免受经济衰退导致的失业率上升 0.82 个百分点的影响。在 COVID-19 期间和 1.11 p.p.大衰退期间。]]></description>
-      <guid>https://www.nber.org/papers/w32486#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:41 GMT</pubDate>
+      <title>顺周期股票获得更高回报 - William N. Goetzmann、Akiko Watanabe、Masahiro Watanabe</title>
+      <link>https://www.nber.org/papers/w32509#fromrss</link>
+      <description><![CDATA[我们发现，顺周期股票的平均回报率高于逆周期股票，顺周期股票的回报率与商业周期同步。我们使用经济学家调查中近 75 年的实际 GDP 增长预期来确定预测的经济状况。这种方法在很大程度上避免了计量经济学预测模型误差的混杂效应。预期实际 GDP 增长率的负荷是一种定价风险指标。在此负荷上形成的完全可交易的事前投资组合会产生顺周期溢价，这种溢价在统计上显著、在经济上巨大、持续数年，并且与规模、账面市值比和动量效应无关。]]></description>
+      <guid>https://www.nber.org/papers/w32509#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能的简单宏观经济学——作者：Daron Acemoglu</title>
-      <link>https://www.nber.org/papers/w32487#fromrss</link>
-      <description><![CDATA[本文评估了人工智能新进展对宏观经济影响的说法。它从基于任务的人工智能效果模型开始，通过自动化和任务互补性发挥作用。只要人工智能的微观经济效应是由任务层面的成本节约/生产率提高所驱动的，它的宏观经济后果将由胡尔滕定理的一个版本给出：GDP和总生产率的提高可以通过受影响的任务比例和平均任务来估计级成本节约。根据对人工智能的使用和任务层面的生产率提高的现有估计，这些宏观经济影响看似微不足道，但也很温和——10 年来全要素生产率 (TFP) 的增幅不超过 0.66%。该论文随后认为，即使这些估计也可能被夸大，因为早期的证据来自易于学习的任务，而未来的一些影响将来自难以学习的任务，其中有许多与环境相关的因素影响决策- 没有制定客观的结果衡量标准来学习成功的绩效。因此，未来 10 年的 TFP 增长预测更加温和，预计低于 0.53%。我还探讨了人工智能对工资和不平等的影响。我从理论上证明，即使人工智能提高了低技能工人在某些任务中的生产力（而不为他们创造新任务），这也可能会增加而不是减少不平等。根据经验，我发现人工智能的进步不太可能像以前的自动化技术那样加剧不平等，因为它们的影响在人口群体中分布更均匀，但也没有证据表明人工智能会减少劳动收入不平等。相反，人工智能预计将扩大资本和劳动力收入之间的差距。最后，人工智能创建的一些新任务可能具有负面社会价值（例如在线操纵的算法设计），我讨论了如何纳入可能具有负面社会价值的新任务的宏观经济影响。]]></description>
-      <guid>https://www.nber.org/papers/w32487#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:41 GMT</pubDate>
+      <title>技术能否促进规模化？高剂量辅导随机评估的证据——作者：Monica P. Bhatt、Jonathan Guryan、Salman A. Khan、Michael LaForest-Tucker、Bhavya Mishra</title>
+      <link>https://www.nber.org/papers/w32510#fromrss</link>
+      <description><![CDATA[高剂量辅导是提高学生学习能力的有效方法（Nickow 等人，2024；Guryan 等人，2023）。寻找大规模提供高剂量辅导的方法仍然是一项挑战。扩大规模的两个主要挑战是成本和人员配备。一种可能的解决方案是用计算机辅助学习 (CAL) 技术替代一些辅导时间来降低成本。问题是：这样做会损害有效性吗？本文提供了 2018-19 年和 2019-20 年两个大型学区 4,000 多名学生的随机对照试验 (RCT) 的证据。RCT 测试了校内数学辅导计划的有效性，该计划将学生分成四人一组，两名学生与一名现场辅导老师一起工作，而另外两名学生则负责 CAL，每隔一天交替进行。辅导模式的人均学生成本比 Guryan 等人 (2023) 研究的 2 对 1 辅导模式低约 30%。我们发现，参与的学生的数学标准化考试成绩提高了 0.23 个标准差，这几乎与 Guryan 等人 (2023) 报告的 2 对 1 辅导模式的效果大小一样大。这些发现表明，战略性地使用技术可能是提高 HDT 可扩展性的一种方法。]]></description>
+      <guid>https://www.nber.org/papers/w32510#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>算法偏见和历史不公正：种族和数字分析——作者：Abigail Matthew、Amalia R. Miller、Catherine Tucker</title>
-      <link>https://www.nber.org/papers/w32485#fromrss</link>
-      <description><![CDATA[本文研究了 Facebook 上“种族亲和力”分析尝试的影响，该分析反映了用户对 Facebook 内容的参与度。按种族亲和力进行的分析与按地理位置对人口种族的人口普查估计高度相关。然而，相对于基线人口，在前奴隶州，更多的用户被描述为非裔美国人。发生这种情况是因为定位算法能够通过对这些州文化内容的差异化参与来更好地识别黑人用户。这意味着限制种族身份数据收集的政策将因代理的存在而失败，并且依赖代理可能会带来令人不安的偏见。]]></description>
-      <guid>https://www.nber.org/papers/w32485#fromrss</guid>
-      <pubDate>Mon, 27 May 2024 06:19:40 GMT</pubDate>
+      <title>性别特定的交通成本和女性的时间利用：印度解雇通知书计划的证据——Yutong Chen、Kerem Coşar、Devaki Ghose、Shirish Mahendru、Sheetal Sekhri 著</title>
+      <link>https://www.nber.org/papers/w32508#fromrss</link>
+      <description><![CDATA[减少发展中国家特定性别的通勤障碍对女性劳动力动态有着复杂而多样的影响。我们研究了印度几个邦为女性提供免费公交车的计划（Pink Slip 计划），采用综合差异法来揭示女性的劳动力供应和时间使用决策。我们观察到公交车费用减少，出行时间节省。熟练的就业女性增加了劳动力供应，而低技能的已婚女性则将重点转移到家务上。失业女性加大了求职力度，但总体就业率保持不变。我们的研究结果强调，减轻通勤成本并不能一律提高女性的劳动参与率，因为性别角色和社会规范继续影响结果。]]></description>
+      <guid>https://www.nber.org/papers/w32508#fromrss</guid>
+      <pubDate>Mon, 03 Jun 2024 06:19:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
