@@ -4,113 +4,112 @@
     <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 05 Aug 2024 06:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 06:20:49 GMT</lastBuildDate>
     <item>
-      <title>近距离观察财政契约：来自墨西哥城的实验证据——​​作者：Anne Brockmeyer、Francisco Garfias、Juan Carlos Suárez Serrato</title>
-      <link>https://www.nber.org/papers/w32776#fromrss</link>
-      <description><![CDATA[公共物品的提供能否增强发展中国家政府的财政能力，并使其走向普遍遵守税收的平衡？我们利用墨西哥城的一项大型公共投资实验和个人财产税记录，提供了当地公共基础设施对税收遵守的影响的证据。尽管这些投资对基础设施的可及性、房产价值和当地经济发展具有显著而巨大的影响，但我们发现财产税遵守情况没有变化，甚至可以排除小幅增加的可能性。即使提醒纳税人注意税收与收益之间的联系，这些零效应仍然存在。]]></description>
-      <guid>https://www.nber.org/papers/w32776#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:40 GMT</pubDate>
+      <title>非线性经济的神经网络学习——作者：Julian Ashwin、Paul Beaudry、Martin Ellison</title>
+      <link>https://www.nber.org/papers/w32807#fromrss</link>
+      <description><![CDATA[神经网络为非线性经济的分析提供了一种有前途的工具。在本文中，我们推导出神经网络学习下非线性理性预期均衡的全局稳定性条件。我们在分析和数值示例中证明了这些条件的适用性，其中非线性是由货币政策针对通胀范围而不是特定值引起的。如果冲击持续性很高或经济结构存在惯性，那么唯一可学习的理性预期均衡可能涉及通胀在其目标范围之外的长期支出。神经网络学习还可用于在其他环境中解决和选择多个均衡和稳定状态，例如当名义利率存在零下限时。]]></description>
+      <guid>https://www.nber.org/papers/w32807#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:48 GMT</pubDate>
     </item>
     <item>
-      <title>《钱包政治：财富对政治偏好和参与的影响》——作者：Anton Brännlund、David Cesarini、Karl-Oskar Lindgren、Erik Lindqvist、Sven Oskarsson、Robert Ösling</title>
-      <link>https://www.nber.org/papers/w32777#fromrss</link>
-      <description><![CDATA[富人倾向于支持有利于富人的政策，在选民和立法者中都占多数。本文利用彩票奖金形式的随机正财富冲击，研究这些相关性是否反映了财富的因果效应。与适当匹配的对照组相比，大奖得主不太可能在全国选举中投票或竞选公职。我们还发现父母的彩票奖金对其子女的政治参与没有显著影响。但彩票大奖的得主对财富税、房地产税和遗产税的态度更为消极。虽然我们没有发现对其他政治偏好有任何统计上显著的影响，但这些影响往往朝着更右翼的政治倾向发展。我们没有发现任何证据表明彩票财富会改变道德价值观或加强人们对努力工作对人生成功的重要性的信念。]]></description>
-      <guid>https://www.nber.org/papers/w32777#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:40 GMT</pubDate>
+      <title>汇率模型比你想象的要好，以及为什么它们在过去不起作用——作者：Charles Engel、Steve P.Y. Wu</title>
+      <link>https://www.nber.org/papers/w32808#fromrss</link>
+      <description><![CDATA[汇率模型非常适合 21 世纪的美元。美国对其他 G10 货币的数据充分支持了“标准”模型，该模型包括美国和外国的实际利率和预期通胀指标、美国综合贸易平衡以及全球风险和流动性需求指标。货币和非货币变量在解释汇率变动方面发挥着同等重要的作用。在 20 世纪 70 年代至 90 年代初，该模型的拟合度较差，但拟合度（以 t 和 F 统计量以及 R 平方衡量）几乎单调增加到今天。我们认为，更好的货币政策（通胀目标）导致了这种改善，因为自我实现预期的空间已经消失。我们提供各种证据，将货币政策的变化与汇率模型的表现联系起来。]]></description>
+      <guid>https://www.nber.org/papers/w32808#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:48 GMT</pubDate>
     </item>
     <item>
-      <title>就业与社区：社会经济合作及其破裂——达隆·阿西莫格鲁、亚历山大·沃利茨基</title>
-      <link>https://www.nber.org/papers/w32773#fromrss</link>
-      <description><![CDATA[我们提出了一个模型，用于描述工人和管理者之间的雇佣关系和社区互动的相互作用。雇佣关系可以是强硬的（工人受到严格监控，获得的租金很少，管理者不为工人提供非正式的好处），也可以是软性的（监控较少，工人租金较多，工作场所的好处交换较多）。工人和管理者都努力提供社区福利。失去社区福利的威胁可以促使管理者保持雇佣关系的软性；相反，失去未来就业或未来工人信任的威胁可以促使工人和管理者在社区中努力。监控技术的改进、自动化、外包和离岸外包、最低工资的下降、居住隔离或社区服务私有化的机会，都可能破坏软雇佣关系和社区合作，从而使工人和管理者的处境变得更糟。]]></description>
-      <guid>https://www.nber.org/papers/w32773#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:39 GMT</pubDate>
+      <title>外观和游戏：谁和为什么？——作者：Andy Chung、Daniel S. Hamermesh、Carl Singleton、Zhengxin Wang、Junsen Zhang</title>
+      <link>https://www.nber.org/papers/w32809#fromrss</link>
+      <description><![CDATA[我们调查了外貌吸引力和人们花在视频/电脑游戏上的时间之间的关系。美国青少年平均有 2.6% 的清醒时间花在游戏上，而成年人的这一数字为 2.7%。通过美国外貌健康研究，我们发现长相更好的成年人有更多亲密的朋友。可以说，游戏对他们来说成本更高，因此他们玩得更少。外貌漂亮的青少年不太可能参与游戏，而外貌不好看的青少年每周玩游戏的时间比其他玩家更多。外貌漂亮的成年人也不太可能花时间玩游戏；即使他们玩游戏，他们花在游戏上的时间也比外貌不好看的成年人少。利用外貌健康研究的纵向性质，我们发现支持性证据表明这些关系对成年人来说是因果关系：外貌好会减少游戏时间，而不是相反。]]></description>
+      <guid>https://www.nber.org/papers/w32809#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:48 GMT</pubDate>
     </item>
     <item>
-      <title>谁从二战服役和退伍军人权利法案中受益？美国退伍军人异质性影响的新证据——威廉·J·柯林斯、阿里尔·齐姆兰</title>
-      <link>https://www.nber.org/papers/w32774#fromrss</link>
-      <description><![CDATA[我们研究了二战服役和获得退伍军人权利法案福利对不同种族和民族个人的教育和劳动力市场结果的影响。我们通过将 1950 年代人口普查记录中的退伍军人和非退伍军人与 1940 年的全人口普查联系起来，直接解决了军队服役的选择问题。我们发现，退伍军人是根据教育程度进行积极选择的，而根据他们自己或他们父亲的劳动力市场特征进行中立或消极选择的。我们表明，使用 1940 年的控制可以大大减少选择。控制这些特征后，我们发现 1950 年二战服役和退伍军人权利法案对战前教育程度最低的人的教育程度以及战前教育程度最高的人的入学率产生了适度的积极影响，但对大学毕业没有明显影响。这些影响对黑人男性相对较大。我们发现劳动力市场结果的影响好坏参半：年轻退伍军人的收入和职业地位略有提高；年长退伍军人则没有。我们没有发现劳动力市场影响存在系统性的种族或民族差异。鉴于《退伍军人权利法案》的持续重要性及其在政治话语中可能产生的不同结果，这些发现非常重要。]]></description>
-      <guid>https://www.nber.org/papers/w32774#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:39 GMT</pubDate>
+      <title>积极激励：收入效应与犯罪的最佳监管——W. Bentley MacLeod、Roman Rivera 著</title>
+      <link>https://www.nber.org/papers/w32805#fromrss</link>
+      <description><![CDATA[经济学中的犯罪理论侧重于威慑和制止在减少犯罪活动方面的作用。除了威慑之外，越来越多的实证证据表明，收入支持和就业补贴都可以在减少犯罪方面发挥作用。本文将 Becker-Ehrlich 模型扩展到包含消费需求概念的标准劳动力供应模型（Barzel 和 McDonald (1973)），强调了当个人选择犯罪时替代效应与收入效应的作用。其次，我们表明，犯罪活动的产生是合法活动的产生是替代还是补充，对于最佳政策的设计至关重要。我们发现，个人对威慑和最佳政策的反应会因环境的不同而有很大差异，这与威慑对犯罪的影响的巨大差异相一致。因此，最佳政策是威慑、工作补贴和直接向个人转移收入的组合，这些政策会因收入和地点的不同而变化。]]></description>
+      <guid>https://www.nber.org/papers/w32805#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>堕胎服务与虐待儿童的距离——Erkmen G. Aslim、Wei Fu、Erdal Tekin 著</title>
-      <link>https://www.nber.org/papers/w32771#fromrss</link>
-      <description><![CDATA[本研究利用 2011 年至 2018 年美国国家事件报告系统 (NIBRS) 和迈尔斯堕胎机构数据库的数据，全面分析了美国堕胎服务的可及性与虐待儿童发生率之间的关系。分析显示，到最近的堕胎机构的旅行距离增加会显著增加虐待儿童的发生率。具体来说，我们发现旅行距离每增加 100 英里，虐待报告就会增加 21.7%。这种影响对于幼儿、非白人儿童以及生活在经济弱势、种族多元化和农村地区的儿童尤其明显。此外，使用美国国家虐待和忽视儿童数据系统 (NCANDS) 的数据和县级租房家庭驱逐记录进行的补充分析表明，经济稳定和住房安全是将堕胎服务障碍与虐待风险增加联系起来的重要中介因素。这些发现有助于更深入地了解生殖健康服务的获取、社会经济因素和儿童福利之间的复杂相互作用。]]></description>
-      <guid>https://www.nber.org/papers/w32771#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:38 GMT</pubDate>
+      <title>双边范围经济——Yao Amber Li、Sicigg Xu、Stephen Yeaple、Tengyu Zhao</title>
+      <link>https://www.nber.org/papers/w32803#fromrss</link>
+      <description><![CDATA[国际交易成本高昂，因为它们需要在物流、合同和获取当地机构知识方面进行投资。我们假设，进入特定出口市场的部分固定成本可用于支付从同一市场进口的成本，反之亦然。利用 2000 年至 2015 年中国企业的分类交易数据，我们记录了企业层面的交易模式，这些模式表明了这种特定市场的双边范围经济。使用结构模型，我们估计，在特定国家同时进行出口和进口分别可将出口和进口固定成本降低 41% 和 37% 以上。]]></description>
+      <guid>https://www.nber.org/papers/w32803#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>社会互动强度与投资者行为——Michael Gelman、David Hirshleifer、Yaron Levi、Liron Reiter-Gavish</title>
-      <link>https://www.nber.org/papers/w32772#fromrss</link>
-      <description><![CDATA[我们以当地足球比赛的数量作为社会互动强度的衡量标准，记录了社会互动对投资者行为的因果影响。社会传播在买入交易中可识别，但在卖出交易中不可识别。社会互动强度 (SII) 对买入对过去买入的敏感性的影响对于风险较高和回报较高的股票更大。社会互动会导致极端转变，现有股东会增加其持股，尤其是在人口结构同质的社区中。有证据表明，投资者情绪可能会调节传播的有效性。更高的社会互动强度会增加投资者交易量和投资组合风险对过去交易的敏感性。SII 还会增加股票交易量和散户持股比例对过去买入的敏感性。]]></description>
-      <guid>https://www.nber.org/papers/w32772#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:38 GMT</pubDate>
+      <title>供应方药物政策、多种药物的使用以及戒断症状的经济影响——作者：Alexander Ahammer、Analisa Packham</title>
+      <link>https://www.nber.org/papers/w32804#fromrss</link>
+      <description><![CDATA[尽管 30% 的阿片类药物过量也与苯二氮卓类药物有关，但关于如何遏制同时滥用的政策指导却很少，关于共同处方做法的变化如何影响患者经济轨迹的证据就更少了。2012 年，奥地利限制使用氟硝西泮，这是最有效、滥用最严重的苯二氮卓类药物之一。我们使用关联的个人层面数据来识别阿片类药物使用者，并估计改革对他们的健康和劳动力市场结果的影响，相对于随机选择的非阿片类药物使用者对照组。估计显示就业率下降 12.7%，失业保险索赔增加 13.1%，整体医疗支出增加 26.5%。我们提供的证据表明，这些影响是由于令人丧失能力的戒断症状，​​而不是替代其他药物，包括海洛因或酒精。]]></description>
+      <guid>https://www.nber.org/papers/w32804#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>理解韩国的长期实际汇率行为——道格拉斯·A·欧文、莫里斯·奥布斯菲尔德</title>
-      <link>https://www.nber.org/papers/w32769#fromrss</link>
-      <description><![CDATA[自 1980 年代以来，韩国的实际汇率呈现温和的下降趋势，在该趋势附近波动 ±20%。这种模式令人惊讶，因为经典的 Harrod-Balassa-Samuelson 框架表明，贸易行业生产率快速增长的国家应该会随着时间的推移经历实际货币升值。我们将韩元实际汇率变化的来源分解为内部价格驱动因素（非贸易商品的相对价格）和外部价格驱动因素（贸易消费品的国际相对价格，这在很大程度上取决于名义汇率）。我们发现，平均而言，韩国实际汇率的波动，即使是在长期内，也主要是由于外部价格因素造成的。鉴于名义汇率变化对实际汇率的中期影响持续存在，韩国干预外汇市场以平滑汇率波动的政策似乎是明智的。然而，我们还发现，在 1985 年至 2023 年的整个时期内，内部价格因素是韩元实际贬值的主要解释因素。这一发现给生产率增长与实际汇率之间联系的标准解释带来了难题。]]></description>
-      <guid>https://www.nber.org/papers/w32769#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:37 GMT</pubDate>
+      <title>挪威商业现金支持计划中的错误报告——作者：Dinara Alpysbayeva、Annette Alstadsæter、Wojciech Kopczuk、Simen Markussen、Oddbjorn Raaum</title>
+      <link>https://www.nber.org/papers/w32801#fromrss</link>
+      <description><![CDATA[我们分析了 2020 年冠状病毒危机爆发之初，政府为挪威企业制定的雄心勃勃的支持计划的报告响应。我们的实证设计基于对支持申请中的自我报告数据与用于增值税的行政报告数据进行交叉核对。我们发现强有力的证据表明存在战略性误报，但得出结论，在税务机关已经采取执法行动后，其剩余的数量范围相对较小。企业的误报率往往比预期高出 4%，实际支付的支持金额比应支付的金额高出 5%。我们讨论了不合规程度相对有限的可能原因，以及转移计划设计的更普遍的教训]]></description>
+      <guid>https://www.nber.org/papers/w32801#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:45 GMT</pubDate>
     </item>
     <item>
-      <title>银行支付政策、监管和政治——Rüdiger Fahlenbrach、Minsu Ko、René M. Stulz 著</title>
-      <link>https://www.nber.org/papers/w32770#fromrss</link>
-      <description><![CDATA[银行的派息政策受监管和政治影响很大，尤其是大型银行。在监管高度不确定和民主党总统执政时期，银行（而非工业企业）的派息持续较低。全球金融危机后，银行监管机构对大型银行派息政策的影响急剧增加，回购对这些银行来说变得比股息更重要。回购对监管环境变化的反应比股息更大。大型银行对唐纳德·特朗普当选的股价反应比小型银行或工业企业更大，随后它们的回购大幅增加。]]></description>
-      <guid>https://www.nber.org/papers/w32770#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:37 GMT</pubDate>
+      <title>选举前夕对政治新闻的看法——作者：Charles Angelucci、Michel Gutmann、Andrea Prat</title>
+      <link>https://www.nber.org/papers/w32802#fromrss</link>
+      <description><![CDATA[本文建立了一个新闻辨别模型，以探索选举对党派驱动的平行信息宇宙形成的影响。该模型利用 2020 年美国总统选举期间及选举之外进行的新闻测验的调查数据，表明党派一致性对新闻辨别的影响在选举期间被大大放大。在选举之外，当面对一个真实和虚假的新闻故事并被要求选择最有可能是真实的故事时，如果该故事对自己的政党有利，那么个人选择真实故事的可能性会高出 4%；在选举前几天，这一比例上升到 11%。]]></description>
+      <guid>https://www.nber.org/papers/w32802#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:45 GMT</pubDate>
     </item>
     <item>
-      <title>推动零工经济——Katharine G. Abraham、John C. Haltiwanger、Claire Y. Hou、Kristin Sandusky、James Spletzer 著</title>
-      <link>https://www.nber.org/papers/w32766#fromrss</link>
-      <description><![CDATA[利用丰富的行政税数据，我们探讨了在线拼车平台的引入对出租车和豪华轿车服务行业的进入、就业和收入的影响。拼车极大地增加了工人进入该行业的速度。新进入者更有可能是年轻人、女性、白人和美国出生的人，并且将拼车收入与工资收入结合起来。失业的工人发现拼车是一个比开出租车更具吸引力的后备选择。拼车也影响了现任出租车司机队伍。在城市引入拼车后，低收入出租车司机的离职率增加；高收入出租车司机的离职率几乎没有受到影响。在没有限制出租车车队规模的法规的城市，这两组司机在引入拼车后都经历了收入损失。在监管更严格的市场中，这些损失得到改善或没有出现。]]></description>
-      <guid>https://www.nber.org/papers/w32766#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:36 GMT</pubDate>
+      <title>健康不平等和健康类型 -- 作者：Margherita Borella、Francisco A. Bullano、Mariacristina De Nardi、Benjamin Krueger、Elena Manresa</title>
+      <link>https://www.nber.org/papers/w32799#fromrss</link>
+      <description><![CDATA[虽然健康会影响许多经济结果，但其动态仍不太为人所知。我们使用机器学习技术 k 均值聚类和来自“健康与退休研究”的数据来确定中老年时期的健康类型。我们确定了五种健康类型：强健复原型、健康一般复原型、健康一般脆弱型、脆弱复原型和脆弱脆弱型。它们的特点是不同的起始健康和健康和死亡轨迹。我们的五种健康类型占健康轨迹变化的 84%，并且不是通过年龄、婚姻状况、教育、性别、种族、健康相关行为和健康保险状况等可观察特征来解释的，而是由过去的健康动态来解释的。我们还表明，健康类型是健康和死亡率异质性和动态的重要驱动因素。我们的研究结果强调了更好地了解健康类型形成并对其进行适当建模的重要性，以正确评估健康对人们决策的影响和政策改革的影响。]]></description>
+      <guid>https://www.nber.org/papers/w32799#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>新信息技术对资产定价异常的影响——David Hirshleifer、马亮</title>
-      <link>https://www.nber.org/papers/w32767#fromrss</link>
-      <description><![CDATA[我们测试并比较了两种新金融信息技术 EDGAR 和 XBRL 的引入对通常归因于错误定价的著名资产定价异常的影响。EDGAR 有助于更轻松地获取有关上市公司的公共会计信息；XBRL 则降低了处理此类信息的成本。使用堆叠的差异回归，我们发现 EDGAR 和 XBRL 均能降低基于会计的异常的错误定价，但不能降低非基于会计的异常的错误定价。EDGAR 和 XBRL 对基于会计的异常的影响的经济量级相似。这些结果表明，更容易获取公共信息和以更低的成本处理公共信息均能提高市场效率。]]></description>
-      <guid>https://www.nber.org/papers/w32767#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:36 GMT</pubDate>
+      <title>大规模铁路投资撤资计划的空间影响：Beeching Axe——作者：Steve Gibbons、Stephan Heblich、Edward W. Pinchbeck</title>
+      <link>https://www.nber.org/papers/w32800#fromrss</link>
+      <description><![CDATA[本文基于 20 世纪中期英国一项拆除大部分铁路网的计划，研究了交通基础设施投资影响的可逆性。我们发现，1950 年至 1980 年间，铁路覆盖率下降 10%，导致当地人口相对于未受影响地区持续下降 3%，这意味着受削减影响最大的五分之一地区人口增长率比受影响最小的五分之一地区低 24 个百分点。削减导致当地就业岗位减少，技术工人和年轻人的比例下降。]]></description>
+      <guid>https://www.nber.org/papers/w32800#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>经济学家的深度学习——作者：Melissa Dell</title>
-      <link>https://www.nber.org/papers/w32768#fromrss</link>
-      <description><![CDATA[深度学习提供了强大的方法，可以从大规模非结构化文本和图像数据集中推断出结构化信息。例如，经济学家可能希望检测卫星图像中是否存在经济活动，或者衡量社交媒体、国会记录或公司文件中提到的主题或实体。本评论介绍了深度神经网络，涵盖了分类器、回归模型、生成式人工智能和嵌入模型等方法。应用包括分类、文档数字化、记录链接以及大规模文本和图像语料库中的数据探索方法。使用合适的方法，深度学习模型可以低成本地进行调整，并且可以经济地扩展到涉及数百万或数十亿个数据点的问题。本评论附有一个配套网站 EconDL，其中包含用户友好的演示笔记本、软件资源和提供技术细节和其他应用程序的知识库。]]></description>
-      <guid>https://www.nber.org/papers/w32768#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:36 GMT</pubDate>
+      <title>低效的劳动力市场分类——Stephen Yeaple、Carsten Eckel</title>
+      <link>https://www.nber.org/papers/w32797#fromrss</link>
+      <description><![CDATA[越来越多的实证研究将大型“超级明星”公司的大部分生产率优势归因于它们采用了最佳实践管理技术，这些技术使它们能够更好地识别和使用有才能的员工。这些“结构化管理实践”（SMP）未完全采用的原因及其福利影响尚不清楚。本文在一个理论框架中对这些问题进行了积极的规范分析，在这个框架中，SMP 会导致公司间人才的分类。不完全采用的原因是 SMP 成本高昂，而员工人才供应有限。在均衡状态下，过度采用 SMP，过多地将有才能的员工分流到大公司。在这种次优环境中，有利于大公司的政策变化（如贸易自由化）可能会降低福利。]]></description>
+      <guid>https://www.nber.org/papers/w32797#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:43 GMT</pubDate>
     </item>
     <item>
-      <title>SHARE 中的生物标志物：2015 年至 2023 年干血斑 (DBS) 样本实施、收集和分析的文档——作者：Martina Börsch-Supan、Karen Andersen-Ranberg、Nis Borbye-Lorenzen、Jake Cofferen、Rebecca Groh、Hannah M. Horton、Elizabeth Kerschner、Thu Minh Kha、Alan Potter、Daniel Schmidutz、Kristin Skogstrand、Aijing Sun、Luzia Weiss、Mark H. Wener、Axel H. Börsch-Supan</title>
-      <link>https://www.nber.org/papers/w32764#fromrss</link>
-      <description><![CDATA[SHARE 即“欧洲健康、老龄化和退休调查”，是一项针对 50 岁及以上人群的大型人口小组调查，数据来自 28 个欧洲国家和以色列。该调查调查了个人、经济、健康相关和社会生命历程情况，以揭示人口老龄化对个人和整个社会的挑战。SHARE 的目标是了解老龄化本身，以及考虑到我们的个人背景、当前健康状况和社会经济因素，我们在生命历程中的衰老方式有何不同。
-为了保持跨时期、国际和跨文化的可比性，SHARE 采用了健康领域的客观数据收集方法。SHARE 测量身体表现，例如握力、呼气峰流量、步行速度、椅子站立、单词回忆和 Euro-D 抑郁等，包括身体、认知和心理健康模块。2015 年，SHARE 收集了干血斑 (DBS) 样本作为健康的额外客观衡量标准。11 个欧洲国家和以色列参与了 DBS 收集。此次采集在文件设计、征得同意、采购血液采集材料以及培训访谈员如何在遵守所有国家的国家伦理和行政法规的同时采集 DBS 样本方面都得到了协调。总共约有 27,200 名受访者表示同意，总参与率为 67%，各国和访谈员之间存在很大差异。
-本报告描述了获得 DBS 采集同意的严格监控过程，以及迄今为止对欧洲代表性成年人口进行的最大规模 DBS 研究的实施、采集和评估过程。我们还描述了血液生物标志物的选择、用于确定在调查受访者家中采集的 DBS 中血液生物标志物浓度的检测方法，以及对实验室结果的验证和调整，以适应在非医疗环境中采集样本的影响。最后，我们展示了 17 种血液生物标志物中的 7 种获得的数据。Statens Serum Institut 分析的其余十种生物标志物的数据将在单独发布中发布。]]></description>
-      <guid>https://www.nber.org/papers/w32764#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:35 GMT</pubDate>
+      <title>破坏工业政策——刘进、马丁·罗滕伯格、莎朗·特雷伯曼</title>
+      <link>https://www.nber.org/papers/w32798#fromrss</link>
+      <description><![CDATA[我们将破坏行为（以美国最近针对中国半导体行业的政策为例）描述为贸易政策。对于某些（但不是全部）商品，彻底摧毁外国人的生产力可以通过转移生产地点和改善贸易条件来增加国内实际收入。破坏的总收益可以通过几个足够的统计数据来总结：贸易和需求弹性以及进口和生产份额。破坏的成本取决于各国破坏商品的相对单位劳动力成本。我们发现重要的非单调性：对于半导体，部分破坏外国生产会降低美国的实际收入，而全面破坏则会提高实际收入。]]></description>
+      <guid>https://www.nber.org/papers/w32798#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:43 GMT</pubDate>
     </item>
     <item>
-      <title>评估站外跟踪数据对广告商的价值：来自 Meta 的证据——作者：Nils Wernerfelt、Anna Tuchman、Bradley Shapiro、Robert Moakler</title>
-      <link>https://www.nber.org/papers/w32765#fromrss</link>
-      <description><![CDATA[第三方 cookie 和相关的“站外”跟踪技术经常用于在应用程序之间共享用户数据以支持广告投放。这些数据对在线广告商来说非常有价值，但它们的使用面临越来越大的阻力。在本文中，我们量化了广告商在广告投放中使用此类站外跟踪数据所带来的好处。为了实现这一目标，我们进行了一项大规模随机实验，其中包括 Facebook 和 Instagram 上的 70,000 多名广告商。我们首先在广泛的样本中估计基线广告效果。然后，我们估计如果广告商失去使用站外数据优化广告投放的能力，相同广告系列的效果会发生变化。在每种情况下，我们都使用最近开发的反卷积技术来灵活地估计效果的底层分布。我们发现，基线时每个增量客户的平均成本为 38.16 美元，而按照平均效果损失计算，将上升到 49.93 美元，增幅为 31%。此外，我们发现使用站外数据定位的广告比不使用站外数据的广告每美元产生的长期客户更多，而丢失站外数据会严重损害小规模广告商的利益。总而言之，我们的结果表明站外数据为广泛的广告商带来了巨大的利益。]]></description>
-      <guid>https://www.nber.org/papers/w32765#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:35 GMT</pubDate>
+      <title>大萧条时期的银行贷款和存款紧缩——克里斯·詹姆斯·米切纳、加里·理查森</title>
+      <link>https://www.nber.org/papers/w32783#fromrss</link>
+      <description><![CDATA[银行困境是美国大萧条的一个典型特征。然而，大多数银行经受住了风暴的考验，在整个经济萎缩期间仍在运营。我们发现，当储户在恐慌期间大规模提取资金时，幸存的银行会减少放贷。这种由恐慌引起的放贷下降解释了 1929 年至 1932 年间商业银行总放贷减少的约三分之一，是银行破产所导致的减少的两倍多。]]></description>
+      <guid>https://www.nber.org/papers/w32783#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>使用详细的投资类型和基于工程的折旧估算构建 BEA 公路和街道净财富存量——作者：Barbara M. Fraumeni、Robert Kornfeld</title>
-      <link>https://www.nber.org/papers/w32753#fromrss</link>
-      <description><![CDATA[本文以作者之前的一篇论文（Kornfeld 和 Fraumeni，2022 年）为基础，该论文主要使用美国联邦公路管理局的公路统计数据将公路和街道的投资分解为更详细的类型，以得出净财富存量和折旧的更新估计值。在本文中，公路和街道（路面除外）的主要组成部分：等级、桥梁和其他结构、交通管理、安全和环境，被设置为与早期论文中得出的全面修订更新版本相等。所有资本支出，包括路面和非路面净财富存量，都控制在当前的 BEA 估计值内。基于工程的折旧模式与 BEA 模式非常不同。基于工程的净财富路面存量折旧模式在使用 20 年后从约 0.055 的效率水平下降到零；基于 BEA Hulten-Wykoff 的净财富路面存量折旧模式在 62 年后效率水平大致相同，正效率水平持续到无穷大。BEA 在没有其他信息的情况下采用了 Hulten-Wykoff 默认折旧率（Fraumeni，1997 年），但 Fraumeni 的研究为高速公路和街道建立了基于工程的 Picher 路面折旧率（Fraumeni，1999 年，2007 年）。]]></description>
-      <guid>https://www.nber.org/papers/w32753#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:34 GMT</pubDate>
+      <title>德国养老金改革与不平等：微观建模——作者：Axel H. Börsch-Supan、Johannes Rausch、Luca Salerno</title>
+      <link>https://www.nber.org/papers/w32796#fromrss</link>
+      <description><![CDATA[与许多其他国家一样，德国自 20 世纪 80 年代以来经历了一系列养老金改革，由于人口压力，这些改革普遍减少了福利慷慨程度并提高了退休年龄。本文研究这些改革是否加剧了退休人员的收入和财富不平等。为了回答这个问题，我们采用了反事实模拟，预测如果没有进行这些改革，收入和社会保障财富分配将如何发展，并与收入和社会保障财富分配的实际发展情况进行比较。
+我们的分析表明，养老金改革导致 20 世纪 90 年代至 21 世纪社会保障财富不平等加剧，此后不平等有所减少。不平等的减少主要是由社会救助推动的，因为它代表了福利规模的下限，从而减轻了福利削减改革对低收入群体的影响。我们进一步将养老金改革的总体影响分为两个部分。第一个部分是机械效应，它保持退休概率不变，只考虑福利计算的变化。第二个组成部分是行为效应，它描述了退休概率改变后 SSW 的变化情况。我们的研究结果表明，在德国，行为效应在统计上显著，但在经济上却很小。]]></description>
+      <guid>https://www.nber.org/papers/w32796#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>用于财务报告和审计的分布式账本和安全多方计算——Sean S. Cao、Lin William Cong、Baozhong Yang</title>
-      <link>https://www.nber.org/papers/w32763#fromrss</link>
-      <description><![CDATA[为了了解分布式账本技术对财务报告和审计的颠覆和影响，我们在统一模型中分析了公司误报、审计师监控和竞争以及监管政策。用于财务报告和审计的联合区块链不仅可以提高私有数据库中交易的验证效率，还可以通过隐私保护计算协议提高跨链验证的效率。尽管区块链具有潜在的好处，但对公司的私人激励和对审计师的先发优势可能会导致低效的采用不足或部分采用，从而有利于大型审计师。虽然监管机构可以帮助协调技术的采用，但公司对交易伙伴的内生选择仍然会导致采用失败。我们的模型还为进一步研究在财务报告中使用分布式账本和安全多方计算的成本和影响提供了一个初步框架，包括对自由裁量审计的积极溢出效应以及谁应该承担采用成本。]]></description>
-      <guid>https://www.nber.org/papers/w32763#fromrss</guid>
-      <pubDate>Mon, 05 Aug 2024 06:20:34 GMT</pubDate>
+      <title>全球霸权与过度特权--卡罗琳·普弗鲁格 (Carolin Pflueger)、皮埃尔·亚雷德 (Pierre Yared)</title>
+      <link>https://www.nber.org/papers/w32775#fromrss</link>
+      <description><![CDATA[我们提出了一个动态的两国模型，其中军事支出、地缘政治风险和政府债券价格共同决定。该模型与三个经验事实相一致：霸权国家具有融资优势，这种优势随着地缘政治紧张局势而上升，战争失败者遭受的债务贬值比胜利者更高。尽管更高的债务能力增加了外生强国的军事和金融优势，但它也导致了均衡多重性，以及弱国在金融市场支持下压倒强国的可能性。对于中等债务能力，过渡动态表现出地缘政治滞后，主导地位由初始条件决定，除非发生战争并引发霸权转型。对于高债务能力，过渡动态表现出地缘政治脆弱性，债券市场预期推动主导地位不可预测的转变，即使在没有战争的情况下也会发生霸权转型。]]></description>
+      <guid>https://www.nber.org/papers/w32775#fromrss</guid>
+      <pubDate>Mon, 12 Aug 2024 06:20:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
