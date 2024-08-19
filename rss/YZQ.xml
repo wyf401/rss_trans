@@ -4,112 +4,113 @@
     <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 12 Aug 2024 06:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 06:21:10 GMT</lastBuildDate>
     <item>
-      <title>非线性经济的神经网络学习——作者：Julian Ashwin、Paul Beaudry、Martin Ellison</title>
-      <link>https://www.nber.org/papers/w32807#fromrss</link>
-      <description><![CDATA[神经网络为非线性经济的分析提供了一种有前途的工具。在本文中，我们推导出神经网络学习下非线性理性预期均衡的全局稳定性条件。我们在分析和数值示例中证明了这些条件的适用性，其中非线性是由货币政策针对通胀范围而不是特定值引起的。如果冲击持续性很高或经济结构存在惯性，那么唯一可学习的理性预期均衡可能涉及通胀在其目标范围之外的长期支出。神经网络学习还可用于在其他环境中解决和选择多个均衡和稳定状态，例如当名义利率存在零下限时。]]></description>
-      <guid>https://www.nber.org/papers/w32807#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:48 GMT</pubDate>
+      <title>了解产消合一者的经济学：来自自然田野实验的证据——作者：John A. List、Ioannis C. Pragidis、Michael K. Price</title>
+      <link>https://www.nber.org/papers/w32837#fromrss</link>
+      <description><![CDATA[产消者在全球能源消费和生产中的重要性日益提高。我们与瑞典的一家能源服务提供商合作，通过为期 32 个月的自然实地试验，探索此类主体面临的经济问题。作为一种政策工具，我们探索简单的助推如何影响消费和生产双方的选择。重要的是，有了影响市场双方的额外灵活性，有了丰富的数据集，可以分析日内、周内和季节性变化，我们可以详细说明对整体节约工作、跨期替代、负荷转移和电网净购买的影响。总体主题是，与助推的其他组成部分相比，助推有可能对产消者能源市场产生更大的影响。]]></description>
+      <guid>https://www.nber.org/papers/w32837#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:09 GMT</pubDate>
     </item>
     <item>
-      <title>汇率模型比你想象的要好，以及为什么它们在过去不起作用——作者：Charles Engel、Steve P.Y. Wu</title>
-      <link>https://www.nber.org/papers/w32808#fromrss</link>
-      <description><![CDATA[汇率模型非常适合 21 世纪的美元。美国对其他 G10 货币的数据充分支持了“标准”模型，该模型包括美国和外国的实际利率和预期通胀指标、美国综合贸易平衡以及全球风险和流动性需求指标。货币和非货币变量在解释汇率变动方面发挥着同等重要的作用。在 20 世纪 70 年代至 90 年代初，该模型的拟合度较差，但拟合度（以 t 和 F 统计量以及 R 平方衡量）几乎单调增加到今天。我们认为，更好的货币政策（通胀目标）导致了这种改善，因为自我实现预期的空间已经消失。我们提供各种证据，将货币政策的变化与汇率模型的表现联系起来。]]></description>
-      <guid>https://www.nber.org/papers/w32808#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:48 GMT</pubDate>
+      <title>欧洲人为何储蓄？家庭金融和消费调查的微观证据——Charles Yuji Horioka、Luigi Ventura 著</title>
+      <link>https://www.nber.org/papers/w32838#fromrss</link>
+      <description><![CDATA[我们利用欧洲中央银行开展的家庭金融和消费调查 (HFCS) 的微观数据，分析了欧洲家庭的储蓄动机。我们发现，储蓄动机的排序因使用的标准不同而有很大差异。例如，我们发现，当使用每个动机的家庭储蓄比例作为排序标准时，预防性动机是欧洲家庭最重要的储蓄动机，但如果考虑到每个动机的量化重要性，退休动机则是欧洲家庭最重要的储蓄动机。此外，社会保障网的慷慨程度似乎影响每个储蓄动机的重要性，在公共养老金福利丰厚的国家，退休动机的储蓄不那么重要，而在医疗体系丰厚的国家，预防性动机的储蓄不那么重要。这些发现表明，退休动机和预防性动机是欧洲储蓄的主要动机，部分原因是社会保障网并不完全充分。最后，我们的研究结果表明，自私的生命周期模型比利他主义模型更适用于欧洲。]]></description>
+      <guid>https://www.nber.org/papers/w32838#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:09 GMT</pubDate>
     </item>
     <item>
-      <title>外观和游戏：谁和为什么？——作者：Andy Chung、Daniel S. Hamermesh、Carl Singleton、Zhengxin Wang、Junsen Zhang</title>
-      <link>https://www.nber.org/papers/w32809#fromrss</link>
-      <description><![CDATA[我们调查了外貌吸引力和人们花在视频/电脑游戏上的时间之间的关系。美国青少年平均有 2.6% 的清醒时间花在游戏上，而成年人的这一数字为 2.7%。通过美国外貌健康研究，我们发现长相更好的成年人有更多亲密的朋友。可以说，游戏对他们来说成本更高，因此他们玩得更少。外貌漂亮的青少年不太可能参与游戏，而外貌不好看的青少年每周玩游戏的时间比其他玩家更多。外貌漂亮的成年人也不太可能花时间玩游戏；即使他们玩游戏，他们花在游戏上的时间也比外貌不好看的成年人少。利用外貌健康研究的纵向性质，我们发现支持性证据表明这些关系对成年人来说是因果关系：外貌好会减少游戏时间，而不是相反。]]></description>
-      <guid>https://www.nber.org/papers/w32809#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:48 GMT</pubDate>
+      <title>育儿假：经济激励与文化变革——作者：James Albrecht、Per-Anders Edin、Raquel Fernández、Jiwon Lee、Peter Thoursie、Susan Vroman</title>
+      <link>https://www.nber.org/papers/w32839#fromrss</link>
+      <description><![CDATA[育儿假的发放和育儿活动的分布继续符合传统的性别角色。2002 年，为了提高性别平等，瑞典增加了第二个“爸爸月”，即每个父母额外保留一个月的带薪育儿假。这项政策增加了男性的育儿假发放，减少了女性的育儿假发放，从而增加了男性的比例。为了了解各种因素如何影响这些结果，我们开发并估算了一个家庭定量模型，其中育儿假偏好与同龄人的行为有关。我们根据父母的教育程度来区分家庭，并要求模型匹配改革前后按性别和家庭类型（父母的教育程度）划分的育儿假分配的主要特征。我们发现，激励措施的变化，尤其是社会规范的变化在产生这些结果方面发挥了重要作用，而工资参数的变化（包括与不同长度的育儿假相关的未来工资惩罚）的影响较小。然后，我们使用我们的模型来评估旨在增加男性育儿假份额的三项反事实政策，并得出结论：给予每位父母不可转让的育儿假津贴或仅支付每位父母平均休的育儿假时间，都会显着增加男性的份额，而降低儿童保育成本几乎没有效果。]]></description>
+      <guid>https://www.nber.org/papers/w32839#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:09 GMT</pubDate>
     </item>
     <item>
-      <title>积极激励：收入效应与犯罪的最佳监管——W. Bentley MacLeod、Roman Rivera 著</title>
-      <link>https://www.nber.org/papers/w32805#fromrss</link>
-      <description><![CDATA[经济学中的犯罪理论侧重于威慑和制止在减少犯罪活动方面的作用。除了威慑之外，越来越多的实证证据表明，收入支持和就业补贴都可以在减少犯罪方面发挥作用。本文将 Becker-Ehrlich 模型扩展到包含消费需求概念的标准劳动力供应模型（Barzel 和 McDonald (1973)），强调了当个人选择犯罪时替代效应与收入效应的作用。其次，我们表明，犯罪活动的产生是合法活动的产生是替代还是补充，对于最佳政策的设计至关重要。我们发现，个人对威慑和最佳政策的反应会因环境的不同而有很大差异，这与威慑对犯罪的影响的巨大差异相一致。因此，最佳政策是威慑、工作补贴和直接向个人转移收入的组合，这些政策会因收入和地点的不同而变化。]]></description>
-      <guid>https://www.nber.org/papers/w32805#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:47 GMT</pubDate>
+      <title>异质代理模型中的货币 - Roger E.A. Farmer</title>
+      <link>https://www.nber.org/papers/w32836#fromrss</link>
+      <description><![CDATA[我将货币引入一个具有异质代理和不可保收入风险的不完全市场模型。我表明，该模型同时表现出非货币和货币均衡，当收入风险足够高时，后者就会存在。使用数值方法，我描述了这些均衡的性质并分析了它们的稳定性。我发现，对于一系列现实的参数值，非货币均衡是动态低效和不确定的，并且存在第二个确定的货币均衡，其中法定货币为正值。]]></description>
+      <guid>https://www.nber.org/papers/w32836#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:08 GMT</pubDate>
     </item>
     <item>
-      <title>双边范围经济——Yao Amber Li、Sicigg Xu、Stephen Yeaple、Tengyu Zhao</title>
-      <link>https://www.nber.org/papers/w32803#fromrss</link>
-      <description><![CDATA[国际交易成本高昂，因为它们需要在物流、合同和获取当地机构知识方面进行投资。我们假设，进入特定出口市场的部分固定成本可用于支付从同一市场进口的成本，反之亦然。利用 2000 年至 2015 年中国企业的分类交易数据，我们记录了企业层面的交易模式，这些模式表明了这种特定市场的双边范围经济。使用结构模型，我们估计，在特定国家同时进行出口和进口分别可将出口和进口固定成本降低 41% 和 37% 以上。]]></description>
-      <guid>https://www.nber.org/papers/w32803#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:46 GMT</pubDate>
+      <title>政治党派之争与远程工作：来自美国各州的证据——作者：Benjamin W. Cowan、Kairon Shayne D. Garcia</title>
+      <link>https://www.nber.org/papers/w32834#fromrss</link>
+      <description><![CDATA[我们研究了在新冠疫情爆发后，政治和政策如何影响远程工作率。利用《当前人口调查》、《美国社区调查》和《美国时间使用调查》（其中包含几种不同的远程工作指标），我们研究了远程工作趋势如何因州一级的特征而变化。我们表明，一旦将政治党派性指标（2020 年总统大选中的民主党选票份额）纳入模型，州一级的新冠保护政策的长度和严格程度指标与疫情前后远程工作的变化无关。2020 年民主党选票份额每增加一个标准差（约 9 个百分点），远程工作的可能性就会增加 1-2 个百分点，远程工作份额也会增加约 3-5%。这些影响大约相当于新冠疫情前平均值的 15-25%。这些结果不仅对大量个人控制因素（例如职业远程办公潜力）的纳入具有稳健性，而且对多个不同的州级控制因素（包括 COVID 政策指数、病例和死亡人数、疫苗接种率和经济绩效指标）的纳入也具有稳健性。我们得出的结论是，与 2020 年民主党选票份额较高相关的各州远程办公相对增加，不能简单地用 COVID 时代政策或结果的差异或各州工作性质的差异来解释。]]></description>
+      <guid>https://www.nber.org/papers/w32834#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:07 GMT</pubDate>
     </item>
     <item>
-      <title>供应方药物政策、多种药物的使用以及戒断症状的经济影响——作者：Alexander Ahammer、Analisa Packham</title>
-      <link>https://www.nber.org/papers/w32804#fromrss</link>
-      <description><![CDATA[尽管 30% 的阿片类药物过量也与苯二氮卓类药物有关，但关于如何遏制同时滥用的政策指导却很少，关于共同处方做法的变化如何影响患者经济轨迹的证据就更少了。2012 年，奥地利限制使用氟硝西泮，这是最有效、滥用最严重的苯二氮卓类药物之一。我们使用关联的个人层面数据来识别阿片类药物使用者，并估计改革对他们的健康和劳动力市场结果的影响，相对于随机选择的非阿片类药物使用者对照组。估计显示就业率下降 12.7%，失业保险索赔增加 13.1%，整体医疗支出增加 26.5%。我们提供的证据表明，这些影响是由于令人丧失能力的戒断症状，​​而不是替代其他药物，包括海洛因或酒精。]]></description>
-      <guid>https://www.nber.org/papers/w32804#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:46 GMT</pubDate>
+      <title>互惠与中国冲击——Chad P. Bown、Lorenzo Caliendo、Fernando Parro、Robert W. Staiger、Alan O. Sykes 著</title>
+      <link>https://www.nber.org/papers/w32835#fromrss</link>
+      <description><![CDATA[我们将 GATT/WTO 的互惠原则正式化为常用的定量贸易模型，描述保持贸易条件不变的互惠关税削减，并研究其对劳动力市场的影响。我们提供将互惠关税削减与劳动力市场错位映射起来的闭式表达式。我们表明，一个国家自身的关税自由化足以衡量其从满足互惠原则的关税谈判中可以期待的劳动力市场调整。将我们的理论结果应用于中国 2001 年加入世贸组织，我们发现中国的关税削减超过了互惠规范，增加了实际收入，但也加剧了美国和全球制造业就业错位——中国冲击。]]></description>
+      <guid>https://www.nber.org/papers/w32835#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:07 GMT</pubDate>
     </item>
     <item>
-      <title>挪威商业现金支持计划中的错误报告——作者：Dinara Alpysbayeva、Annette Alstadsæter、Wojciech Kopczuk、Simen Markussen、Oddbjorn Raaum</title>
-      <link>https://www.nber.org/papers/w32801#fromrss</link>
-      <description><![CDATA[我们分析了 2020 年冠状病毒危机爆发之初，政府为挪威企业制定的雄心勃勃的支持计划的报告响应。我们的实证设计基于对支持申请中的自我报告数据与用于增值税的行政报告数据进行交叉核对。我们发现强有力的证据表明存在战略性误报，但得出结论，在税务机关已经采取执法行动后，其剩余的数量范围相对较小。企业的误报率往往比预期高出 4%，实际支付的支持金额比应支付的金额高出 5%。我们讨论了不合规程度相对有限的可能原因，以及转移计划设计的更普遍的教训]]></description>
-      <guid>https://www.nber.org/papers/w32801#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:45 GMT</pubDate>
+      <title>失业保险对失业的影响：一项荟萃分析——乔纳森·科恩、彼得·加农</title>
+      <link>https://www.nber.org/papers/w32832#fromrss</link>
+      <description><![CDATA[我们系统地回顾了有关失业救济金如何影响失业持续时间的研究。具有统计意义的发现发表的可能性是其他研究的 11 倍。校正出版偏差会使平均弹性减半。元分析为充分统计方法提供了一种原则性方法，可以汇总跨政策背景的估计值并说明大规模改革的最优性。尽管现有的基于消费下降的方法通常意味着最佳替代率接近于零，但我们的修正估计值意味着最佳替代率为 28%。 “微观”弹性等于“宏观”弹性，表明一般均衡效应不重要或相互抵消。]]></description>
+      <guid>https://www.nber.org/papers/w32832#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>选举前夕对政治新闻的看法——作者：Charles Angelucci、Michel Gutmann、Andrea Prat</title>
-      <link>https://www.nber.org/papers/w32802#fromrss</link>
-      <description><![CDATA[本文建立了一个新闻辨别模型，以探索选举对党派驱动的平行信息宇宙形成的影响。该模型利用 2020 年美国总统选举期间及选举之外进行的新闻测验的调查数据，表明党派一致性对新闻辨别的影响在选举期间被大大放大。在选举之外，当面对一个真实和虚假的新闻故事并被要求选择最有可能是真实的故事时，如果该故事对自己的政党有利，那么个人选择真实故事的可能性会高出 4%；在选举前几天，这一比例上升到 11%。]]></description>
-      <guid>https://www.nber.org/papers/w32802#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:45 GMT</pubDate>
+      <title>医疗保健市场的垂直整合和规划设计——作者：José Ignacio Cuesta、Carlos E. Noton、Benjamin Vatter</title>
+      <link>https://www.nber.org/papers/w32833#fromrss</link>
+      <description><![CDATA[我们衡量了保险公司和医院之间垂直整合的影响。在智利市场，一半的私立医院都是垂直整合的，整合使住院护理支出增加了 6%，减少了消费者剩余和总福利。综合保险公司在综合医院提供慷慨的保险，限制进入竞争医院的机会，并降低保费。对参保者的竞争迫使非综合保险公司为高质量的非综合医院提供额外保险，从而形成限制医院竞争的计划网络。虽然垂直整合减少了双重边缘化，但扭曲的成本分摊结构及其对医院竞争的影响超过了补偿，导致整体福利受到负面影响。]]></description>
+      <guid>https://www.nber.org/papers/w32833#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>健康不平等和健康类型 -- 作者：Margherita Borella、Francisco A. Bullano、Mariacristina De Nardi、Benjamin Krueger、Elena Manresa</title>
-      <link>https://www.nber.org/papers/w32799#fromrss</link>
-      <description><![CDATA[虽然健康会影响许多经济结果，但其动态仍不太为人所知。我们使用机器学习技术 k 均值聚类和来自“健康与退休研究”的数据来确定中老年时期的健康类型。我们确定了五种健康类型：强健复原型、健康一般复原型、健康一般脆弱型、脆弱复原型和脆弱脆弱型。它们的特点是不同的起始健康和健康和死亡轨迹。我们的五种健康类型占健康轨迹变化的 84%，并且不是通过年龄、婚姻状况、教育、性别、种族、健康相关行为和健康保险状况等可观察特征来解释的，而是由过去的健康动态来解释的。我们还表明，健康类型是健康和死亡率异质性和动态的重要驱动因素。我们的研究结果强调了更好地了解健康类型形成并对其进行适当建模的重要性，以正确评估健康对人们决策的影响和政策改革的影响。]]></description>
-      <guid>https://www.nber.org/papers/w32799#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:44 GMT</pubDate>
+      <title>气候政策不确定性建模：对美国 IRA 的应用——作者：James B. Bushnell、Aaron Smith</title>
+      <link>https://www.nber.org/papers/w32830#fromrss</link>
+      <description><![CDATA[近年来，美国气候政策对电力部门的分析主要部署了使用确定性或平衡优化方法的电力规划或容量扩展模型。虽然考虑了关键输入假设中的不确定性，但通常仅限于情景分析。在本研究中，我们将时间序列计量经济学预测方法与平衡电力系统扩展模型相结合。目标是产生统计上严格的结果分布，而不是依赖于单独选择的情景。
+我们将这些技术应用于美国西部电网背景下的美国通胀削减法案 (IRA) 案例。最重要的电力部门财政激励措施是对符合条件的零碳和存储资源实施的税收抵免。我们的结果表明，IRA 在低碳资源额外投资方面的影响在很大程度上取决于关键外生变量的实现。然而，IRA 的净效应是大幅缩小未来碳排放的范围，主要是通过消除世界上原本对天然气资源投资最佳的国家。]]></description>
+      <guid>https://www.nber.org/papers/w32830#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:05 GMT</pubDate>
     </item>
     <item>
-      <title>大规模铁路投资撤资计划的空间影响：Beeching Axe——作者：Steve Gibbons、Stephan Heblich、Edward W. Pinchbeck</title>
-      <link>https://www.nber.org/papers/w32800#fromrss</link>
-      <description><![CDATA[本文基于 20 世纪中期英国一项拆除大部分铁路网的计划，研究了交通基础设施投资影响的可逆性。我们发现，1950 年至 1980 年间，铁路覆盖率下降 10%，导致当地人口相对于未受影响地区持续下降 3%，这意味着受削减影响最大的五分之一地区人口增长率比受影响最小的五分之一地区低 24 个百分点。削减导致当地就业岗位减少，技术工人和年轻人的比例下降。]]></description>
-      <guid>https://www.nber.org/papers/w32800#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:44 GMT</pubDate>
+      <title>曲速行动能否成为加速新冠疫苗以外创新的典范？——作者：Arielle D'Souza、Kendall Hoyt、Christopher M. Snyder、Alec Stapp</title>
+      <link>https://www.nber.org/papers/w32831#fromrss</link>
+      <description><![CDATA[曲速行动 (OWS) 是美国政府主导的一项计划，旨在加速 COVID-19 疫苗的开发、生产和管理。该计划将开发一种新疫苗所需的通常十年时间缩短至十个月，并在推出后一年内开始为弱势群体接种疫苗。曲速行动的成功促使人们呼吁采用类似的任务模式来加速创新，以解决其他紧迫的社会需求，包括治疗阿尔茨海默病或去除大气中的碳以应对全球变暖。我们提供了一个框架来了解哪些创新需要采用任务方法，并应用经济原则来确定促成曲速行动成功的关键设计特征。]]></description>
+      <guid>https://www.nber.org/papers/w32831#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:05 GMT</pubDate>
     </item>
     <item>
-      <title>低效的劳动力市场分类——Stephen Yeaple、Carsten Eckel</title>
-      <link>https://www.nber.org/papers/w32797#fromrss</link>
-      <description><![CDATA[越来越多的实证研究将大型“超级明星”公司的大部分生产率优势归因于它们采用了最佳实践管理技术，这些技术使它们能够更好地识别和使用有才能的员工。这些“结构化管理实践”（SMP）未完全采用的原因及其福利影响尚不清楚。本文在一个理论框架中对这些问题进行了积极的规范分析，在这个框架中，SMP 会导致公司间人才的分类。不完全采用的原因是 SMP 成本高昂，而员工人才供应有限。在均衡状态下，过度采用 SMP，过多地将有才能的员工分流到大公司。在这种次优环境中，有利于大公司的政策变化（如贸易自由化）可能会降低福利。]]></description>
-      <guid>https://www.nber.org/papers/w32797#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:43 GMT</pubDate>
+      <title>比我们想象的要小？自动储蓄政策的影响——James J. Choi、David Laibson、Jordan Cammarota、Richard Lombardo、John Beshears</title>
+      <link>https://www.nber.org/papers/w32828#fromrss</link>
+      <description><![CDATA[中长期动态削弱了自动注册和默认储蓄率自动升级对退休储蓄的影响。我们对九个 401(k) 计划的分析考虑到了以下事实：员工经常离开公司（通常在雇主的匹配供款完全到账之前），很大一部分 401(k) 余额在离职时被提取，许多员工选择退出自动升级。由于自动注册，稳态储蓄率增加了 0.6% 的收入，由于默认自动升级，稳态储蓄率增加了 0.3% 的收入。只有 40% 的自动升级默认用户在第一次升级日期升级，而更多的用户后来选择退出。]]></description>
+      <guid>https://www.nber.org/papers/w32828#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:04 GMT</pubDate>
     </item>
     <item>
-      <title>破坏工业政策——刘进、马丁·罗滕伯格、莎朗·特雷伯曼</title>
-      <link>https://www.nber.org/papers/w32798#fromrss</link>
-      <description><![CDATA[我们将破坏行为（以美国最近针对中国半导体行业的政策为例）描述为贸易政策。对于某些（但不是全部）商品，彻底摧毁外国人的生产力可以通过转移生产地点和改善贸易条件来增加国内实际收入。破坏的总收益可以通过几个足够的统计数据来总结：贸易和需求弹性以及进口和生产份额。破坏的成本取决于各国破坏商品的相对单位劳动力成本。我们发现重要的非单调性：对于半导体，部分破坏外国生产会降低美国的实际收入，而全面破坏则会提高实际收入。]]></description>
-      <guid>https://www.nber.org/papers/w32798#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:43 GMT</pubDate>
+      <title>工作中的人权商业案例？孟加拉国砖窑劳工贩卖和童工的实验证据——​​作者：Grant Miller、Debashish Biswas、Aprajit Mahajan、Kimberly Singer Babiarz、Nina R. Brooks、Jessie Brunner、Sania Ashraf、Jack Shane、Sameer Maithel、Shoeb Ahmed、Moogdho Mahzab、Mohammad Rofi Uddin、Mahbubur Ra​​hman、Stephen P. Luby</title>
+      <link>https://www.nber.org/papers/w32829#fromrss</link>
+      <description><![CDATA[在全球范围内，在监管执法和政府能力薄弱的环境中，强制劳动（即强迫、抵押和/或贩卖劳工）和童工现象尤为普遍。因此，解决这些问题的有效策略可能需要与企业主的私人激励措施保持一致，而不能仅仅依靠政府行动。认识到这一点，我们通过对孟加拉国近 300 个砖窑进行随机对照试验，测试了改善工作条件和促进人权的“商业案例”。在研究的砖窑中，强制劳动和童工的比例很高：约 50% 的样本工人是被贩卖的，约 70% 的砖窑使用童工。我们的实验引入了一种提高砖窑生产率和收入的生产方法，我们测试这些生产率的提高是否反过来会增加工人的“报酬”（包括更好的工作条件）。由于采用该方法需要对工人的日常工作进行重大改变，我们还测试了向窑炉所有者提供有关积极激励工人提高采用率（从而提高企业收入）的信息是否能改善工作条件。我们没有发现任何证据表明单靠提高生产率就能减少劳动力贩运或童工，但增加信息干预措施可将童工减少 25-30%，而不会减少收入或增加成本。]]></description>
+      <guid>https://www.nber.org/papers/w32829#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:04 GMT</pubDate>
     </item>
     <item>
-      <title>大萧条时期的银行贷款和存款紧缩——克里斯·詹姆斯·米切纳、加里·理查森</title>
-      <link>https://www.nber.org/papers/w32783#fromrss</link>
-      <description><![CDATA[银行困境是美国大萧条的一个典型特征。然而，大多数银行经受住了风暴的考验，在整个经济萎缩期间仍在运营。我们发现，当储户在恐慌期间大规模提取资金时，幸存的银行会减少放贷。这种由恐慌引起的放贷下降解释了 1929 年至 1932 年间商业银行总放贷减少的约三分之一，是银行破产所导致的减少的两倍多。]]></description>
-      <guid>https://www.nber.org/papers/w32783#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:42 GMT</pubDate>
+      <title>减少非正规部门的排放和空气污染：孟加拉国的证据——作者：Nina R. Brooks、Debashish Biswas、Sameer Maithel、Grant Miller、Aprajit Mahajan、M. Rofi Uddin、Shoeb Ahmed、Moogdho Mahzab、Mahbubur Ra​​hman、Stephen P. Luby</title>
+      <link>https://www.nber.org/papers/w32794#fromrss</link>
+      <description><![CDATA[我们介绍了孟加拉国一项随机对照试验的结果，该试验在 276 个“之字形”砖窑中引入了提高能源效率和减少排放的操作实践。65% 的干预窑采用了改进的做法。处理任务将能源使用量减少了 10.3%（p 值 &lt;0.001），并将每座窑每年的二氧化碳和 PM2.5 排放量分别减少了 171 公吨和 0.45 公吨。使用 185 美元/公吨的碳社会成本来评估二氧化碳减排量，我们发现社会效益是成本的 190 倍。干预不需要新的资本投资，还降低了燃料成本并提高了砖块质量。我们的结果表明，私人盈利和公共利益的改进措施有可能解决非正规行业的环境问题。]]></description>
+      <guid>https://www.nber.org/papers/w32794#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:03 GMT</pubDate>
     </item>
     <item>
-      <title>德国养老金改革与不平等：微观建模——作者：Axel H. Börsch-Supan、Johannes Rausch、Luca Salerno</title>
-      <link>https://www.nber.org/papers/w32796#fromrss</link>
-      <description><![CDATA[与许多其他国家一样，德国自 20 世纪 80 年代以来经历了一系列养老金改革，由于人口压力，这些改革普遍减少了福利慷慨程度并提高了退休年龄。本文研究这些改革是否加剧了退休人员的收入和财富不平等。为了回答这个问题，我们采用了反事实模拟，预测如果没有进行这些改革，收入和社会保障财富分配将如何发展，并与收入和社会保障财富分配的实际发展情况进行比较。
-我们的分析表明，养老金改革导致 20 世纪 90 年代至 21 世纪社会保障财富不平等加剧，此后不平等有所减少。不平等的减少主要是由社会救助推动的，因为它代表了福利规模的下限，从而减轻了福利削减改革对低收入群体的影响。我们进一步将养老金改革的总体影响分为两个部分。第一个部分是机械效应，它保持退休概率不变，只考虑福利计算的变化。第二个组成部分是行为效应，它描述了退休概率改变后 SSW 的变化情况。我们的研究结果表明，在德国，行为效应在统计上显著，但在经济上却很小。]]></description>
-      <guid>https://www.nber.org/papers/w32796#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:42 GMT</pubDate>
+      <title>孕前长期接触当地暴力与婴儿健康——Eunsik Chang、Sandra Orozco-Aleman、María Padilla-Romo 著</title>
+      <link>https://www.nber.org/papers/w32806#fromrss</link>
+      <description><![CDATA[本文研究了母亲在怀孕前长期接触当地暴力对生育结果的影响。使用来自墨西哥的行政数据和两种不同的实证策略，我们的结果表明，母亲在怀孕前长期接触当地暴力会对婴儿出生时的健康产生不利影响。结果表明，女性人力资本的丧失和心理健康的恶化是造成不利影响的潜在机制，凸显了接触当地暴力的代际后果。我们的研究结果揭示了当地暴力对福利的影响，而这些影响在宫内接触暴力时是无法体现的。]]></description>
+      <guid>https://www.nber.org/papers/w32806#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:03 GMT</pubDate>
     </item>
     <item>
-      <title>全球霸权与过度特权--卡罗琳·普弗鲁格 (Carolin Pflueger)、皮埃尔·亚雷德 (Pierre Yared)</title>
-      <link>https://www.nber.org/papers/w32775#fromrss</link>
-      <description><![CDATA[我们提出了一个动态的两国模型，其中军事支出、地缘政治风险和政府债券价格共同决定。该模型与三个经验事实相一致：霸权国家具有融资优势，这种优势随着地缘政治紧张局势而上升，战争失败者遭受的债务贬值比胜利者更高。尽管更高的债务能力增加了外生强国的军事和金融优势，但它也导致了均衡多重性，以及弱国在金融市场支持下压倒强国的可能性。对于中等债务能力，过渡动态表现出地缘政治滞后，主导地位由初始条件决定，除非发生战争并引发霸权转型。对于高债务能力，过渡动态表现出地缘政治脆弱性，债券市场预期推动主导地位不可预测的转变，即使在没有战争的情况下也会发生霸权转型。]]></description>
-      <guid>https://www.nber.org/papers/w32775#fromrss</guid>
-      <pubDate>Mon, 12 Aug 2024 06:20:41 GMT</pubDate>
+      <title>新冠疫情封锁期间的短期就业援助的短期和长期有效性——作者：Luca Salerno、Axel H. Börsch-Supan、Diana López-Falcón、Johannes Rausch</title>
+      <link>https://www.nber.org/papers/w32760#fromrss</link>
+      <description><![CDATA[COVID-19 疫情导致严重的经济混乱，促使许多政府实施短期就业援助 (STEA)，以减轻失业和收入减少的影响。本研究考察了 STEA 对欧洲 50 岁及以上工人的短期和长期有效性，这部分人群是受该疾病威胁最大的人群。利用欧洲健康、老龄化和退休调查 (SHARE) 的数据，我们分析了 STEA 对疫情期间和疫情后就业状况、工作时间和收入的影响。
+STEA 在欧洲广泛存在。我们的研究结果表明，STEA 的使用总体上具有合理的针对性，可能有助于其接受者在疫情期间避免更严重的经济损失，尤其是在 2020 年至 2021 年的学习过程之后。然而，从长远来看，STEA 可能导致就业不稳定性增加。具体而言，STEA 的接受者在疫情后更有可能失业或休假。这些结果强调了制定 STEA 政策的重要性，这些政策不仅提供即时的经济救济，而且还支持可持续就业和经济复原力。]]></description>
+      <guid>https://www.nber.org/papers/w32760#fromrss</guid>
+      <pubDate>Mon, 19 Aug 2024 06:21:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
