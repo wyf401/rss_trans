@@ -32,7 +32,7 @@
     <item>
       <title>小型模型在 LLM 时代的作用是什么：一项调查</title>
       <link>https://arxiv.org/abs/2409.06857</link>
-      <description><![CDATA[arXiv:2409.06857v1 公告类型：新
+      <description><![CDATA[arXiv:2409.06857v2 公告类型：新
 摘要：大型语言模型 (LLM) 在推进通用人工智能 (AGI) 方面取得了重大进展，从而开发出越来越大的模型，例如 GPT-4 和 LLaMA-405B。然而，扩大模型规模会导致计算成本和能耗呈指数级增长，使得这些模型对于资源有限的学术研究人员和企业来说不切实际。同时，小型模型 (SM) 经常用于实际环境，尽管它们的重要性目前被低估了。这引发了关于小型模型在 LLM 时代的作用的重要问题，这一主题在先前的研究中受到的关注有限。在这项工作中，我们从两个关键角度系统地研究了 LLM 和 SM 之间的关系：协作和竞争。我们希望这项调查能为从业者提供有价值的见解，加深对小型模型贡献的理解，并促进更有效地利用计算资源。代码可在 https://github.com/tigerchen52/role_of_small_models 获取。]]></description>
       <guid>https://arxiv.org/abs/2409.06857</guid>
       <pubDate>Thu, 12 Sep 2024 04:00:00 GMT</pubDate>
