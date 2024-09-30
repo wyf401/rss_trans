@@ -4,112 +4,111 @@
     <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 23 Sep 2024 06:22:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 06:23:20 GMT</lastBuildDate>
     <item>
-      <title>合成数据与社会科学研究：SIPP 合成测试版的准确性评估和实际考虑——Jordan C. Stanley、Evan S. Totty 撰写</title>
-      <link>https://www.nber.org/papers/w32979#fromrss</link>
-      <description><![CDATA[合成微观数据（即保留原始微观数据结构但为了保护隐私而用模型值替换原始值的数据）为数据用户提供了增加有用​​微观数据访问权限的机会，同时满足了数据提供者的隐私和保密性要求。合成数据可以满足许多目的，但可以通过验证系统解决挥之不去的准确性问题，通过该系统，数据提供者可以在内部数据上运行外部研究人员的代码，并与研究人员分享已清除的输出。美国人口普查局有运行此类系统的经验。在本章中，我们首先描述合成数据在分层数据访问系统中的作用，以及合成数据准确性对于实现可行的合成数据产品的重要性。接下来，我们将回顾最近进行的一组实证分析的结果，这些分析旨在评估收入和计划参与调查 (SIPP) 合成测试版 (SSB) 的准确性，SSB 是人口普查局的一款产品，可公开获取链接的调查管理数据。基于此分析以及我们在 SSB 项目上的工作经验，我们得出了关于未来实施带有验证的合成数据的想法和疑问。]]></description>
-      <guid>https://www.nber.org/papers/w32979#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:55 GMT</pubDate>
+      <title>跨境购物：瑞士的证据和福利影响——Ariel Burstein、Sarah M. Lein、Jonathan Vogel 著</title>
+      <link>https://www.nber.org/papers/w33006#fromrss</link>
+      <description><![CDATA[消费者通过在国内购买或在国外购物来获得外国商品。我们介绍了瑞士家庭跨境购物的新事实，例如，相同产品在邻国的价格较低，跨境购物份额随着与边境距离的增加而下降，价格差距和跨境购物份额在 2015 年瑞士法郎升值后上升。我们使用一个简单的跨境购物模型来量化跨境购物的空间差异如何导致生活成本因国际价格变化（例如 2015 年瑞士法郎升值和 2020 年与 Covid-19 相关的边境关闭）而发生异质变化。]]></description>
+      <guid>https://www.nber.org/papers/w33006#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能时代的经济政策挑战——安东·科里内克</title>
-      <link>https://www.nber.org/papers/w32980#fromrss</link>
-      <description><![CDATA[本文探讨了人工智能向通用人工智能 (AGI) 的变革性进步将给经济学家和经济政策制定者带来的巨大挑战。我研究了人工智能时代将如何通过削弱劳动力的作用来彻底改变我们经济的基本结构，从而带来前所未有的生产力增长，但也引发了人们对就业中断、收入分配以及教育和人力资本价值的担忧。我探讨了 AGI 之后劳动力可能仍将发挥哪些作用，以及哪些生产要素将变得更加重要。然后，本文确定了人工智能时代经济政策面临的八个关键挑战：(1) 不平等和收入分配，(2) 教育和技能发展，(3) 社会和政治稳定，(4) 宏观经济政策，(5) 反垄断和市场监管，(6) 知识产权，(7) 环境影响，以及 (8) 全球人工智能治理。最后，本文强调了经济学家如何有助于更好地理解这些挑战。]]></description>
-      <guid>https://www.nber.org/papers/w32980#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:55 GMT</pubDate>
+      <title>评估关税变化对地区福利的影响：适用于美国——罗伯特·C·芬斯特拉、张宏</title>
+      <link>https://www.nber.org/papers/w33007#fromrss</link>
+      <description><![CDATA[我们提出了一种使用超对数支出函数的实证方法来估计进口关税变化对区域福利的影响，并将该方法应用于美国。关税收入假设按人均分配，因此产量较大的州将因对这些产品征收关税而获得福利收益（由于生产者剩余增加），而产量较少的州将遭受损失（由于消费者剩余下降）。我们发现，在 2002-17 年期间，有 28 个州受益于降低关税，2017 年全国福利收益为 58 亿美元或每户 50 美元。这些全国收益因 2017 年之后的关税增加而被抵消，2019 年全国损失为每户 57 美元，到 2022 年上升至每户 103 美元，但仍有 25 个州受益。这些关于关税上调给国家造成的损失的估计值低于2017-19年期间其他研究的结论，因为本研究纳入了降低某些产品关税的产品排除条款，也因为计算方法的差异。]]></description>
+      <guid>https://www.nber.org/papers/w33007#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>谁应该工作多少？——Timo Boppart、Per Krusell、Jonna Olsson</title>
-      <link>https://www.nber.org/papers/w32977#fromrss</link>
-      <description><![CDATA[从生产效率的角度看，自然而然地会得出这样的结论：生产效率更高的人应该比生产效率更低的人工作更多。然而，高薪和低薪人群的实际工作时间的系统差异几乎不可察觉。我们强调，家庭可获得的保险是这一事实背后的重要决定因素。使用动态异质代理模型，该模型包含保险摩擦、经过校准以匹配时间和空间上的总工作时间的收入效应以及实现现实财富分散的金融摩擦，我们报告了保险的明显影响：完善的保险将使总劳动生产率提高 9.6%，工作时间减少 7.7%。]]></description>
-      <guid>https://www.nber.org/papers/w32977#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:54 GMT</pubDate>
+      <title>精英大学是否向教师支付过高的工资？ ——塞萨尔·路易斯·加罗-马林、舒拉米特·卡恩、凯文·朗</title>
+      <link>https://www.nber.org/papers/w33005#fromrss</link>
+      <description><![CDATA[精英大学是否给教职员工支付了过高的薪水？如果你相信 AKM 模型，就不会这样。然而，尽管 AKM 模型很合适，但在这种情况下，它不太可能是正确的解释。]]></description>
+      <guid>https://www.nber.org/papers/w33005#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>美国的“绝望”与死亡——克里斯托弗·鲁姆</title>
-      <link>https://www.nber.org/papers/w32978#fromrss</link>
-      <description><![CDATA[有人假设，“绝望死亡”的增加是 21 世纪初某些群体不良死亡经历的重要原因。本研究考察了这种可能性，并发现了以下主要发现。首先，1993 年至 2019 年间，所有受检人口亚群的心理健康状况均有所恶化。其次，这些下降提高了死亡率，并导致了 1999 年至 2019 年黄金年龄的非西班牙裔白人和程度较小的黑人经历的不良死亡趋势。然而，心理健康恶化并不是导致这些情况的主要原因。第三，从这些关系支持“绝望死亡”的一般概念的程度来看，构成它的具体原因应该比以前认识到的更广泛、更不同：仍然包括药物死亡和可能的酒精死亡，但用心脏病、下呼吸道原因、凶杀和可能的癌症死亡取代自杀。第四，在解释黑人和白人在心理健康对死亡率的总体影响方面的差异时，心理健康状况不佳的增加所造成的后果的异质性通常比心理健康状况不佳的变化幅度更重要。]]></description>
-      <guid>https://www.nber.org/papers/w32978#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:54 GMT</pubDate>
+      <title>货币在股票市场、汇率和全球金融周期中的中心地位——Hélène Rey、Vania Stavrakeva、Jenny Tang 著</title>
+      <link>https://www.nber.org/papers/w33003#fromrss</link>
+      <description><![CDATA[本文从实证角度探讨了汇率与全球股票持有网络之间的紧密联系。汇率可以用“股票净货币供应量”来表示，即以投资者货币计价的当地货币股票市值减去股票持有量，以及弹性，反映了货币在全球股票市场中的“中心地位”。我们的汇率分解观察到的成分平均占 28 种双边货币对美元每月变化的 95%，占 98%。我们使用这种分解来阐明美元在全球股票网络中传递风险规避和美国宏观经济新闻的独特作用。我们的研究结果有助于解释全球金融周期和“风险开启”/“风险关闭”事件。]]></description>
+      <guid>https://www.nber.org/papers/w33003#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>证据的选择性披露：一项实验——作者：Agata Farina、Guillaume Fréchette、Alessandro Ispano、Alessandro Lizzeri、Jacopo Perego</title>
-      <link>https://www.nber.org/papers/w32975#fromrss</link>
-      <description><![CDATA[我们对交流中的选择性披露进行了实验分析。在我们的模型中，知情的发送者旨在通过披露从大量可用证据中选择的可验证证据来影响接收者。我们的实验设计利用了该模型丰富的比较静态预测，从而能够系统地测试证据选择与证据隐藏在交流中的相对重要性。我们的研究结果证实了该理论的关键定性预测，表明选择，而不是隐藏，往往是交流中的主要扭曲。我们还发现了与理论的偏差：少数发送者相对于预测过度沟通，而一些接收者部分忽视了他们观察到的证据的选择性。]]></description>
-      <guid>https://www.nber.org/papers/w32975#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:53 GMT</pubDate>
+      <title>无特殊风险的融资——作者：Pedro Bordalo、Nicola Gennaioli、Rafael La Porta、Andrei Shleifer</title>
+      <link>https://www.nber.org/papers/w33004#fromrss</link>
+      <description><![CDATA[我们通过使用分析师对盈利增长的预期来解决横截面资产定价中的联合假设问题。我们构建了一个基于预期的收益 (EBR) 的公司级度量，该度量使用分析师的预测误差和修订，并消除了所需收益的任何横截面差异。我们得到了三个结果。首先，EBR 的变化占价值、投资、规模和动量因子的横截面收益差的很大一部分。其次，这些差价的时间变化是可预测的，并且由 EBR 的可预测时间变化所代理。即使控制了缩放的价格变量，该结果仍然成立，这些变量可能会捕捉随时间变化的所需收益差异。第三，通常被视为捕捉风险的公司特征可以预测预期（和 EBR）的失望。总体而言，通常归因于外来风险因素的收益差可以通过公司盈利增长非理性预期的可预测变动来解释。]]></description>
+      <guid>https://www.nber.org/papers/w33004#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>汇率、自然利率和风险价格——Rohan Kekre、Moritz Lenel 著</title>
-      <link>https://www.nber.org/papers/w32976#fromrss</link>
-      <description><![CDATA[我们使用一个适应商品和金融市场冲击的一般均衡模型来研究汇率波动的来源。这些冲击在汇率、利率和数量之间引起的联动方面有所不同。对美国和 G10 货币国家的数据进行校准匹配表明，持续的相对需求冲击（反映在持续的利率差异中）占美元/G10 汇率方差的 75%。然而，货币中介的冲击在产生高频无抛补利率平价偏差以及解释危机中美元升值方面非常重要。]]></description>
-      <guid>https://www.nber.org/papers/w32976#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:53 GMT</pubDate>
+      <title>财务建议和投资者信念：主动策略与被动策略的实验证据——​​作者：Antoinette Schoar、Yang Sun</title>
+      <link>https://www.nber.org/papers/w33001#fromrss</link>
+      <description><![CDATA[使用随机对照试验，我们测试了散户投资者如何根据不同类型的财务建议评估和更新他们的先验，这些建议要么与他们的先验一致，要么与之相反。我们比较了强调被动投资策略（如多元化和低费用）或主动策略（如选股和市场时机）好处的建议。我们发现，当建议与他们的先验一致而不是与之相悖时，参与者对建议的评价会明显更高。但人们会根据他们收到的建议更新他们对投资策略的看法，而与他们的先验无关。同时，基于受试者的金融知识存在显著的异质性。金融知识更丰富的受试者在看到被动建议时会积极更新，但大多数人在接触主动建议时不会更新（并对建议进行负面评价）。相比之下，金融知识较差的受试者受到这两种建议的强烈影响。最后，如果顾问被认为具有不一致的激励，受试者对建议的评价会低于他们更一致时。]]></description>
+      <guid>https://www.nber.org/papers/w33001#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:16 GMT</pubDate>
     </item>
     <item>
-      <title>进入成本随增长而上升——Peter J. Klenow、Huiyu Li</title>
-      <link>https://www.nber.org/papers/w32974#fromrss</link>
-      <description><![CDATA[随着时间的推移，在美国各州，企业数量与总体就业率的关系比与人均产出的关系更为密切。在许多具有自由进入条件的企业动态、贸易和增长模型中，这些事实意味着，随着生产率的增长，创建新企业的成本会急剧增加。进入成本的增加可能源于进入时使用的劳动力成本上升以及先前进入带来的微弱或负面知识溢出效应。进入成本如何随增长而变化对福利很重要。例如，我们的研究结果表明，提高生产率的政策不会诱使企业进入，从而限制了此类政策对福利的总体影响。]]></description>
-      <guid>https://www.nber.org/papers/w32974#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:52 GMT</pubDate>
+      <title>儿童惩罚和父母榜样：课堂曝光效应——作者：Henrik Kleven、Giulia Olivero、Eleonora Patacchini</title>
+      <link>https://www.nber.org/papers/w33002#fromrss</link>
+      <description><![CDATA[本文研究了孩子对女性相对于男性的劳动力市场结果的影响（即儿童惩罚）是否受到青少年时期同龄人父母的工作行为的影响。利用学校不同群体中父母在职的同龄人比例的准随机变化，我们发现，青少年时期接触更多在职母亲会大大减少孩子在以后的就业中的惩罚。相反，我们发现，接触更多在职父亲会增加惩罚。我们的研究结果表明，青少年时期父母的榜样作用对于塑造劳动力市场中与儿童相关的性别差距至关重要。]]></description>
+      <guid>https://www.nber.org/papers/w33002#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:16 GMT</pubDate>
     </item>
     <item>
-      <title>佩里幼儿园 50 周年：应该吸取哪些教训，忽略哪些批评？——作者：Alison W. Baulos、Jorge Luis García、James J. Heckman</title>
-      <link>https://www.nber.org/papers/w32972#fromrss</link>
-      <description><![CDATA[佩里学前教育项目是一项持续时间最长的早期儿童教育实验研究，它表明此类干预措施如何为弱势群体带来长期的个人、社会和代际利益。证据很明显：对高质量早期儿童教育和家长参与的投资即使在 50 年后也能带来回报。该项目的研究结果在科学上仍然可靠，特别是通过严格的小样本推理方法进行分析时。该项目的研究结果也与对学前教育的普遍批评相矛盾，因为如果测量正确，治疗对智商的影响不会消失。本文借鉴了最初创始人和最近的实证研究的见解，强调了家长参与在早期教育中的关键作用。作者主张制定科学议程，重点是了解治疗效果背后的机制，而不是复制特定的项目。分析还强调了早期儿童干预对社会流动和人力资本形成的更广泛影响。早期儿童教育分析人士应该认识到，虽然资格证书和正规课程有助于教育项目的成功，但衡量教育质量的真正标准在于成人与儿童之间的互动，这起着至关重要的作用。]]></description>
-      <guid>https://www.nber.org/papers/w32972#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:51 GMT</pubDate>
+      <title>志愿者困境中的福利——Marco Battaglini、Thomas R. Palfrey 著</title>
+      <link>https://www.nber.org/papers/w32999#fromrss</link>
+      <description><![CDATA[我们研究了具有异质偏好和私人信息的环境中的志愿者困境。我们描述了均衡的效率特性，这与所有只关注群体成功概率的先前文献不同。虽然成功概率可能在群体规模上不单调，但我们表明，所有类型的人均福利总是在增加，严格来说，对于足够大的类型。随着群体规模的增加，每种类型的预期效用都会收敛到具有最低成本的类型的预期效用，这与没有搭便车问题时的预期效用相同，即，当游戏中只有一个玩家并且该玩家具有最低成本时。]]></description>
+      <guid>https://www.nber.org/papers/w32999#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>行为衰减——作者：Benjamin Enke、Thomas Graeber、Ryan Oprea、Jeffrey Yang</title>
-      <link>https://www.nber.org/papers/w32973#fromrss</link>
-      <description><![CDATA[我们报告了一项大规模的行为衰减研究：由于信息处理的限制，人们的决策相对于经济基本面的弹性通常太小。我们实施了 30 多个实验，其中 20 个来自顶尖专家的众包。这些实验涵盖了广泛的经济决策，从选择和估值到信念形成，从战略博弈到一般优化问题，涉及投资、储蓄、努力供应、产品需求、税收、环境外部性、公平、合作、选美比赛、信息披露、搜索、政策评估、记忆、预测和推理。在我们 93% 的实验中，决策对基本面的弹性随着参与者的认知不确定性而降低，这是我们衡量信息处理限制严重程度的标准。此外，在具有客观解决方案的决策问题中，我们观察到的弹性普遍小于最佳值。许多广泛研究的决策异常代表了行为衰减的特殊情况。我们讨论了它的局限性以及它为什么经常导致经典的敏感性递减现象。]]></description>
-      <guid>https://www.nber.org/papers/w32973#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:51 GMT</pubDate>
+      <title>企业和总体经济中的资本-技能互补性——Giuseppe Berlingieri、Filippo Boeri、Danial Lashkari、Jonathan Vogel 著</title>
+      <link>https://www.nber.org/papers/w33000#fromrss</link>
+      <description><![CDATA[我们在一个多部门框架中研究资本-技能互补性，该框架以企业特定的多要素生产函数为特征，并允许企业特定的要素价格楔子。我们用企业层面的跨要素替代弹性、跨企业和部门的替代弹性以及要素强度来描述技能溢价对资本设备价格的弹性。使用法国数据，我们可靠地识别了这些企业层面的弹性。结合这些要素，我们首次识别了总体资本-技能互补性，允许企业、行业和总体层面上不可观察的生产力技能偏见的任意趋势。我们发现总体资本-技能互补性具有经济和统计上的显著程度，但仅靠这种力量不足以产生数据中观察到的对高技能工人的相对需求的充分增长。资本设备中未体现的技能增强技术变革发挥着重要作用。]]></description>
+      <guid>https://www.nber.org/papers/w33000#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>共同抓住机遇——Seema Jayachandran、Lea Nassal、Matthew J. Notowidigdo、Marie Paul、Heather Sarsons、Elin Sundberg 著</title>
-      <link>https://www.nber.org/papers/w32970#fromrss</link>
-      <description><![CDATA[许多夫妻都面临着在发展配偶一方的事业还是另一方的事业之间做出取舍的问题。我们使用来自德国和瑞典的行政数据来研究这种取舍问题。我们首先对跨通勤区的夫妻进行事件研究分析，发现搬迁使男性的收入高于女性，德国和瑞典的模式惊人地相似。然后，我们使用大规模裁员事件样本，发现这两个国家的夫妻更有可能因为男性被解雇而不是女性而被搬迁。我们调查这些性别模式是否反映了男性更高的潜在收入或优先考虑男性职业发展的性别规范。我们使用德国规范的变化提供了性别规范的暗示性证据。然后，我们开发并估计了一个家庭决策模型，在这个模型中，家庭可以更看重男性的收入而不是女性的收入。在这两个国家，估计的模型都可以准确地再现简化形式的结果，包括未用于估计模型的结果。结果表明，性别规范在解释联合行动回报中的性别差距方面发挥了作用。]]></description>
-      <guid>https://www.nber.org/papers/w32970#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:50 GMT</pubDate>
+      <title>工作时间与一生的收入不平等——亚历山大·比克、亚当·布兰丁、理查德·罗杰森著</title>
+      <link>https://www.nber.org/papers/w32997#fromrss</link>
+      <description><![CDATA[我们利用 NLSY79 的数据记录了一生工作时间的巨大差异，并认为这些差异是一生收入不平等的重要原因。为了证实这一点，我们开发并校准了一个丰富的异质性劳动力供应和人力资本积累代理模型，该模型允许工作偏好、初始人力资本和学习能力的异质性，以及整个生命周期中人力资本的特殊冲击。我们的校准模型表明，一生收入的近 20% 的差异是由一生工作时间的差异造成的，其中 90% 的影响是由于偏好的异质性。更高的一生工作时间通过两个渠道促进一生收入：直接渠道（在给定生产力下花在生产上的时间更多）和人力资本渠道（花在投资人力资本上的时间更多，从而提高未来的生产力）。一生工作时间对一生收入的影响中有三分之一到一半是由于人力资本渠道。我们的模型表明，限制长时间工作的政策对一生收入的平均值和方差都有重要影响。]]></description>
+      <guid>https://www.nber.org/papers/w32997#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>种族、民族和性别的健康不平等和经济差距——作者：Nicolò Russo、Rory McGee、Mariacristina De Nardi、Margherita Borella、Ross Abram</title>
-      <link>https://www.nber.org/papers/w32971#fromrss</link>
-      <description><![CDATA[我们根据种族、民族和性别衡量中老年时期的健康不平等，并使用“健康与退休研究”数据集评估其在多大程度上可以解释其他关键经济结果的不平等。我们衡量健康的主要指标是虚弱度，即一个人可能的健康缺陷的比例，与生物年龄有关。我们发现了惊人的健康不平等：55 岁时，黑人男性和女性的虚弱度或生物年龄分别与大 13 岁和 20 岁的白人男性和女性相同，而西班牙裔男性和女性的虚弱度则与大 5 岁和 6 岁的白人男性和女性相同。构成虚弱度的健康缺陷表明，大多数健康缺陷在黑人和西班牙裔人群中比在白人人群中更常见，但需要诊断的人群除外。将医学诊断归咎于黑人和西班牙裔人群会发现更大的健康差距，尤其是黑人男性。健康不平等也成为经济不平等的一个重要决定因素。如果 55 岁的黑人拥有与白人同龄人相同的健康状况，那么这两个群体之间的预期寿命差距将缩小一半，残疾持续时间差距将减少 40-70%。其他结果同样受到 55 岁健康状况的影响，这表明，针对中年之前的少数群体进行有针对性的健康干预可以大大减少生活数量和质量方面的经济差距。]]></description>
-      <guid>https://www.nber.org/papers/w32971#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:50 GMT</pubDate>
+      <title>经销商间价格分散和中介能力——Andrea L. Eisfeldt、Bernard Herskovic、Shuo Liu</title>
+      <link>https://www.nber.org/papers/w32998#fromrss</link>
+      <description><![CDATA[各个经销商的中介能力各不相同，因此，信用风险的错误分配会降低经销商部门的风险承担能力，并增加有效的市场层面风险规避。当经销商部门内信用风险的有效重新分配受损时，经销商间价格分散度会增加。从经验上看，当经销商间价格分散度增加时，债券价格会下降。经销商间价格分散度解释了债券收益率利差变化的很大一部分、债券收益的横截面以及债券利差和公允价值利差之间的基础变化。我们得出的结论是，经销商间的摩擦会降低中介机构的风险承担能力，对中介债券定价至关重要。]]></description>
+      <guid>https://www.nber.org/papers/w32998#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>通过实验验证学校代金券的福利评估——作者：Peter Arcidiacono、Karthik Muralidharan、John D. Singleton</title>
-      <link>https://www.nber.org/papers/w32968#fromrss</link>
-      <description><![CDATA[我们利用一个独特的两阶段实验，该实验将各个市场和学生的私立学校代金券随机化，以估计学校选择的显示偏好值。为此，我们仅根据来自控制市场的数据估计了几个选择模型，然后再转向处理数据进行模型验证。这项练习表明，受支付能力约束的学校选择模型实现了更好的样本外拟合，但仍然低估了代金券优惠的实验接受度。然后，我们从处理市场中提供了证据：a) 代金券优惠也引发了搜索；b) 私立学校使用计划盈余来激励入学。此外，我们表明，结合这些特征的统一模型可以解释控制和处理数据模式。该模型的估计值意味着有针对性的代金券计划的公共资金边际价值 (MVPF) 至少为 3。]]></description>
-      <guid>https://www.nber.org/papers/w32968#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:49 GMT</pubDate>
+      <title>动态电价的效率——作者：Andrew J. Hinchberger、Mark R. Jacobsen、Christopher R. Knittel、James M. Sallee、Arthur A. van Benthem</title>
+      <link>https://www.nber.org/papers/w32995#fromrss</link>
+      <description><![CDATA[电力的边际成本每小时都在波动，但零售客户通常面临固定价格。利用来自美国所有七个批发市场的数据和一种考虑均衡价格效应的评估预先设定的替代费率的新方法，我们估算了时变价格计划的效率收益，这些计划可以更好地将价格与成本结合起来。我们有三个主要结果。首先，使用时间费率和关键峰值定价是两种最常见的时变费率计划，每种计划都可以纠正约 10% 的错误定价。其次，基于历史价格的复杂费率结构往往会适得其反。第三，具有价格上限的实时定价可以获取最大潜在的效率收益，同时限制客户风险。]]></description>
+      <guid>https://www.nber.org/papers/w32995#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:13 GMT</pubDate>
     </item>
     <item>
-      <title>安全查询系统，改善个人所得税数据访问——作者：Amy O'Hara、Stephanie Straus、Ron Borzekowski、Paul Arnsberger、Barry Johnson</title>
-      <link>https://www.nber.org/papers/w32969#fromrss</link>
-      <description><![CDATA[近年来，使用个人所得税数据进行统计研究得出了重要且引人注目的发现。这些微观数据可通过《国内税收法典》的税务管理机构和美国国税局收入统计 (SOI) 部门的联合统计研究计划获取，其需求持续增长。本文介绍了一种满足政府机构和非营利机构对此类统计数据需求的新方法。
-该项目探讨了隐私保护安全查询系统 (SQS) 的可行性，该系统将数据的最终用户、数据中介和 SOI 联系起来。在开发的早期阶段，最终用户可能是州或地方政府机构或非营利机构（例如社区学院的非学位课程）；中介是乔治城大学；所有处理都将在 SOI 内部进行并由 SOI 员工完成。目标是让 SQS 客户（例如州社会服务部门）准备并提交带有个人标识符的数据集，以便 SOI 与个人所得税记录进行匹配，从而生成预定义输出统计表。这种高效、自动化的流程应该能够以更低的成本和负担为客户和 SOI 提供更多的证据。]]></description>
-      <guid>https://www.nber.org/papers/w32969#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:49 GMT</pubDate>
+      <title>缩小差距：跨区域输电对排放和可靠性的影响——作者：Audun Botterud、Christopher R. Knittel、John Parsons、Juan Ramon Senga、Drew Story</title>
+      <link>https://www.nber.org/papers/w32996#fromrss</link>
+      <description><![CDATA[近几十年来，风能和太阳能发电成本大幅下降，显著改变了能源格局。随着这些技术在经济上变得可行，即使没有严格的脱碳政策，跨区域输电的作用也变得越来越重要。本研究考察了在现行政策和深度脱碳情景下跨区域输电对美国电网的价值。通过利用 GenX 容量扩展模型，我们评估了拟议的 BIG WIRES 法案，该法案规定了最低跨区域传输能力要求。我们的分析侧重于四个关键领域：跨区域输电建设和电网特性、电力系统成本节约、极端天气事件期间的电网可靠性以及气候效益。结果表明，在现行政策下，该法案可使跨区域传输能力提高 68%，从而每年节省 4.87 亿美元的系统成本，减少 4333 万吨二氧化碳排放量。在 95% 的二氧化碳减排要求下，效益甚至更大。该研究强调了跨区域输电对于优化可再生能源利用、提高电网可靠性以及实现成本节约和减少排放的重要性。]]></description>
+      <guid>https://www.nber.org/papers/w32996#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:13 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能的快速应用——作者：Alexander Bick、Adam Blandin、David J. Deming</title>
-      <link>https://www.nber.org/papers/w32966#fromrss</link>
-      <description><![CDATA[生成人工智能 (AI) 是一项潜在的重要新技术，但其对经济的影响取决于采用的速度和强度。本文报告了美国首次全国代表性调查的结果，该调查针对工作和家庭中生成人工智能的采用情况。2024 年 8 月，39% 的 18-64 岁美国人口使用了生成人工智能。超过 24% 的工人在接受调查前一周至少使用过一次，近九分之一的人每个工作日都使用它。使用情况和大众市场产品发布的历史数据表明，美国采用生成人工智能的速度比个人电脑和互联网的速度要快。生成人工智能是一种通用技术，因为它被广泛应用于工作和家庭中的各种职业和工作任务。]]></description>
-      <guid>https://www.nber.org/papers/w32966#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:48 GMT</pubDate>
+      <title>具有转换成本的需求非参数估计：习惯性品牌忠诚度案例——作者：Xinyao Kong、Jean-Pierre H. Dubé、Øystein Daljord</title>
+      <link>https://www.nber.org/papers/w32994#fromrss</link>
+      <description><![CDATA[我们研究习惯性品牌忠诚度，这是最早实证研究的转换成本形式之一，也是消费者需求中结构性状态依赖性的典型来源。辅助工具和经济动机限制可以收紧选择面板数据中品牌忠诚度程度的非参数界限。我们还证明，嵌套在我们的非参数框架中的典型动态离散选择模型具有“内置”排除限制，可以半参数地识别一般的折现因子，并点识别转换成本的标准参数化。几个大型消费品类别的案例研究表明，品牌忠诚度至少占所研究类别中观察到的选择的 10.8%，但不超过 72.2%。在某些类别中，它占观察到的重复购买行为的 90% 以上。消费者被发现具有前瞻性，但比实际利率所暗示的更不耐烦。]]></description>
+      <guid>https://www.nber.org/papers/w32994#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:12 GMT</pubDate>
     </item>
     <item>
-      <title>论市场与婚姻：一篇关于美国贫困原因的最新研究的多学科、多本书评论文章——伊丽莎白·阿纳纳特</title>
-      <link>https://www.nber.org/papers/w32967#fromrss</link>
-      <description><![CDATA[我讨论了最近出版的书籍，它们对美国持续贫困提供了不同的解释。Desmond (2023) 认为，对低收入美国人的援助被更强大的市场参与者所控制。我将这种担忧置于发生率的背景中，并考虑了改变发生率的政策（通过改​​变外部选择）和旨在减少无谓损失以及重新分配盈余的补充批评。Kearney (2023) 认为，婚姻的减少意味着美国儿童在资源较少的家庭中长大。我认为，这种下降可能反映了在男性日益成为家庭经济不稳定根源而女性外部选择改善的时代，使婚姻有效所需的“软”技能的不足。我考虑提高软技能的政策和支持家庭经济稳定的政策，这可以降低配偶技能要求。最后，我鼓励参与新兴的政策反馈文献，这些文献探讨了为什么像讨论过的那些流行的、基于证据的政策迄今为止尚未在美国被采用。]]></description>
-      <guid>https://www.nber.org/papers/w32967#fromrss</guid>
-      <pubDate>Mon, 23 Sep 2024 06:22:48 GMT</pubDate>
+      <title>中国：专制2.0--杨大卫</title>
+      <link>https://www.nber.org/papers/w32993#fromrss</link>
+      <description><![CDATA[以现代中国为代表的专制 2.0 经济强劲、技术先进、参与全球事务，并通过微妙而复杂的方法进行控制。是什么定义了中国的政治经济，是什么推动了专制 2.0？它的未来方向是什么？我首先讨论专制政权面临的两个关键挑战：激励和信息。然后，我描述了专制 1.0 依靠恐惧和镇压来解决这些问题。它不做出可信的承诺，而是使用胁迫手段来要求遵守，导致信息环境低下。接下来，我将介绍专制 2.0，强调其在处理承诺和信息挑战方面的重大转变。中国利用经济激励将利益与政权生存结合起来，从而获得支持。它采用先进的官僚结构和技术来管理激励和信息，从而在高信息环境中取得成功。最后，我将探讨专制 3.0 的潜力。在中国，随着经济增长放缓但期望值仍然很高，力量可能会恢复到专制 1.0，利用技术进行国家控制。在全球范围内，以中国为首的现代专制国家正在成为主要的地缘政治力量，对自由民主秩序构成挑战。]]></description>
+      <guid>https://www.nber.org/papers/w32993#fromrss</guid>
+      <pubDate>Mon, 30 Sep 2024 06:23:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
