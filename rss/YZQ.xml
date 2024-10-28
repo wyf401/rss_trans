@@ -4,104 +4,112 @@
     <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 21 Oct 2024 06:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 06:24:06 GMT</lastBuildDate>
     <item>
-      <title>套利的统计极限——瑞达、Stefan Nagel、修大成</title>
-      <link>https://www.nber.org/papers/w33070#fromrss</link>
-      <description><![CDATA[我们研究了统计学习对高维环境中套利定价的经济影响。套利者从历史数据中了解 alpha。当 alpha 较弱且稀少时，估计误差会阻碍套利者（即使是那些采用最佳机器学习技术的套利者）充分利用所有真实定价误差。这种套利的统计限制将 alpha 的均衡界限扩大到超出传统套利定价理论的预测范围，导致套利者可实现的夏普比率与在完全了解 alpha 的情况下无法实现的理论最大值之间存在显着差异。]]></description>
-      <guid>https://www.nber.org/papers/w33070#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:40 GMT</pubDate>
+      <title>管制降价的长期影响：来自医疗保险的证据——Yunan Ji、Parker Rogers</title>
+      <link>https://www.nber.org/papers/w33083#fromrss</link>
+      <description><![CDATA[我们调查了医疗设备行业大幅降低医疗保险价格的影响，某些类型的设备在 10 年内降价了 61%。通过分析 20 多年的管理和专有数据，我们发现这些降价导致新产品推出量下降 25%，专利申请量下降 75%，表明创新活动显著减少。制造商减少了市场进入，增加了对外国生产商的外包，这导致产品缺陷率上升。我们的计算表明，创新损失的价值可能完全抵消了降价带来的直接成本节约。我们建议更有针对性的定价改革可以减轻这些负面影响。这些发现强调了在政策设计中平衡成本控制与创新和质量激励的必要性。]]></description>
+      <guid>https://www.nber.org/papers/w33083#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>信息外部性、搭便车和英国石油行业的最佳勘探——查尔斯·霍奇森</title>
-      <link>https://www.nber.org/papers/w33067#fromrss</link>
-      <description><![CDATA[如果竞争对手可以搭便车，那么企业之间的信息溢出可以减少研发激励。然而，强大的产权可能会阻碍累积研究并导致低效重复。这些影响在自然资源勘探中尤其重要，因为发现在空间上是相关的。使用英国海上石油勘探数据，我估计了一个动态模型，该模型捕捉了现在钻探和等待从竞争对手那里学习之间的权衡。取消搭便车激励会使行业盈余增加 52%，而完美的信息流会使行业盈余增加 24%。反事实政策模拟强调了产权设计中的权衡：勘探井数据上更强的产权会提高勘探率，而较弱的产权会提高学习的效率和速度，但会降低勘探率。每个公司的钻探许可证的空间聚类既减少了搭便车的激励，又提高了学习速度。]]></description>
-      <guid>https://www.nber.org/papers/w33067#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:39 GMT</pubDate>
+      <title>企业工资效应--帕特里克·M·克莱恩</title>
+      <link>https://www.nber.org/papers/w33084#fromrss</link>
+      <description><![CDATA[本文回顾了有关企业工资差异的文献，以及通常用于衡量这些差异的固定效应方法。高工资企业往往生产率更高、规模更大、更受工人欢迎，并雇用更多有资质和工资更高的工人。最新证据表明，高工资企业也往往提供更好的便利设施，并且容易进行外包和大规模裁员。在回顾 Abowd、Kramarz 和 Margolis (1999) 的“AKM 模型”的要求时，我提供了一个图论解释，解释了该模型对更换雇主的工人的工资变化的限制，并检查了他们在基准数据集中的满意程度。我提供了假设，使这些工资变化具有因果解释，并讨论了将它们汇总到企业工资水平的全球排名中出现的一些困难。在回顾方差分解的计量经济学时，我认为注意力应该集中在效应大小而不是方差份额上，因为方差份额很难在不同噪声水平的数据集之间进行比较。本文回顾了用于解决有限流动性偏差的交叉拟合和聚类方法。一系列边界和归因练习表明，通常与交叉拟合方法结合使用的网络修剪对感兴趣的估计量几乎没有影响。对最新国际证据的回顾发现，在欠发达国家，公司效应的偏差修正标准差往往会大幅升高。本文回顾了公司对协变量影响的第二步回归方差估计方法，并通过对公司规模工资溢价的实证应用进行了说明。最后，我讨论了 AKM 模型与 Postel-Vinay 和 Robin (2002) 著名的连续拍卖框架之间的联系，并总结了未来在这方面开展工作的某些领域。]]></description>
+      <guid>https://www.nber.org/papers/w33084#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>选举人票、总统支持率和消费者情绪如何对经济指标作出反应？——罗伯特·J·戈登</title>
-      <link>https://www.nber.org/papers/w33068#fromrss</link>
-      <description><![CDATA[本文研究了自 1956 年以来经济指标对密歇根消费者信心指数、总统支持率和总统选举结果的影响。指标预测情绪的准确程度如何，情绪预测支持率的准确程度如何，支持率在解释以选举人票衡量的选举结果方面起什么作用？支持率的方差有多少取决于“蜜月效应”等非经济因素？一旦考虑到支持率的贡献，经济指标在解释选举结果方面是否发挥了作用？回归方程为这些问题提供了答案，并允许对政治历史进行新的解读。方程残差和特定变量的贡献以图形方式显示，提供了对情绪高于或低于经济指标预测的时间间隔的洞察，支持率与情绪和指标的通常关系不同的时间间隔，以及自 1956 年以来每次选举的选举人票总数何时以及为何超过或低于计量经济学方程的预测。]]></description>
-      <guid>https://www.nber.org/papers/w33068#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:39 GMT</pubDate>
+      <title>坚定的气候投资：半杯水——作者：Prachi Srivastava、Nicholas Bloom、Philip Bunn、Paul Mizen、Gregory Thwaites、Ivan Yotzov</title>
+      <link>https://www.nber.org/papers/w33081#fromrss</link>
+      <description><![CDATA[我们通过对英国企业进行大规模经济调查来分析气候相关投资的重要性。超过一半的企业预计气候变化将在中期内对其投资产生积极影响，约四分之一的企业预计影响将超过 10%。预计这些投资中约有三分之二将作为正常资本支出的补充，一些企业将减少在其他方面的投资。这些投资将由规模较大的企业以及能源密集型行业的企业推动。预计气候投资主要用于转向绿色能源和提高能源效率，企业预计主要使用内部现金储备为这些投资提供资金。总体而言，尽管企业预计将投入更多资源来适应气候变化，但在合理假设下，这些投资仍不足以实现英国净零排放路径所暗示的预计目标。]]></description>
+      <guid>https://www.nber.org/papers/w33081#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>收入分配中的退休激励和决策：加拿大的证据——Kevin S. Milligan、Tammy Schirle 著</title>
-      <link>https://www.nber.org/papers/w33069#fromrss</link>
-      <description><![CDATA[我们评估加拿大退休收入制度中嵌入的退休激励措施，关注个人在收入分配中所处的位置。我们发现，由于福利收入测试，工作历史中收入较低的个人可以获得更多的社会保障福利，但收入分配顶端的人往往可以享受更长的寿命，在此期间他们可以享受福利。总体而言，我们发现来自较低十分位数的个人的社会保障财富更多。对于来自较低收入十分位数的工人来说，继续工作的隐性税率往往更高。考虑到与提前领取养老金相关的精算调整变化，这些对老年工作的隐性税率在 2011 年后大幅下降。我们的回归估计证实了激励措施对退休行为的重要性，对较低十分位数的个人的影响要大得多。这些影响对女性的影响大于男性。在模拟中，我们表明，精算调整的变化通过降低工作隐性税对退休率产生了一定影响。然而，这些引发的退休金制度变化的整体再分配效应相当小，因为精算调整使整个系统更接近精算公平。]]></description>
-      <guid>https://www.nber.org/papers/w33069#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:39 GMT</pubDate>
+      <title>公司间推荐——蔡晶、林伟、Adam Szeidl 撰写</title>
+      <link>https://www.nber.org/papers/w33082#fromrss</link>
+      <description><![CDATA[我们对中国毛笔生产行业的 700 家供应商和客户公司进行了随机的公司间推荐。补贴推荐会导致后续交易，并部分挤占先前的合作伙伴；仅提供信息的推荐则没有效果。推荐增加了供应商公司和增长型客户公司的收入、利润和工作时间。接受补贴的供应商提高了产品质量，而接受补贴的客户将产品种类扩展到更高质量的产品，这表明推荐可以实现互补升级。接受补贴的公司增加了对合作伙伴价值的信念、寻找合作伙伴以及未推荐合作伙伴的数量，这表明悲观信念是合作摩擦的关键。推荐产生了非常大的私人和社会回报。]]></description>
+      <guid>https://www.nber.org/papers/w33082#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>物理学新文章的产生和影响——作者：Jacques Mairesse、Michele Pezzoni、Frederique Sachwald</title>
-      <link>https://www.nber.org/papers/w33064#fromrss</link>
-      <description><![CDATA[本文的目的有两个。首先，研究团队特征与产生新颖文章的概率之间的关系。其次，一旦产生了新颖文章，研究团队特征对文章影响力的调节作用。我们考虑了 2005 年至 2009 年间在 273 种著名物理学期刊上发表相应数量文章的 42,493 个研究团队。我们发现团队经验和团队专业化与产生新颖文章的概率呈负相关。相反，过去已经写过新颖文章与产生新颖文章的概率呈正相关。在分析新颖文章的影响力时，我们发现经验丰富的团队发表的新颖文章获得的引用量少于经验较少的团队发表的新颖文章，并且发表在影响因子较低的期刊上。我们还发现，大型成熟研究团队发表的新颖文章获得的引用量多于小型新成立团队发表的新颖文章。团队规模也与新文章发表期刊的影响因子呈正相关。]]></description>
-      <guid>https://www.nber.org/papers/w33064#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:38 GMT</pubDate>
+      <title>使用长期数据重新思考短期实际利率和期限利差——作者：Kenneth S. Rogoff、Barbara Rossi、Paul Schmelzing</title>
+      <link>https://www.nber.org/papers/w33079#fromrss</link>
+      <description><![CDATA[利用近期关键的数据进展，我们分析了基于多个世纪数据的短期实际利率和期限利差的长期样本的实证证据。与过去几十年关于短期实际利率的大量文献相比，我们发现长期序列中趋势平稳、调整速度相对较快以及结构性突变较少的强有力且一致的证据——我们表明这些结果在样本测试中得以保留。使用非常长期的数据为围绕 r* 的持续货币政策辩论提供了新的视角，也为重建期限利差的长期属性提供了关键的缺失环节。总的来说，与有限的后 COVID 数据相比，我们的证据表明，人们对短期实际利率行为中断的想法持谨慎态度，而是指出了非常长期的连续性因素。与此相关的是，我们表明，期限利差正在长期上升，而通胀波动趋势却完全相反——这一发现质疑了有影响力的期限结构模型的重点。]]></description>
+      <guid>https://www.nber.org/papers/w33079#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>克服歧视：骚扰和歧视动态——作者：Yi Chen、Adam Dearing、Michael Waldman</title>
-      <link>https://www.nber.org/papers/w33065#fromrss</link>
-      <description><![CDATA[历史上成功融合和失败融合的事件有一个共同点，那就是早期的开拓者因违反先前的种族隔离规范而将自己置于危险之中，因此受到的骚扰更为严重。这样的例子比比皆是，包括美国职棒大联盟的杰基·罗宾逊和拉里·多比、阿拉巴马大学第一位黑人学生奥瑟琳·露西以及早期的女性体育记者简·查斯顿和梅丽莎·卢德克。在本文中，我们从理论角度探讨了我们所说的“融合开拓者”受到的骚扰在融合成功和速度方面所起的作用。在我们的劳动力市场歧视模型中，骚扰之所以发生，是因为骚扰者从骚扰中获得了直接和即时的效用，但也因为骚扰有可能减慢甚至阻止融合。我们的主要结论是，这样的环境可以表现出路径依赖性，早期整合先驱的成功或失败对于后续整合过程的成功和速度至关重要。也就是说，早期成功比早期失败更有可能带来成功和更快的整合，即使早期成功不是由于环境因素使整合​​更容易。除了我们对骚扰在整合成功和速度中的作用进行正式的理论分析外，我们还将结果应用于各种历史事件。]]></description>
-      <guid>https://www.nber.org/papers/w33065#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:38 GMT</pubDate>
+      <title>个人网络的暴政：风险投资中独立融资的局限性——Sabrina T. Howell、Dean Parker、Ting Xu 著</title>
+      <link>https://www.nber.org/papers/w33080#fromrss</link>
+      <description><![CDATA[证券监管的核心矛盾在于保护投资者和促进广泛的资本形成。我们以风险投资基金经理为重点，研究私募市场保护投资者的关键工具：强制进行基于关系的融资和限制合格投资者。一项允许公开广告的新政策被人脉较少、代表性不足的基金经理不成比例地使用，并且对当地情况不太敏感。然而，它的采用有限，因为业绩记录在独立交易中很重要，而强大的网络在关系融资中很重要；代表性不足的经理往往两者都没有。独立交易融资还会对接触“人群”和核实投资者产生成本，从而产生负面信号。]]></description>
+      <guid>https://www.nber.org/papers/w33080#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>人生最美好时光：加拿大人的死亡率和寿命——凯文·米利根著</title>
-      <link>https://www.nber.org/papers/w33066#fromrss</link>
-      <description><![CDATA[我开发并实施了一种群体预期寿命方法，该方法使用一组行政税务数据，这些数据来自 1930 年至 1964 年出生的大量样本。在这 35 年中，54 岁以后的群体预期寿命女性增长了 5 年，男性增长了 7 年。收入最高的 5% 与收入最低的 5% 相比，收入-寿命梯度为男性 54 岁后寿命 9 年，女性 7 年。与美国不同，加拿大的预期寿命改善出现在整个收入分配中。不同社区之间存在巨大差异，这不能仅用收入差异来解释。]]></description>
-      <guid>https://www.nber.org/papers/w33066#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:38 GMT</pubDate>
+      <title>拼车和药物滥用障碍治疗——Conor Lennon、Johanna Catherine Maclean、Keith F. Teltser</title>
+      <link>https://www.nber.org/papers/w33077#fromrss</link>
+      <description><![CDATA[我们研究拼车是否为需要持续医疗保健的人提供了有意义的交通选择。具体来说，我们将美国各地 UberX 的进入变化与治疗事件数据集相结合，以估计拼车对物质使用障碍治疗入院的影响。需要此类治疗的人报告称交通是接受护理的障碍。我们发现 UberX 进入核心统计区对治疗入院总数没有影响。然而，我们发现非强化门诊治疗的下降被强化门诊治疗的增加完全抵消。考虑到每周就诊次数所需的非强化和强化门诊治疗相对频率，我们的研究结果表明 UberX 有助于减少获得医疗保健的交通障碍。事件研究显示，在 UberX 进入之前，结果呈现出平行趋势，并且结果经受住了多次敏感性检验。]]></description>
+      <guid>https://www.nber.org/papers/w33077#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>喂养老虎：斯里兰卡的汇款与冲突——作者：Barthélémy Bonadio、Andrei A. Levchenko、Dominic Rohner、Mathias Thoenig</title>
-      <link>https://www.nber.org/papers/w33062#fromrss</link>
-      <description><![CDATA[本文估计并量化了 1996 年至 2009 年期间侨民汇款流对斯里兰卡内战冲突强度和结果的影响。我们开发了一种基于地方层面 Facebook 连接数据的方法，以推断哪些汇款流入可能使泰米尔猛虎组织相对于中央政府受益。利用对汇款流出来源国的冲击，我们表明泰米尔猛虎组织可获得的汇款外生增加显著提高了他们的战斗力。然后，我们建立了一个定量模型，该模型涉及许多有争议的地理位置，并增加了影响双方战斗力的汇款流。我们使用汇款和冲突数据结构性地估计了关键参数，并在冲突期间根据斯里兰卡的分区校准了该模型。我们的主要定量研究结果是，汇款对中央政府的胜利时机产生了重大影响，并且汇款对泰米尔猛虎组织军事实力的影响远大于对政府的影响。有利于泰米尔猛虎组织叛军的汇款可能使战争延长了 14 年之久。]]></description>
-      <guid>https://www.nber.org/papers/w33062#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:37 GMT</pubDate>
+      <title>对住房密度的厌恶——Joseph Gyourko、Sean E. McCulloch 著</title>
+      <link>https://www.nber.org/papers/w33078#fromrss</link>
+      <description><![CDATA[我们描述了郊区房主对住房单元密度偏好的分布。为了衡量密度反事实增加下的福利变化，我们首先构建了一种新颖的房屋级密度暴露衡量标准，并在边界不连续设计中确定其价格效应。在最小地块面积较大的市镇边界，地块面积大 3,000 平方英尺，房屋价格高 40,000 美元。我们利用这些不连续性引起的密度暴露的系统变化来估计价格效应。然后，我们将这些估计值与住房选择的结构享乐模型联系起来，以检索个人对密度的偏好。总体而言，我们发现，密度每增加 1/2 个单位（相当于密度标准差为 0.3）会导致现有房主的平均福利损失约为 9,500 美元，而仅出租单位的反事实增加会导致损失明显更大。这些偏好中还有其他值得注意的异质性。大多数家庭对密度的偏好只有中等程度。中位福利损失仅为平均水平的 55%，这意味着对密度有更极端厌恶的人的左尾很长。这一尾部不成比例地包含富裕、低密度社区的家庭。总之，我们的研究结果记录了美国郊区密度管制需求的重要基础，我们希望这可以为未来研究该政策的巨大成本提供有价值的信息。]]></description>
+      <guid>https://www.nber.org/papers/w33078#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>科学中的不平等：谁会成为明星？——安娜·艾罗迪、佩特拉·莫泽</title>
-      <link>https://www.nber.org/papers/w33063#fromrss</link>
-      <description><![CDATA[一个人童年的社会经济地位 (SES) 如何影响他们参与科学并取得成功的机会？为了研究这个问题，我们使用机器学习方法将一本综合传记词典《美国科学家》（1921 年）中的科学家与他们在美国人口普查中的童年住所以及出版物联系起来。首先，我们表明，在 20 世纪初，来自低 SES 家庭的孩子已经严重缺乏代表性。其次，我们发现 SES 会影响同行的认可，即使以参与为条件：在控制年龄、出版物和学科的情况下，来自高 SES 家庭的科学家成为明星的几率高出 38%。使用住家仆人作为 SES 的替代衡量标准证实了童年 SES 与成为明星之间的紧密联系。应用文本分析将科学家分配到各个学科，我们发现数学是唯一一个 SES 通过科学家出版物的数量和质量影响明星地位的学科。使用职位头衔的详细数据来区分学术科学家和行业科学家，我们发现行业科学家成为明星的几率较低。控制行业就业情况进一步加强了儿童时期 SES 与明星地位之间的联系。精英本科学位比其他任何控制因素都更能解释 SES 与明星地位之间的相关性。同时，控制出生顺序、家庭规模、外国出生的父母、母亲教育、专利和与现有明星的关系后，估计值保持不变，这凸显了 SES 的重要性。]]></description>
-      <guid>https://www.nber.org/papers/w33063#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:37 GMT</pubDate>
+      <title>非二元性别认同与收入：全国人口普查的证据——作者：Christopher S. Carpenter、Donn L. Feir、Krishna Pendakur、Casey Warman</title>
+      <link>https://www.nber.org/papers/w33075#fromrss</link>
+      <description><![CDATA[非二元性别者（即不完全认同传统男性或女性性别的人）的社会和法律认可度正在不断提高。然而，我们对他们的经济现实知之甚少。我们使用与税务记录相关的受限访问的 2021 年加拿大人口普查数据，提供了有关非二元性别者收入的第一个全国代表性证据。我们发现，尽管非二元性别者往往比同龄人受教育程度更高，但他们的收入明显较低，尤其是在收入分配的底层，即使在调整了各种人口和社会经济因素后也是如此。]]></description>
+      <guid>https://www.nber.org/papers/w33075#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>评估大学生之间的同伴效应：来自 STEM 领域一对一配对实地实验的证据——作者：Robert W. Fairlie、Daniel M. Oliver、Glenn Millhauser、Randa Roland</title>
-      <link>https://www.nber.org/papers/w33060#fromrss</link>
-      <description><![CDATA[社会科学领域有大量文献分析了学生之间的同伴效应，但估计因几个主要问题而变得复杂，其中一些问题即使随机分配也无法解决。我们设计了一个现场实验，并提出了一种新的估计技术来解决这些估计问题，包括 Angrist (2014) 指出的与同伴群体内重复观察相关的机械问题。现场实验将学生随机分配到一所大型公立大学的重要入门 STEM 课程中的一对一伙伴关系中。我们从外生同伴效应模型的估计中没有发现同伴效应的证据。我们进一步推进并估计结果对结果模型，当外生模型不能提供良好的能力代理时，这些模型有时会揭示同伴效应。我们发现了一些有限的证据表明小的、正的结果对结果同伴效应（如果没有我们的新估计技术，这些证据就会被忽略）。标准估计方法无法检测到同伴效应，甚至在我们的蒙特卡罗模拟中返回负估计，因为机械问题导致向下偏差。模拟揭示了我们的技术的其他优势，尤其是在同伴群体规模固定的情况下。对非线性效应、异质效应以及同伴能力和结果的不同测量的估计显示，大多数效应为零，但我们发现一些证据表明，低能力的同伴会对低能力和中等能力的学生产生负面影响。在这种长期、密集的互动环境中，课堂随机分配和“全力以赴”的结果提供了证据，表明同伴最多会产生微小的积极效应，这与之前教育研究中普遍发现的同伴效应较大形成鲜明对比。]]></description>
-      <guid>https://www.nber.org/papers/w33060#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:36 GMT</pubDate>
+      <title>人工智能与金融——作者：Andrea L. Eisfeldt、Gregor Schubert</title>
+      <link>https://www.nber.org/papers/w33076#fromrss</link>
+      <description><![CDATA[我们提供证据表明，生成式人工智能的开发和采用正在推动企业和金融研究的重大技术转变。我们回顾了有关 ChatGPT 对公司价值影响的文献，并为未来研究这一重大技术冲击的影响提供了方向。最后，我们回顾并描述了与人工智能工具改进相关的研究方法的创新及其应用。我们为可用的工具提供了实用的介绍，并为有兴趣使用这些工具的研究人员提供了建议。]]></description>
+      <guid>https://www.nber.org/papers/w33076#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>宏观经济危机的劳动力市场剖析——Kevin Donovan、Will Jianyu Lu、Joseph H. Pedtke、Todd Schoellman 著</title>
-      <link>https://www.nber.org/papers/w33061#fromrss</link>
-      <description><![CDATA[本文使用两组基于季度劳动力调查的大型数据集，从全球视角审视劳动力市场衰退。劳动力市场衰退的严重程度和持续时间分布明显偏右。持续时间最长、最严重的衰退与危机有关，尤其是金融危机、突然停滞和房价暴跌。制造业和建筑业是传播的关键行业，因为它们占就业总下降的一半以上。劳动力市场衰退主要影响年轻和受教育程度较低的工人，他们缺乏针对特殊收入风险的自我保险能力。]]></description>
-      <guid>https://www.nber.org/papers/w33061#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:36 GMT</pubDate>
+      <title>社区大学学生是否越来越多地选择高薪专业？马萨诸塞州的证据——作者：Richard J. Murnane、John B. Willett、Aubrey McDonough、John P. Papay、Ann J. Mantil</title>
+      <link>https://www.nber.org/papers/w33073#fromrss</link>
+      <description><![CDATA[在马萨诸塞州，拥有医疗保健和 STEM 职业副学士学位的工人的劳动力市场回报非常高。我们研究这是否促使马萨诸塞州社区学院 (MACC) 中越来越多的学生在这些领域之一获得副学士学位 (AD)。我们使用多项逻辑分析来比较 12 个 MACC 入学群体中入学六年内获得医疗保健或 STEM 课程 AD 的学生比例趋势。
+我们发现，在各个群体中获得 STEM 课程 AD 的学生比例大幅增加，但在医疗保健课程中获得 AD 的学生比例没有增加。我们发现学生性别、种族/民族、家庭收入和 10 年级数学成绩在学位获得方面存在差异。对 MACC 项目负责人的采访显示，供应限制阻碍了许多医疗保健 AD 项目的扩展，但并没有阻碍 STEM 项目的扩展。]]></description>
+      <guid>https://www.nber.org/papers/w33073#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:00 GMT</pubDate>
     </item>
     <item>
-      <title>具有交易成本的最优动态资产配置：对冲需求的作用——作者：Pierre Collin-Dufresne、Kent D. Daniel、Mehmet Sağlam</title>
-      <link>https://www.nber.org/papers/w33058#fromrss</link>
-      <description><![CDATA[许多论文已经解决了预期收益随时间变化且交易成本高昂时的最佳动态投资组合策略，但仅适用于具有短视效用的代理。非短视代理即使在交易成本为零时也能从对冲投资机会集的未来冲击中受益（Merton，1969，1971）。在本文中，我们提出了一种解决非短视代理在交易成本高昂时面临随机投资机会集的动态投资组合分配问题的解决方案。我们表明，代理的最佳策略是朝着“目标”投资组合进行交易，该投资组合的构成既取决于交易成本，也取决于每种资产与投资机会集变化的相关性。代理朝着目标投资组合进行交易的速度既取决于冲击的持续性，也取决于冲击可以有效对冲的程度。我们使用一组简化的示例，并使用基于零售订单不平衡与未来收益之间估计关系的每日交易策略，说明了考虑长期投资者的对冲需求导致的投资组合构成的差异。]]></description>
-      <guid>https://www.nber.org/papers/w33058#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:35 GMT</pubDate>
+      <title>缩小性别安置差距：分数与金钱——作者：Pelin Akyol、Kala Krishna、Sergey Lychagin</title>
+      <link>https://www.nber.org/papers/w33074#fromrss</link>
+      <description><![CDATA[我们利用土耳其大学入学考试的数据，调查大学入学性别差距的程度、其根本原因以及潜在的政策干预措施。我们使用一种新颖的方法来估计偏好，这种方法提高了我们捕捉替代模式的能力，并找到了明确的证据，表明入学差异主要是由性别偏好差异造成的。我们将助学金补贴与实现性别平等的分数奖金进行比较。分数补贴几乎完全以牺牲分数相似的男性为代价来改善女性的福利，并且有利于高收入女性。助学金补贴改善了女性的福利，但对男性的损害很小，并且有利于低收入女性。我们的工作首次表明如何实现性别中立对社会很重要。]]></description>
+      <guid>https://www.nber.org/papers/w33074#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:24:00 GMT</pubDate>
     </item>
     <item>
-      <title>收入驱动的还款计划如何使学生债务借款人受益？——Sylvain Catherine、Mehran Ebrahimian、Constantine Yannelis</title>
-      <link>https://www.nber.org/papers/w33059#fromrss</link>
-      <description><![CDATA[学生贷款余额的快速增长引起了经济学家和政策制定者的担忧。利用行政信贷局的数据，我们发现 2010 年至 2020 年余额增长的近一半是由于延期付款，这主要是由于收入驱动还款 (IDR) 计划的扩大，该计划将付款与收入挂钩。这些计划通过平滑消费、防范劳动收入风险和降低未来付款的现值来帮助借款人。我们建立了一个生命周期模型来量化这种延期付款带来的福利收益以及借款人福利增加的渠道。新的、更慷慨的 IDR 规则增加了纳税人对借款人的转移，而不会产生净福利收益。通过将本科生债务的平均边际成本降低到每美元 50 美分以下，这些规则也可能激励过度借贷。我们证明，经过优化的 IDR 计划可以为借款人实现类似的福利收益，而纳税人的成本要低得多，并且不会鼓励额外借款，主要是通过延长期限。]]></description>
-      <guid>https://www.nber.org/papers/w33059#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:35 GMT</pubDate>
+      <title>美联储的政治偏见——裴匡、Michael Weber、谢诗涵</title>
+      <link>https://www.nber.org/papers/w33071#fromrss</link>
+      <description><![CDATA[我们对大量具有政治代表性的美国消费者样本（5,205 名参与者）进行了一项调查实验，以研究对美联储 (Fed) 政治立场的看法如何影响宏观经济预期和对美联储的信任。公众对美联储的政治倾向存在分歧：大多数共和党倾向的消费者认为美联储偏袒民主党，而大多数民主党倾向的消费者认为美联储偏袒共和党。认为美联储与其政治倾向一致的消费者往往 (1) 对当前和未来的经济状况有更积极的看法，并对该机构表现出更高的信任度，(2) 表现出更大的支付意愿并更有可能接收美联储的信息，以及 (3) 在更新通胀预期时会更加重视美联储的信息。强烈的团体偏袒通常会放大这些影响。最后，如果特朗普当选美国总统，消费者将绝大多数认为美联储偏袒共和党。将美联储视为同党的消费者比例将保持稳定，但其构成将发生变化：民主党倾向的消费者将不再认为美联储是同党，而共和党倾向的消费者将更多地这样看待美联储。同样，公众对美联储的整体信任将保持稳定，但民主党倾向的消费者的信任将大幅下降，而共和党倾向的消费者的信任将上升。]]></description>
+      <guid>https://www.nber.org/papers/w33071#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国同化与分配政策对美国印第安人死亡率的影响——格兰特·米勒、杰克·谢恩、C. 马修·斯尼普著</title>
-      <link>https://www.nber.org/papers/w33057#fromrss</link>
-      <description><![CDATA[与美国早期为解决“印第安人问题”而采取的公开战争、强制驱逐和重新安置政策不同，1887 年的道斯法案侧重于同化和土地分割——使美洲印第安人成为美国公民，拥有个人所有权的土地，而不是拥有公有土地的集体部落成员。大量学术研究表明，该政策的后果与其既定目标大相径庭，到 1934 年废除该政策时，美洲印第安人已经失去了 1887 年所拥有的所有原住民土地的三分之二（8600 万英亩）——近三分之二的美洲印第安人变得无地或无法满足生存需求。本文补充了丰富的定性历史，提供了关于道斯法案对美洲印第安儿童和成人死亡率影响的新定量证据。利用 1900 年和 1910 年美国人口普查数据来研究家庭和部落层面的分配时间变化，我们发现同化和分配政策使美国印第安儿童和成年人的死亡率从近 20％ 增加到三分之一（意味着出生时预期寿命下降了约 20％） - 证实了当代批评家对道斯法案的坚定担忧。]]></description>
-      <guid>https://www.nber.org/papers/w33057#fromrss</guid>
-      <pubDate>Mon, 21 Oct 2024 06:23:34 GMT</pubDate>
+      <title>雇主强制接种疫苗对健康和就业的影响——作者：Ashvin Gandhi、Ian Larkin、Brian McGarry、Katherine Wen、Huizi Yu、Sarah Berry、Vincent Mor、Maggie Syme、Elizabeth White</title>
+      <link>https://www.nber.org/papers/w33072#fromrss</link>
+      <description><![CDATA[考虑强制员工接种疫苗的医疗机构面临着艰难的权衡。虽然额外的疫苗接种覆盖范围将直接减少机构内的疾病传播，但强制接种也可能导致对疫苗犹豫不决的员工辞职，这可能会损害患者护理。为了研究这种权衡，我们利用了几乎所有美国养老院的综合管理数据，包括大约 5 亿日班护士的工资记录以及每个机构的 COVID 传播和死亡率的每周数据。我们使用差异差异框架来估计雇主对 581 家养老院实施的疫苗强制接种对疾病传播、就业结果和几项患者护理指标的影响。虽然强制接种确实略微增加了员工流动率，但影响集中在每周工作时间少于 20 小时的员工身上，导致每位患者每天的工作时间减少不到两分钟。此外，在通常受到监测的情况下，例如患者跌倒、压疮或尿路感染，强制接种机构的护理水平较低，证据有限。相比之下，实施疫苗强制令导致强制设施工作人员接种疫苗的人数大幅增加，这直接导致 COVID 传播减少和患者死亡率降低。我们估计，每两家实施强制令的设施中就有一名患者因疫苗强制令而获救，考虑到典型的设施有大约 100 张床位，这一效果非常显著。我们的结果表明，强制令的健康益处远远超过因员工流动而减少患者护理的成本。]]></description>
+      <guid>https://www.nber.org/papers/w33072#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>非常规货币和财政政策是否导致新冠疫情导致通胀飙升？——吴菁、谢银熙、张吉</title>
+      <link>https://www.nber.org/papers/w33044#fromrss</link>
+      <description><![CDATA[我们通过几种不同的实证方法（事件研究、向量自回归和使用细粒度数据的区域面板回归）评估为应对 COVID-19 大流行而实施的非常规货币和财政政策是否会导致 2021-2023 年通胀飙升，并得出零结果。关键的经济机制通过菲利普斯曲线中的通货紧缩渠道发挥作用，而货币和财政刺激则通过通常的需求渠道对通胀施加正压力。我们从理论和实证两个方面说明了这种负面的供给侧渠道。]]></description>
+      <guid>https://www.nber.org/papers/w33044#fromrss</guid>
+      <pubDate>Mon, 28 Oct 2024 06:23:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
