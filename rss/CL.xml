@@ -8,9 +8,9 @@
     <item>
       <title>使用 BiLSTM-Attention 方法实现高效机器翻译</title>
       <link>https://arxiv.org/abs/2410.22335</link>
-      <description><![CDATA[arXiv:2410.22335v1 Announce Type: new 
+      <description><![CDATA[arXiv:2410.22335v2 Announce Type: new 
 摘要：随着自然语言处理（NLP）技术的快速发展，机器翻译的准确性和效率成为研究的热点。本文提出了一种新颖的Seq2Seq模型，旨在提高翻译质量的同时减少模型所需的存储空间。该模型采用双向长短期记忆网络（Bi-LSTM）作为编码器，捕捉输入序列的上下文信息；解码器加入注意力机制，增强模型在翻译过程中聚焦关键信息的能力。与目前主流的Transformer模型相比，我们的模型在WMT14机器翻译数据集上取得了优异的性能，同时保持了较小的规模。
-本研究首先介绍了模型架构的设计原理和创新点，随后通过一系列实验来验证模型的有效性。实验包括对模型在不同语言对上的性能评估，以及与传统Seq2Seq模型的比较分析。结果表明，在保持翻译准确率的同时，我们的模型显著降低了存储要求，这对于资源受限场景下的翻译应用具有重要意义。我们的代码可以在https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/miniformer上找到。感谢MindSpore社区提供的支持。]]></description>
+本研究首先介绍了模型架构的设计原理和创新点，随后通过一系列实验来验证模型的有效性。实验包括对模型在不同语言对上的性能评估，以及与传统Seq2Seq模型的比较分析。结果表明，在保持翻译准确率的同时，我们的模型显著降低了存储需求，这对于资源受限场景下的翻译应用具有重要意义。我们的代码可以在https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/miniformer上找到。感谢MindSpore社区提供的支持。]]></description>
       <guid>https://arxiv.org/abs/2410.22335</guid>
       <pubDate>Thu, 31 Oct 2024 04:00:00 GMT</pubDate>
     </item>
