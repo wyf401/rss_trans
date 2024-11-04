@@ -4,112 +4,111 @@
     <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 28 Oct 2024 06:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 06:24:07 GMT</lastBuildDate>
     <item>
-      <title>管制降价的长期影响：来自医疗保险的证据——Yunan Ji、Parker Rogers</title>
-      <link>https://www.nber.org/papers/w33083#fromrss</link>
-      <description><![CDATA[我们调查了医疗设备行业大幅降低医疗保险价格的影响，某些类型的设备在 10 年内降价了 61%。通过分析 20 多年的管理和专有数据，我们发现这些降价导致新产品推出量下降 25%，专利申请量下降 75%，表明创新活动显著减少。制造商减少了市场进入，增加了对外国生产商的外包，这导致产品缺陷率上升。我们的计算表明，创新损失的价值可能完全抵消了降价带来的直接成本节约。我们建议更有针对性的定价改革可以减轻这些负面影响。这些发现强调了在政策设计中平衡成本控制与创新和质量激励的必要性。]]></description>
-      <guid>https://www.nber.org/papers/w33083#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:05 GMT</pubDate>
+      <title>赌博破坏稳定：体育博彩对弱势家庭的影响——作者：斯科特·R·贝克、贾斯汀·巴尔斯罗普、马克·J·约翰逊、杰森·D·科特、凯文·皮肖塔</title>
+      <link>https://www.nber.org/papers/w33108#fromrss</link>
+      <description><![CDATA[我们使用家庭交易数据和交错差异框架估计了在线体育博彩对家庭投资、支出和债务管理决策的因果影响。合法化后，体育博彩迅速蔓延，参与者的数量和投注频率都随着时间的推移而增加。这种增长不会取代其他赌博或消费，但会显著减少储蓄，因为高风险的赌注会挤占正预期价值的投资。这些影响集中在财务受限的家庭中，因为信用卡债务增加，可用信贷减少，透支频率上升。我们的研究结果强调了在线体育博彩对脆弱家庭的潜在不利影响。]]></description>
+      <guid>https://www.nber.org/papers/w33108#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>企业工资效应--帕特里克·M·克莱恩</title>
-      <link>https://www.nber.org/papers/w33084#fromrss</link>
-      <description><![CDATA[本文回顾了有关企业工资差异的文献，以及通常用于衡量这些差异的固定效应方法。高工资企业往往生产率更高、规模更大、更受工人欢迎，并雇用更多有资质和工资更高的工人。最新证据表明，高工资企业也往往提供更好的便利设施，并且容易进行外包和大规模裁员。在回顾 Abowd、Kramarz 和 Margolis (1999) 的“AKM 模型”的要求时，我提供了一个图论解释，解释了该模型对更换雇主的工人的工资变化的限制，并检查了他们在基准数据集中的满意程度。我提供了假设，使这些工资变化具有因果解释，并讨论了将它们汇总到企业工资水平的全球排名中出现的一些困难。在回顾方差分解的计量经济学时，我认为注意力应该集中在效应大小而不是方差份额上，因为方差份额很难在不同噪声水平的数据集之间进行比较。本文回顾了用于解决有限流动性偏差的交叉拟合和聚类方法。一系列边界和归因练习表明，通常与交叉拟合方法结合使用的网络修剪对感兴趣的估计量几乎没有影响。对最新国际证据的回顾发现，在欠发达国家，公司效应的偏差修正标准差往往会大幅升高。本文回顾了公司对协变量影响的第二步回归方差估计方法，并通过对公司规模工资溢价的实证应用进行了说明。最后，我讨论了 AKM 模型与 Postel-Vinay 和 Robin (2002) 著名的连续拍卖框架之间的联系，并总结了未来在这方面开展工作的某些领域。]]></description>
-      <guid>https://www.nber.org/papers/w33084#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:05 GMT</pubDate>
+      <title>经济决策的复杂性——Xavier Gabaix、Thomas Graeber 著</title>
+      <link>https://www.nber.org/papers/w33109#fromrss</link>
+      <description><![CDATA[我们提出了一种经济决策复杂性理论。利用生产函数的宏观经济框架，我们将思维概念化为认知经济，其中任务的复杂性由其认知操作的组成决定。复杂性是思考任务的全要素生产率的倒数。它增加了重要性加权组件的数量，并减少了一个或几个组件对最佳行动的影响程度。更高的复杂性会产生更大的决策错误和对问题参数变化的行为衰减。该模型适用于连续和离散选择。我们开发了一种理论指导的实验方法，用于测量简单且便携的复杂性主观感知。一系列实验测试并证实了我们的模型对复杂性感知、行为衰减和决策错误的核心预测。我们提供了一个将该框架应用于核心经济决策领域的模板，然后开发了几个应用程序，包括一个或多个相互作用商品的静态消费选择的复杂性、随时间推移的消费、税收制度、预测和商品之间的离散选择。]]></description>
+      <guid>https://www.nber.org/papers/w33109#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>坚定的气候投资：半杯水——作者：Prachi Srivastava、Nicholas Bloom、Philip Bunn、Paul Mizen、Gregory Thwaites、Ivan Yotzov</title>
-      <link>https://www.nber.org/papers/w33081#fromrss</link>
-      <description><![CDATA[我们通过对英国企业进行大规模经济调查来分析气候相关投资的重要性。超过一半的企业预计气候变化将在中期内对其投资产生积极影响，约四分之一的企业预计影响将超过 10%。预计这些投资中约有三分之二将作为正常资本支出的补充，一些企业将减少在其他方面的投资。这些投资将由规模较大的企业以及能源密集型行业的企业推动。预计气候投资主要用于转向绿色能源和提高能源效率，企业预计主要使用内部现金储备为这些投资提供资金。总体而言，尽管企业预计将投入更多资源来适应气候变化，但在合理假设下，这些投资仍不足以实现英国净零排放路径所暗示的预计目标。]]></description>
-      <guid>https://www.nber.org/papers/w33081#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:04 GMT</pubDate>
+      <title>利用政策和创新改善获取纳洛酮的途径以挽救生命——作者：Evan D. Peet、David Powell、Rosalie Liccardo Pacula</title>
+      <link>https://www.nber.org/papers/w33105#fromrss</link>
+      <description><![CDATA[纳洛酮是一种救命药，有助于逆转阿片类药物过量的影响。改善纳洛酮的获取是联邦政府应对美国日益恶化的阿片类药物危机的核心支柱。现有研究评估了州纳洛酮获取法的影响，包括允许药房直接向消费​​者分发纳洛酮的法律。然而，这些文献忽略了 Narcan 等药物创新的作用。Narcan 于 2016 年 2 月投放市场，是一种纳洛酮鼻喷雾剂，允许非专业人士在未经培训的情况下成功使用该药物。我们首先检验以下假设：纳洛酮获取法本身在 Narcan 之前就增加了纳洛酮的分布，然后检验以下假设：Narcan 的引入进一步扩大了纳洛酮的分布及其救命影响。我们分析了各州在采用纳洛酮获取法方面的差异及其相对于 Narcan 引入的时间。我们发现，在纳洛酮获取法允许药剂师向消费者分发药物的州，纳洛酮分发量在引入 Narcan 后大幅增加，其效果远远超过法律本身的独立效果。我们还发现，虽然这些纳洛酮获取法本身并没有降低非合成阿片类药物相关死亡率，但引入 Narcan 后，这些死亡率显著下降。这些发现表明创新和政策之间的重要相互作用。]]></description>
+      <guid>https://www.nber.org/papers/w33105#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>公司间推荐——蔡晶、林伟、Adam Szeidl 撰写</title>
-      <link>https://www.nber.org/papers/w33082#fromrss</link>
-      <description><![CDATA[我们对中国毛笔生产行业的 700 家供应商和客户公司进行了随机的公司间推荐。补贴推荐会导致后续交易，并部分挤占先前的合作伙伴；仅提供信息的推荐则没有效果。推荐增加了供应商公司和增长型客户公司的收入、利润和工作时间。接受补贴的供应商提高了产品质量，而接受补贴的客户将产品种类扩展到更高质量的产品，这表明推荐可以实现互补升级。接受补贴的公司增加了对合作伙伴价值的信念、寻找合作伙伴以及未推荐合作伙伴的数量，这表明悲观信念是合作摩擦的关键。推荐产生了非常大的私人和社会回报。]]></description>
-      <guid>https://www.nber.org/papers/w33082#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:04 GMT</pubDate>
+      <title>不断变化和不确定的世界中经常账户动态和储蓄与投资关系——Menzie D. Chinn、Hiro Ito</title>
+      <link>https://www.nber.org/papers/w33106#fromrss</link>
+      <description><![CDATA[我们重新审视了经常账户余额 (CAB) 的决定因素和储蓄与投资之间的关系，重点关注新兴市场和发展中经济体 (EMDE)。我们正处于一个新时代，不仅面临着经济挑战，还面临着其他非经济挑战，例如全球气候变化、自然灾害增多和战争。我们面临着重新审视 CAB 以及国民储蓄和投资的决定因素的必要性。我们首先采用事件研究方法，研究这些变量在战争、自然灾害和流行病之后的历史演变。第二项是对 CAB、国民储蓄和投资的跨国小组调查。在全球金融不稳定的情况下，由于投资下降，EMDE 的 CAB 往往会有所改善。油价上涨会增加国民储蓄和投资，但投资的变化大于国民储蓄的变化，这会使 CAB 恶化。美国联邦储备委员会的紧缩性货币政策往往会降低国民储蓄和投资，但对 CAB 的影响在统计上与零无异。平均而言，一个国家经历战争的频率越高，其 CAB 就越倾向于改善。当发生气候或地理灾害时，其 CAB、国民储蓄和投资往往会改善。美国货币政策不确定性水平的上升会导致 CAB 改善，这主要是由于投资下降。]]></description>
+      <guid>https://www.nber.org/papers/w33106#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>使用长期数据重新思考短期实际利率和期限利差——作者：Kenneth S. Rogoff、Barbara Rossi、Paul Schmelzing</title>
-      <link>https://www.nber.org/papers/w33079#fromrss</link>
-      <description><![CDATA[利用近期关键的数据进展，我们分析了基于多个世纪数据的短期实际利率和期限利差的长期样本的实证证据。与过去几十年关于短期实际利率的大量文献相比，我们发现长期序列中趋势平稳、调整速度相对较快以及结构性突变较少的强有力且一致的证据——我们表明这些结果在样本测试中得以保留。使用非常长期的数据为围绕 r* 的持续货币政策辩论提供了新的视角，也为重建期限利差的长期属性提供了关键的缺失环节。总的来说，与有限的后 COVID 数据相比，我们的证据表明，人们对短期实际利率行为中断的想法持谨慎态度，而是指出了非常长期的连续性因素。与此相关的是，我们表明，期限利差正在长期上升，而通胀波动趋势却完全相反——这一发现质疑了有影响力的期限结构模型的重点。]]></description>
-      <guid>https://www.nber.org/papers/w33079#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:03 GMT</pubDate>
+      <title>产业政策信息发现——Michael Sockin、Wei Xiong</title>
+      <link>https://www.nber.org/papers/w33107#fromrss</link>
+      <description><![CDATA[随着人们对产业政策的兴趣日益浓厚，我们开发了一个模型来探索市场驱动的信息发现与政策制定者的职业激励之间的矛盾。虽然基于市场的信息发现可以帮助解决政策制定者面临的信息障碍，但职业激励可能会导致他们积极地追求自己的议程以显示政治能力，从而将动态转向以政府为中心的平衡。在这种平衡中，市场参与者关注与政策相关的信息而不是行业基本面，削弱了市场在信息发现中的作用并降低了政策效率。我们的分析强调了官僚摩擦和基于市场的信息发现在共同塑造产业政策实施有效性方面的重要性。]]></description>
+      <guid>https://www.nber.org/papers/w33107#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>个人网络的暴政：风险投资中独立融资的局限性——Sabrina T. Howell、Dean Parker、Ting Xu 著</title>
-      <link>https://www.nber.org/papers/w33080#fromrss</link>
-      <description><![CDATA[证券监管的核心矛盾在于保护投资者和促进广泛的资本形成。我们以风险投资基金经理为重点，研究私募市场保护投资者的关键工具：强制进行基于关系的融资和限制合格投资者。一项允许公开广告的新政策被人脉较少、代表性不足的基金经理不成比例地使用，并且对当地情况不太敏感。然而，它的采用有限，因为业绩记录在独立交易中很重要，而强大的网络在关系融资中很重要；代表性不足的经理往往两者都没有。独立交易融资还会对接触“人群”和核实投资者产生成本，从而产生负面信号。]]></description>
-      <guid>https://www.nber.org/papers/w33080#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:03 GMT</pubDate>
+      <title>欧洲央行的气候活动和公众信任——Sandra Eickmeier、Luba Petersen</title>
+      <link>https://www.nber.org/papers/w33103#fromrss</link>
+      <description><![CDATA[随着包括欧洲央行 (ECB) 在内的各国央行承担起与气候相关的责任，衡量公众支持变得至关重要。根据 2023 年 6 月德国央行的家庭调查，我们发现 69% 的家庭表示，由于欧洲央行的气候行动，他们对欧洲央行的信任度有所提高，他们看重该机构更广泛的范围和关注度。虽然 17% 和 20% 的家庭对价格稳定或独立性的风险表示担忧，但 23% 的家庭认为气候参与强化了欧洲央行的核心目标。信息干预表明，对家庭通胀预期的影响微乎其微，这表明机构信任与通胀前景之间存在脱节。一项内部调查显示，央行行长准确衡量了信任的影响，但往往高估了对通胀预期的影响。总体而言，我们的研究结果表明，公众广泛支持欧洲央行的气候举措。]]></description>
+      <guid>https://www.nber.org/papers/w33103#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>拼车和药物滥用障碍治疗——Conor Lennon、Johanna Catherine Maclean、Keith F. Teltser</title>
-      <link>https://www.nber.org/papers/w33077#fromrss</link>
-      <description><![CDATA[我们研究拼车是否为需要持续医疗保健的人提供了有意义的交通选择。具体来说，我们将美国各地 UberX 的进入变化与治疗事件数据集相结合，以估计拼车对物质使用障碍治疗入院的影响。需要此类治疗的人报告称交通是接受护理的障碍。我们发现 UberX 进入核心统计区对治疗入院总数没有影响。然而，我们发现非强化门诊治疗的下降被强化门诊治疗的增加完全抵消。考虑到每周就诊次数所需的非强化和强化门诊治疗相对频率，我们的研究结果表明 UberX 有助于减少获得医疗保健的交通障碍。事件研究显示，在 UberX 进入之前，结果呈现出平行趋势，并且结果经受住了多次敏感性检验。]]></description>
-      <guid>https://www.nber.org/papers/w33077#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:02 GMT</pubDate>
+      <title>高风险决策中的不合理差异：种族测量和政策回应——作者：E. Jason Baron、Joseph J. Doyle Jr.、Natalia Emanuel、Peter Hull、Joseph P. Ryan</title>
+      <link>https://www.nber.org/papers/w33104#fromrss</link>
+      <description><![CDATA[种族歧视研究通常以种族的内生性衡量标准或可能受到歧视影响的早期决策为条件。我们开发了准实验工具，用于估计种族错误分类对不合理差异衡量标准的影响，并设计针对不合理差异的政策应对措施，以解释早期决策中的歧视。我们将这些工具应用于儿童保护服务 (CPS) 的设置，我们背景下的先前研究发现，黑人儿童被寄养的比例高于未来遭受虐待可能性相同的白人儿童。CPS 调查人员根据黑人和白人儿童自我报告的种族错误分类了 8-9%，这种错误分类掩盖了寄养安置决定中约 24% 的不合理差异。使用算法建议消除安置率完全不合理差异的政策也受到 CPS 呼叫筛选中早期歧视的重大影响。]]></description>
+      <guid>https://www.nber.org/papers/w33104#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>对住房密度的厌恶——Joseph Gyourko、Sean E. McCulloch 著</title>
-      <link>https://www.nber.org/papers/w33078#fromrss</link>
-      <description><![CDATA[我们描述了郊区房主对住房单元密度偏好的分布。为了衡量密度反事实增加下的福利变化，我们首先构建了一种新颖的房屋级密度暴露衡量标准，并在边界不连续设计中确定其价格效应。在最小地块面积较大的市镇边界，地块面积大 3,000 平方英尺，房屋价格高 40,000 美元。我们利用这些不连续性引起的密度暴露的系统变化来估计价格效应。然后，我们将这些估计值与住房选择的结构享乐模型联系起来，以检索个人对密度的偏好。总体而言，我们发现，密度每增加 1/2 个单位（相当于密度标准差为 0.3）会导致现有房主的平均福利损失约为 9,500 美元，而仅出租单位的反事实增加会导致损失明显更大。这些偏好中还有其他值得注意的异质性。大多数家庭对密度的偏好只有中等程度。中位福利损失仅为平均水平的 55%，这意味着对密度有更极端厌恶的人的左尾很长。这一尾部不成比例地包含富裕、低密度社区的家庭。总之，我们的研究结果记录了美国郊区密度管制需求的重要基础，我们希望这可以为未来研究该政策的巨大成本提供有价值的信息。]]></description>
-      <guid>https://www.nber.org/papers/w33078#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:02 GMT</pubDate>
+      <title>贸易不平衡：差距扩大是金融改革还是贸易改革造成的？——乔治·A·亚历山德里亚、白岩、吴洙京</title>
+      <link>https://www.nber.org/papers/w33101#fromrss</link>
+      <description><![CDATA[我们研究了 1970 年至 2019 年不平衡国际贸易和总体贸易同时大幅增长的原因。我们表明，这两个显著特征——净国际贸易和总国际贸易的增长——主要是由于国内贸易壁垒的减少，而不是跨期贸易摩擦的大幅减少或商业周期不对称加剧。除了解释总贸易和净贸易分布的变化外，国内贸易摩擦的下降与其他关键宏观时间序列中各国间差异的下降相一致，包括实际汇率、贸易条件、进出口比率、相对支出和相对 GDP。]]></description>
+      <guid>https://www.nber.org/papers/w33101#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>非二元性别认同与收入：全国人口普查的证据——作者：Christopher S. Carpenter、Donn L. Feir、Krishna Pendakur、Casey Warman</title>
-      <link>https://www.nber.org/papers/w33075#fromrss</link>
-      <description><![CDATA[非二元性别者（即不完全认同传统男性或女性性别的人）的社会和法律认可度正在不断提高。然而，我们对他们的经济现实知之甚少。我们使用与税务记录相关的受限访问的 2021 年加拿大人口普查数据，提供了有关非二元性别者收入的第一个全国代表性证据。我们发现，尽管非二元性别者往往比同龄人受教育程度更高，但他们的收入明显较低，尤其是在收入分配的底层，即使在调整了各种人口和社会经济因素后也是如此。]]></description>
-      <guid>https://www.nber.org/papers/w33075#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:01 GMT</pubDate>
+      <title>赤字与通货膨胀：HANK 与 FTPL 的交锋——作者：George-Marios Angeletos、Chen Lian、Christian K. Wolf</title>
+      <link>https://www.nber.org/papers/w33102#fromrss</link>
+      <description><![CDATA[在 HANK 模型中，财政赤字推动总需求，从而推动通货膨胀，因为家庭是非李嘉图式的；而在财政价格水平理论 (FTPL) 中，它们则通过均衡选择来推动。由于这种差异，HANK 中从赤字到通货膨胀的映射对于积极的货币政策而言是稳健的，并且不受围绕 FTPL 的争议的影响。尽管存在这种差异，但具有足够缓慢财政调整的基准 HANK 模型预测的通货膨胀与 FTPL 一样多。即使在最简单的 FTPL 情景中也是如此，其中赤字完全由通货膨胀和债务侵蚀来融资。然而，在实践中，无资金赤字可能会引发实际经济活动的持续繁荣，从而引发税基的持续繁荣，从而取代债务侵蚀。在我们的定量探索中，与简单的 FTPL 算法相比，这将无资金赤字的通胀效应降低了约一半。]]></description>
+      <guid>https://www.nber.org/papers/w33102#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能与金融——作者：Andrea L. Eisfeldt、Gregor Schubert</title>
-      <link>https://www.nber.org/papers/w33076#fromrss</link>
-      <description><![CDATA[我们提供证据表明，生成式人工智能的开发和采用正在推动企业和金融研究的重大技术转变。我们回顾了有关 ChatGPT 对公司价值影响的文献，并为未来研究这一重大技术冲击的影响提供了方向。最后，我们回顾并描述了与人工智能工具改进相关的研究方法的创新及其应用。我们为可用的工具提供了实用的介绍，并为有兴趣使用这些工具的研究人员提供了建议。]]></description>
-      <guid>https://www.nber.org/papers/w33076#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:01 GMT</pubDate>
+      <title>Android 移动应用中的 GDPR 和 SDK 使用情况——作者：Ginger Zhe Jin、Ziqiao Liu、Liad Wagman</title>
+      <link>https://www.nber.org/papers/w33099#fromrss</link>
+      <description><![CDATA[使用软件开发工具包 (SDK) 的数据，我们研究了 Android 应用中的 SDK 与欧盟于 2018 年 5 月通过的《通用数据保护条例》(GDPR) 之间的关系。相对于仅限美国的应用，在 GDPR 之后，欧洲 5 个主要国家 (EU5) 每个应用使用的非 Google SDK 数量在 EU5 仅限应用中下降了 1.3%，在美国和 EU5 多宿主应用中下降了 6.3%。这些影响主要是由排名较低的应用造成的。使用应用的月活跃用户作为权重来计算应用类别和国家/地区组中的平均用户 SDK 曝光量，我们发现 EU5 仅限应用的平均 SDK 曝光量与仅限美国的应用相比没有显著变化。多宿主应用中唯一显著的变化是小型 SDK 提供商开发的 SDK 曝光量下降了 4.2%，尽管谷歌和主要 SDK 提供商的 SDK 被独立评估为比小型 SDK 提供商的 SDK 风险更高。]]></description>
+      <guid>https://www.nber.org/papers/w33099#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>社区大学学生是否越来越多地选择高薪专业？马萨诸塞州的证据——作者：Richard J. Murnane、John B. Willett、Aubrey McDonough、John P. Papay、Ann J. Mantil</title>
-      <link>https://www.nber.org/papers/w33073#fromrss</link>
-      <description><![CDATA[在马萨诸塞州，拥有医疗保健和 STEM 职业副学士学位的工人的劳动力市场回报非常高。我们研究这是否促使马萨诸塞州社区学院 (MACC) 中越来越多的学生在这些领域之一获得副学士学位 (AD)。我们使用多项逻辑分析来比较 12 个 MACC 入学群体中入学六年内获得医疗保健或 STEM 课程 AD 的学生比例趋势。
-我们发现，在各个群体中获得 STEM 课程 AD 的学生比例大幅增加，但在医疗保健课程中获得 AD 的学生比例没有增加。我们发现学生性别、种族/民族、家庭收入和 10 年级数学成绩在学位获得方面存在差异。对 MACC 项目负责人的采访显示，供应限制阻碍了许多医疗保健 AD 项目的扩展，但并没有阻碍 STEM 项目的扩展。]]></description>
-      <guid>https://www.nber.org/papers/w33073#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:00 GMT</pubDate>
+      <title>关税让美国制造业变得伟大吗？镀金时代的新证据——亚历山大·克莱因、克里斯托弗·迈斯纳</title>
+      <link>https://www.nber.org/papers/w33100#fromrss</link>
+      <description><![CDATA[我们研究了 1870 年至 1909 年美国制造业关税与劳动生产率之间的关系。使用高度分散的关税数据、制造业的国有行业数据和工具变量策略，结果表明关税降低了劳动生产率。关税通常还会降低行业内企业的平均规模，但会增加产出价格、增加值、总产出、就业和企业数量。我们还发现，不同行业之间关税与增加值、总产出、就业和企业之间的关联存在异质性。我们得出的结论是，关税可能通过削弱进口竞争和吸引规模较小、生产率较低的国内企业进入制造业，从而降低了制造业的劳动生产率。我们的研究还表明，强大而高效的行业的游说可能也发挥了作用。那个时代的高关税不太可能帮助美国成为具有全球竞争力的制造商。]]></description>
+      <guid>https://www.nber.org/papers/w33100#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>缩小性别安置差距：分数与金钱——作者：Pelin Akyol、Kala Krishna、Sergey Lychagin</title>
-      <link>https://www.nber.org/papers/w33074#fromrss</link>
-      <description><![CDATA[我们利用土耳其大学入学考试的数据，调查大学入学性别差距的程度、其根本原因以及潜在的政策干预措施。我们使用一种新颖的方法来估计偏好，这种方法提高了我们捕捉替代模式的能力，并找到了明确的证据，表明入学差异主要是由性别偏好差异造成的。我们将助学金补贴与实现性别平等的分数奖金进行比较。分数补贴几乎完全以牺牲分数相似的男性为代价来改善女性的福利，并且有利于高收入女性。助学金补贴改善了女性的福利，但对男性的损害很小，并且有利于低收入女性。我们的工作首次表明如何实现性别中立对社会很重要。]]></description>
-      <guid>https://www.nber.org/papers/w33074#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:24:00 GMT</pubDate>
+      <title>支付意愿与行政障碍：了解泰国社会保险登记的障碍——Benjamin A. Olken、Rema Hanna、Phitawat Poonpolkul、Nada Wasi</title>
+      <link>https://www.nber.org/papers/w33096#fromrss</link>
+      <description><![CDATA[许多政府社会保险政策的实施率很低。为了了解这是由于行政障碍、信息还是保险价值低所致，我们研究了泰国一项不同寻常的政策试验，该试验为选定省份的非正规工人提供一笔非常大的一次性奖励，以鼓励他们参加自愿工人社会保险计划。利用行政数据，我们发现，临时参保激励措施在短短几个月内就将覆盖率提高了 67 个百分点，即非正规工人的参保率从 6% 提高到 73%。然而，12 个月后，这些新参保者中只有 13% 留在了该计划中，远低于没有激励措施时参保者的保留率。通过利用新参保者在保险等级中的选择来推算出保险的价值，我们发现那些受到激励措施诱导参保的人比没有激励措施的人更不重视保险。综合起来，结果表明，社会保险参保率低可能是保险事前价值低的结果，而不是行政障碍。]]></description>
+      <guid>https://www.nber.org/papers/w33096#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>美联储的政治偏见——裴匡、Michael Weber、谢诗涵</title>
-      <link>https://www.nber.org/papers/w33071#fromrss</link>
-      <description><![CDATA[我们对大量具有政治代表性的美国消费者样本（5,205 名参与者）进行了一项调查实验，以研究对美联储 (Fed) 政治立场的看法如何影响宏观经济预期和对美联储的信任。公众对美联储的政治倾向存在分歧：大多数共和党倾向的消费者认为美联储偏袒民主党，而大多数民主党倾向的消费者认为美联储偏袒共和党。认为美联储与其政治倾向一致的消费者往往 (1) 对当前和未来的经济状况有更积极的看法，并对该机构表现出更高的信任度，(2) 表现出更大的支付意愿并更有可能接收美联储的信息，以及 (3) 在更新通胀预期时会更加重视美联储的信息。强烈的团体偏袒通常会放大这些影响。最后，如果特朗普当选美国总统，消费者将绝大多数认为美联储偏袒共和党。将美联储视为同党的消费者比例将保持稳定，但其构成将发生变化：民主党倾向的消费者将不再认为美联储是同党，而共和党倾向的消费者将更多地这样看待美联储。同样，公众对美联储的整体信任将保持稳定，但民主党倾向的消费者的信任将大幅下降，而共和党倾向的消费者的信任将上升。]]></description>
-      <guid>https://www.nber.org/papers/w33071#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:23:59 GMT</pubDate>
+      <title>所有人都退缩？当移民恐惧高涨时，对少数族裔创作者的众筹支持普遍被撤回——作者：John (Jianqiu) Bai、William R. Kerr、Chi Wan、Alptug Y. Yorulmaz</title>
+      <link>https://www.nber.org/papers/w33097#fromrss</link>
+      <description><![CDATA[我们研究了 2009 年至 2021 年 Kickstarter 上多个族裔群体的资金缺口。通过扩展种族突出事件的概念，我们量化了众筹中少数族裔资金缺口与围绕移民的激烈政治言论之间的密切关联。与基线相比，在最激烈的时期，少数族裔的资金缺口增加了一倍以上。对于西班牙裔创作者来说，结果尤其明显。对于达到资金支持关键门槛的项目来说，遥远的、大多是白人的支持者通常很重要。在紧张时期，对少数族裔创作者的支持撤回甚至在空间上也存在，无论是在自由城市还是在保守城市。]]></description>
+      <guid>https://www.nber.org/papers/w33097#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>雇主强制接种疫苗对健康和就业的影响——作者：Ashvin Gandhi、Ian Larkin、Brian McGarry、Katherine Wen、Huizi Yu、Sarah Berry、Vincent Mor、Maggie Syme、Elizabeth White</title>
-      <link>https://www.nber.org/papers/w33072#fromrss</link>
-      <description><![CDATA[考虑强制员工接种疫苗的医疗机构面临着艰难的权衡。虽然额外的疫苗接种覆盖范围将直接减少机构内的疾病传播，但强制接种也可能导致对疫苗犹豫不决的员工辞职，这可能会损害患者护理。为了研究这种权衡，我们利用了几乎所有美国养老院的综合管理数据，包括大约 5 亿日班护士的工资记录以及每个机构的 COVID 传播和死亡率的每周数据。我们使用差异差异框架来估计雇主对 581 家养老院实施的疫苗强制接种对疾病传播、就业结果和几项患者护理指标的影响。虽然强制接种确实略微增加了员工流动率，但影响集中在每周工作时间少于 20 小时的员工身上，导致每位患者每天的工作时间减少不到两分钟。此外，在通常受到监测的情况下，例如患者跌倒、压疮或尿路感染，强制接种机构的护理水平较低，证据有限。相比之下，实施疫苗强制令导致强制设施工作人员接种疫苗的人数大幅增加，这直接导致 COVID 传播减少和患者死亡率降低。我们估计，每两家实施强制令的设施中就有一名患者因疫苗强制令而获救，考虑到典型的设施有大约 100 张床位，这一效果非常显著。我们的结果表明，强制令的健康益处远远超过因员工流动而减少患者护理的成本。]]></description>
-      <guid>https://www.nber.org/papers/w33072#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:23:59 GMT</pubDate>
+      <title>重温中国冲击：美国劳动力市场的就业重新分配和行业转换——作者：Nicholas Bloom、Kyle Handley、André Kurmann、Philip A. Luck</title>
+      <link>https://www.nber.org/papers/w33098#fromrss</link>
+      <description><![CDATA[利用美国人口普查局的机密行政数据，我们重新审视了中国进口渗透率的上升如何重塑了美国当地劳动力市场。受中国冲击影响较大的当地劳动力市场经历了从制造业到服务业的更大规模的重新分配。这种重新分配大部分发生在那些同时收缩制造业业务并扩大服务业就业的企业中。值得注意的是，大约 40% 的制造业就业岗位流失效应是由于企业不断将其主要活动从制造业转向贸易相关服务业，如研究、管理和批发。中国进口渗透的影响因当地劳动力市场特征而异。在人力资本较高的地区，包括大部分西海岸和大城市，就业岗位从制造业到服务业的重新分配相当可观。在人力资本较低、初始制造业份额较高的地区，包括大部分中西部和南部地区，我们发现就业岗位重新分配有限。我们估计，对中国冲击的这种不同反应占了这些地区 1997 年至 2007 年就业增长差距的一半。]]></description>
+      <guid>https://www.nber.org/papers/w33098#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>非常规货币和财政政策是否导致新冠疫情导致通胀飙升？——吴菁、谢银熙、张吉</title>
-      <link>https://www.nber.org/papers/w33044#fromrss</link>
-      <description><![CDATA[我们通过几种不同的实证方法（事件研究、向量自回归和使用细粒度数据的区域面板回归）评估为应对 COVID-19 大流行而实施的非常规货币和财政政策是否会导致 2021-2023 年通胀飙升，并得出零结果。关键的经济机制通过菲利普斯曲线中的通货紧缩渠道发挥作用，而货币和财政刺激则通过通常的需求渠道对通胀施加正压力。我们从理论和实证两个方面说明了这种负面的供给侧渠道。]]></description>
-      <guid>https://www.nber.org/papers/w33044#fromrss</guid>
-      <pubDate>Mon, 28 Oct 2024 06:23:58 GMT</pubDate>
+      <title>重新审视科学发明的私人价值——Ashish Arora、Sharon Belenzon、Elia Ferracuti、Jay Prakash Nagar 著</title>
+      <link>https://www.nber.org/papers/w33056#fromrss</link>
+      <description><![CDATA[估算专利的私人价值很重要，但也很有挑战性。通过开发一种使用股票市场回报来产生专利价值分布（而不仅仅是该分布平均值的估计值）的方法，Kogan、Papanikolaou、Seru 和 Stoffman (2017) (KPSS) 为新的研究开辟了空间。研究人员已使用这些估计值来比较不同类型专利的平均值。在本文中，我们认为不应以当前形式使用 KPSS 值来比较不同专利组的平均值，并在研究科学专利的私人回报的背景下表明情况确实如此。我们扩展了原始的 KPSS 方法，允许从两个不同的价值分布中抽取专利。使用这种方法，我们发现科学专利的平均值高于非科学专利。]]></description>
+      <guid>https://www.nber.org/papers/w33056#fromrss</guid>
+      <pubDate>Mon, 04 Nov 2024 06:24:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
