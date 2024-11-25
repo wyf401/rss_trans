@@ -4,111 +4,111 @@
     <title>美国国家经济研究局工作论文</title>
     <link>http://www.nber.org/new.html</link>
     <description>最新 NBER 工作论文</description>
-    <lastBuildDate>Mon, 18 Nov 2024 06:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 06:24:21 GMT</lastBuildDate>
     <item>
-      <title>论国际合作——巴德·哈斯塔</title>
-      <link>https://www.nber.org/papers/w33161#fromrss</link>
-      <description><![CDATA[一个简单的动态博弈用于分析国际环境问题和气候协议。随着时间的推移，不同的国家在排放和投资绿色技术。在这个框架中，我们可以分析一切如常的结果、短期与长期协议、自我执行协议、参与、遵守、替代设计以及从《京都议定书》到《巴黎协定》的发展。该文本应该适合任何级别的学生。]]></description>
-      <guid>https://www.nber.org/papers/w33161#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:26 GMT</pubDate>
+      <title>对穷人的财富征税：丹麦养老支持资产测试的证据——作者：Niels Johannesen、Johan Sæverud、Emmanuel Saez</title>
+      <link>https://www.nber.org/papers/w33189#fromrss</link>
+      <description><![CDATA[本文提供的证据表明，社会转移资产测试会大幅压低穷人的流动财富。我们的研究背景是丹麦，低收入老年人如果年末流动财富低于某个阈值（约 15,000 美元），每年将获得一笔补助（约 3,000 美元）。使用全民收入和财富的行政数据，我们记录到，低收入老年人的财富密度分布表现出财富阈值以下大量但分散的过剩：财富在财富阈值 50% 到 100% 之间的比例是年龄稍小或收入稍高的不合格对照组的两倍。改革分析支持因果解释：低于阈值的过剩出现在计划引入前后，当阈值离散增加时会发生变化。当我们仅依靠第三方报告的数据来衡量流动财富时，过剩仍然存在，因此并不反映接受者的战略性误报。最后，通过分析银行客户每月的财富、支出和现金提取信息，我们可以发现，过多的资金在很大程度上反映了流动性财富的长期较低水平，而不是年底的暂时反应。]]></description>
+      <guid>https://www.nber.org/papers/w33189#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:21 GMT</pubDate>
     </item>
     <item>
-      <title>超越基本面：媒体驱动的叙事如何影响跨境资本流动——Isha Agarwal、Wentong Chen、Eswar S. Prasad 著</title>
-      <link>https://www.nber.org/papers/w33159#fromrss</link>
-      <description><![CDATA[我们首次提供了媒体驱动的叙事如何影响跨境机构投资流动的实证证据。我们将自然语言处理技术应用于 150 万篇报纸文章，记录了 15 个国家根据国内媒体关于中国的叙事构建的情绪和风险指数在各国之间存在的巨大差异。即使在控制了宏观经济和金融基本面之后，这些叙事也会显著影响投资组合流动。对于对中国更熟悉或有私人信息的投资者来说，这种影响较小，而在不确定性加剧的时期，这种影响较大。政治和环境叙事与经济叙事一样具有影响力。投资者对负面叙事的反应比正面叙事更强烈。]]></description>
-      <guid>https://www.nber.org/papers/w33159#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:25 GMT</pubDate>
+      <title>保险市场的逆向选择和（非）自然垄断——Edward Kong、Timothy Layton、Mark Shepard 著</title>
+      <link>https://www.nber.org/papers/w33187#fromrss</link>
+      <description><![CDATA[逆向选择是一种典型的市场失灵，已知它会限制或“瓦解”高质量保险和许多其他经济环境中的交易。虽然标准理论强调质量扭曲，但我们认为选择还有另一个宏观含义：它瓦解了差异化企业之间的竞争，导致存活下来的竞争对手减少——在极端情况下，我们称之为“非自然”垄断。逆向选择迫使企业大幅降价以吸引对价格敏感的低风险消费者。这在平均成本和边际成本之间造成了差距（就像标准模型中的固定成本一样），限制了企业盈利生存的可能性。我们利用马萨诸塞州健康保险交易所的管理数据，在一个简单的保险公司进入和价格竞争模型中展示了这一见解。我们发现，平均成本的 20-30% 存在较大的“选择差距”，这（在没有纠正政策的情况下）会使市场陷入垄断。我们的分析表明了一个令人惊讶的政策含义：限制降价的干预措施可以通过支持更多进入并最终降低价格来改善福利。]]></description>
+      <guid>https://www.nber.org/papers/w33187#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>平均通胀目标制的简单模型——劳伦斯·鲍尔、张俊南</title>
-      <link>https://www.nber.org/papers/w33160#fromrss</link>
-      <description><![CDATA[本文在一个简单模型中推导出最优货币政策规则，该模型具有锚定的通胀预期和有效利率下限 (ELB)，假设长期通胀目标为 2%。在完全锚定预期的情况下，最优政策是平均通胀目标制的一种版本：为了抵消有效利率下限迫使通胀低于 2% 的时期，政策制定者在通胀不受约束时将通胀率固定为 2% 以上。在部分但不完全锚定预期的情况下，远离有效利率下限的通胀目标会随着经济状况而变化。对于某些参数值，在通胀处于低位一段时间后，目标最高。]]></description>
-      <guid>https://www.nber.org/papers/w33160#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:25 GMT</pubDate>
+      <title>建筑生产率为何停滞不前？土地使用监管的作用——Leonardo D'Amico、Edward L. Glaeser、Joseph Gyourko、William R. Kerr、Giacomo A.M Ponzetto 著</title>
+      <link>https://www.nber.org/papers/w33188#fromrss</link>
+      <description><![CDATA[我们记录了 20 世纪美国建筑生产率的库兹涅茨曲线。1900 年至 1940 年间，建筑工人人均建造的房屋数量停滞不前，二战后蓬勃发展，1970 年后则急剧下降。1940 年至 1970 年的生产率繁荣表明，建筑技术进步并非不可能。是什么阻止了它？我们提出了一个模型，其中当地土地使用控制限制了建筑项目的规模。这种限制减少了建筑公司的均衡规模，降低了规模经济和投资创新的动力。我们的模型表明，在竞争激烈的行业中，公司规模和技术投资的这种低效减少是限制性项目监管的显著后果，而经典的监管进入壁垒则增加了公司规模。该模型与一系列关于建筑行业性质的关键事实相一致。1970 年后的生产率下降与我们土地使用监管最佳代理指标的增加相吻合。如今，开发项目的规模很小，并且随着时间的推移有所下降。建筑公司的规模也相当小，尤其是相对于其他商品生产公司而言，规模较小的建筑商生产率较低。土地使用监管较为严格的地区，建筑公司规模特别小，生产率低。建筑行业的专利申请活动停滞不前，与其他行业脱节。粗略计算表明，如果观察到的公司规模与生产率之间的联系有一半是因果关系，那么如果美国住宅建筑公司的规模分布与制造业相匹配，其生产率将提高约 60%。]]></description>
+      <guid>https://www.nber.org/papers/w33188#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>分项医疗扣除的分配影响——作者：Gopi Shah Goda、Ithai Lurie、Priyanka S. Parikh、Chelsea Swete</title>
-      <link>https://www.nber.org/papers/w33157#fromrss</link>
-      <description><![CDATA[2021 年，约有 760 亿美元的自付医疗支出作为分项医疗扣除 (IMD) 扣除，导致联邦税收损失约 90 亿美元。我们使用美国纳税申报单中的数据来研究这些税收节省在收入和年龄方面的分布情况、分配与抵押贷款利息扣除有何不同，以及分配如何随着 2017 年减税和就业法案的变化而变化。虽然特定水平的医疗支出不太可能超过高收入家庭的收入门槛，但分项税率和边际税率会随着收入的增加而增加，导致税收节省偏向高收入纳税人：94% 的税收节省归属于收入分配上半部分的人。税收节省也高度集中在老年人身上，其中 42% 归属于 65 岁以上的人。使用丰富的自付医疗支出调查数据，我们说明了税收节省的分配在不同的政策方案中是如何变化的。我们发现，扩大税收补贴资格可能会减少高收入人群的税收节省集中度，并增加老年人的税收优惠集中度。]]></description>
-      <guid>https://www.nber.org/papers/w33157#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:24 GMT</pubDate>
+      <title>不断变化的社会互动模式：通过人工智能探索城市空间的社会生活——作者：Arianna Salazar-Miranda、Zhuangyuan Fan、Michael B. Baick、Keith N. Hampton、Fabio Duarte、Becky P.Y. Loo、Edward L. Glaeser、Carlo Ratti</title>
+      <link>https://www.nber.org/papers/w33185#fromrss</link>
+      <description><![CDATA[我们分析了纽约、波士顿和费城四个城市公共空间 30 年间行人行为的变化。基于威廉·怀特 1980 年手动记录行人行为的观察工作，我们采用计算机视觉和深度学习技术检查 1979-80 年和 2008-10 年的视频片段。我们的分析测量了步行速度、逗留行为、群体规模和群体形成的变化。我们发现，平均步行速度增加了 15%，而所有地点在这些空间逗留的时间减少了一半。虽然独自行走的行人比例保持相对稳定（从 67% 到 68%），但群体相遇的频率下降，表明公共空间中的互动减少。这种转变表明，城市居民越来越多地将街道视为通道而不是社交空间，这对公共空间在促进社会参与方面的作用具有重要意义。]]></description>
+      <guid>https://www.nber.org/papers/w33185#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:19 GMT</pubDate>
     </item>
     <item>
-      <title>使用公司文本进行经济监控——作者：Tarek Alexander Hassan、Stephan Hollander、Aakash Kalyani、Laurence van Lent、Markus Schwedeler、Ahmed Tahoun</title>
-      <link>https://www.nber.org/papers/w33158#fromrss</link>
-      <description><![CDATA[本文应用计算语言学的简单方法来分析非结构化公司文本，以进行经济监控。我们将文本作为数据的方法应用于收益电话会议记录、专利文本和招聘信息，以发现市场和公司如何应对经济冲击（例如核灾难或地缘政治事件）的独特见解，而这些见解往往是传统数据源无法获得的。这种方法增强了我们从文本数据中提取可操作情报的能力，从而有助于政策制定和战略性公司决策。通过将计算语言学整合到经济冲击分析中，我们的研究为实时经济监控开辟了新的可能性，并提供了对动荡经济环境中公司层面反应的更细致的理解。]]></description>
-      <guid>https://www.nber.org/papers/w33158#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:24 GMT</pubDate>
+      <title>大银幕上的种族筛查？来自电影业的证据——梁忠、安吉拉·克雷马、M. 丹尼尔·帕瑟曼</title>
+      <link>https://www.nber.org/papers/w33186#fromrss</link>
+      <description><![CDATA[我们开发了一个歧视模型，该模型使我们能够将在通过筛选测试的条件下观察到的群体结果差异解释为基于品味（雇主）、统计或客户歧视。我们应用此框架来调查美国电影业中非白人代表性不足的性质。利用一个包含 7,000 部电影演员种族标识符的新数据集，我们表明，在制作条件下，非白人电影的平均收入更高，差异更小。如果非白人电影的制作标准更高，那么我们的研究结果可以在我们的模型背景下得到合理化。]]></description>
+      <guid>https://www.nber.org/papers/w33186#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:19 GMT</pubDate>
     </item>
     <item>
-      <title>租赁住房市场中的拒付租金和驱逐行为——作者：John Eric Humphries、Scott T. Nelson、Dam Linh Nguyen、Winnie van Dijk、Daniel C. Waldinger</title>
-      <link>https://www.nber.org/papers/w33155#fromrss</link>
-      <description><![CDATA[最近的研究记录了美国驱逐事件的普遍性和后果，但我们对驱逐事件的驱动因素和减少驱逐事件的政策范围的理解仍然有限。我们使用来自高驱逐率租赁市场的新型租赁级账本数据来描述房东驱逐决策的关键决定因素：租户违约风险冲击的持续性、房东对这些冲击的信息以及房东的驱逐成本。我们的数据显示，不付款的情况很常见，房东通常会容忍，并且通常会追回租金，这表明房东面临着在发起昂贵的驱逐和等待了解租户是否可以继续付款之间做出权衡。我们开发并估计了一个动态离散选择驱逐决策模型来捕捉这种权衡。估计的驱逐成本约为 2 到 3 个月的租金，大多数驱逐都涉及不太可能继续支付租金的租户。因此，虽然普遍提出的政策可以为租户提供额外的宽容，但它们并不能阻止大多数驱逐行为。与拖延驱逐过程的政策相比，增加申请费或提供短期租金补贴更有可能防止那些愿意继续支付租金的租户被驱逐。]]></description>
-      <guid>https://www.nber.org/papers/w33155#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:23 GMT</pubDate>
+      <title>金融科技、视觉注意力和金融包容性：移民汇款实地实验——作者：Eduardo Nakasone、Máximo Torero、Angelino Viceisza</title>
+      <link>https://www.nber.org/papers/w33183#fromrss</link>
+      <description><![CDATA[移民汇款数额巨大，但汇款成本相对较高。政策制定者认为，金融科技，特别是像 kayak.com 这样用于汇款的比价网站，可以促进金融包容性，降低汇款价格。然而，人们对受教育程度有限、不信任数字方式的移民如何与金融科技互动知之甚少。我们在一个比价网站上进行了一项实地实验，并改变了向移民展示的汇款公司属性，特别是汇款时间和客户评论。我们使用视觉注意力数据来探索搜索。我们发现：（1）虽然 10-28% 的移民表现出某种汇款习惯，但超过一半的人会尝试与曾经提供金融科技信息的公司合作；（2）虽然移民对信息的反应是理性的，搜索似乎有针对性的，但存在相当大的异质性——那些对比价网站认知度较低、金融素养或信息处理能力较差的人对金融科技的反应较弱； (3) 当向移民提供金融科技信息时，他们做出违背自己偏好的行为的可能性比研究之外的偏好高出 44%。因此，尽管他们通常会货比三家寻找最便宜的公司，但他们还是多付了 20-30% 的费用。研究结果表明，金融科技在改善金融包容性和消费者福利方面具有微妙的潜力。]]></description>
+      <guid>https://www.nber.org/papers/w33183#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>实时预测天然气价格——作者：Christiane Baumeister、Florian Huber、Thomas K. Lee、Francesco Ravazzolo</title>
-      <link>https://www.nber.org/papers/w33156#fromrss</link>
-      <description><![CDATA[本文对美国天然气实际价格的月度可预测性进行了全面分析，考虑了复杂程度和经济内容各异的模型。我们的主要发现是，在长达两年的预测期内，相对于随机游走基准，均方预测误差可以实时大幅降低。一个特别有前途的模型是六变量贝叶斯向量自回归模型，其中包括天然气供需的基本决定因素。为了捕捉这些和其他预测变量的实时数据约束，我们从多个来源收集了一个丰富的历史年份数据库。我们还将基于模型的预测与专家和期货市场提供的现成的非模型预测进行了比较。鉴于没有一种预测方法可以胜过所有其他方法，我们探索了汇总预测的实用性，并发现根据各个模型的最新表现实时选择各个模型，并将这些模型的预测结合起来可以提供最准确的预测。]]></description>
-      <guid>https://www.nber.org/papers/w33156#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:23 GMT</pubDate>
+      <title>选型匹配和工资：选择的作用 -- 作者：Katarína Borovičková、Robert Shimer</title>
+      <link>https://www.nber.org/papers/w33184#fromrss</link>
+      <description><![CDATA[我们开发了一个具有双面异质性和匹配特定生产力冲击的随机搜索模型，以解释为什么高生产力工人倾向于在高生产力公司工作，尽管低生产力工人从这种匹配中获得的收益差不多。我们的模型有两个关键预测：i) 工人获得的平均对数工资随着工人和雇主的生产力而增加，低生产力工人在高生产力公司获得的比例更高；ii) 工人的生产力和雇主的生产力之间存在选择性匹配。选择性工作接受推动了这些模式。所有工人都有同等的可能性与所有公司会面，但工人从与生产力相似的公司会面中获得更高的盈余。高盈余会议导致更频繁的匹配，产生选择性匹配。在行政工资数据中只观察到导致匹配的会议子集，从而影响工资。我们表明，我们的研究结果与最近的实证结果在数量上一致。此外，我们证明使用标准实证方法无法检测到这种选择，突出了理论指导的实证工作的重要性。我们的结果表明，鼓励高薪公司雇用低薪工人对于减少工资不平等的效果可能不如工资模式所显示的那么好。]]></description>
+      <guid>https://www.nber.org/papers/w33184#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>劳动力市场的性别演变——克劳迪娅·奥利维蒂、杰西卡·潘、芭芭拉·佩特隆戈洛</title>
-      <link>https://www.nber.org/papers/w33153#fromrss</link>
-      <description><![CDATA[本章追溯了劳动力市场性别研究的发展，重点关注了从 20 世纪 80 年代至今，学术界对这一主题的思考如何随着现实世界中性别不平等的发展而演变。我们提出了一个简单的女性劳动力供应模型，以说明文献中讨论的各种力量（例如，生产率差异、不平等的性别角色、工资降价）如何影响性别收入差距。文献中的一项重大进展是更清楚地区分了男女之间偏好和技能的内在差异与推动性别差距的不同限制。我们讨论了这些解释的相对重要性及其对经济效率的影响的研究见解。我们强调，当今的许多文献都强调了性别限制的相关性，即女性和男性通常面临家庭和事业之间的不同权衡，这对工作分类、求职和收入都有影响。这些限制的根源在于家庭中的性别角色，而这些角色是由更广泛的社会规范塑造的。我们回顾了最近的研究，这些研究确定了身份和规范对于理解劳动力市场中供应方和需求方的性别不平等的相关性，以及推动这些规范形成和演变的因素。最后，我们总结了对未来研究的建议。]]></description>
-      <guid>https://www.nber.org/papers/w33153#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:22 GMT</pubDate>
+      <title>日本家庭储蓄：过去、现在和未来——查尔斯·堀冈雄二</title>
+      <link>https://www.nber.org/papers/w33181#fromrss</link>
+      <description><![CDATA[本文探讨了日本家庭储蓄率水平及其趋势的决定因素，重点关注人口年龄结构的影响，并预测了未来趋势。本文发现，日本的家庭储蓄率并非一直很高，无论是绝对值还是相对值，只有在 1961-86 年期间才超过 15%。日本家庭储蓄率的过去和未来趋势在很大程度上可以用其人口年龄结构的变化来解释，但退休老年家庭储蓄率的下降是最近家庭储蓄率下降的一个更重要的原因。然而，其他因素，如消费信贷的缺乏、社会安全网的缺乏、高经济（收入）增长率、储蓄减税、储蓄促进政策以及高企且不断上涨的土地和住房价格，也可能部分解释了为什么日本的家庭储蓄率在 1961-86 年期间如此之高，而后来又如此之低。最后，我们预测日本的家庭储蓄率将进一步下降，尽管速度不一定会很快。]]></description>
+      <guid>https://www.nber.org/papers/w33181#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>美国寄养安置中不合理的种族差异——作者：E. Jason Baron、Joseph J. Doyle Jr.、Natalia Emanuel、Peter Hull</title>
-      <link>https://www.nber.org/papers/w33154#fromrss</link>
-      <description><![CDATA[在美国，黑人儿童被寄养的可能性是白人儿童的两倍。这种种族差异引发了人们对歧视的担忧，但也可能反映了对干预的潜在需求的差异。本文估计了全国数据中的不合理差异 (UD)，即具有相同未来受虐待可能性的儿童的安置率的种族差异。我们使用依赖于弱且透明假设的非参数边界来衡量未来儿童受虐待的可能性。在全国范围内，我们发现黑人儿童被寄养的比例高于具有相同后续受虐待可能性的白人儿童；这个 UD 比控制可观察变量的传统估计值高出 42%。我们表明，各州的 UD 各不相同，黑人在人口中的比例和州内个案工作者的种族构成都是预测 UD 水平的关键因素。最后，我们表明，与没有受虐待可能性的儿童相比，有受虐待可能性的儿童的 UD 是后者的五倍，并且从 2008 年到 2020 年，UD 有所下降，这主要是由于有受虐待可能性的黑人儿童的安置率下降。未来可能受虐待的案件中 UD 的集中程度具有重要的政策意义，因为它可能表明白人儿童的“安置不足”——随着时间的推移，种族差距的缩小可能会增加黑人儿童受虐待的风险。]]></description>
-      <guid>https://www.nber.org/papers/w33154#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:22 GMT</pubDate>
+      <title>食品援助的长期影响：食品券计划和行政数据的证据——作者：Marianne Bitler、Theodore F. Figinski</title>
+      <link>https://www.nber.org/papers/w33182#fromrss</link>
+      <description><![CDATA[之前的研究主要使用自我报告，结果表明，早年接触食品券对自给自足、健康和幸福感产生了巨大的积极影响，这种影响会持续到成年。我们将相同的采用时间与收入、就业和残疾福利使用情况的行政数据相结合。出生在早年有食品券的县的女性在 32 岁时的收入高出 3%。在食品券推出之前就已实施其他实物食品计划的县，影响更大。食品券依赖于其他计划先前存在的行政资格认定。我们的研究结果建立了先前存在的行政基础设施与食品券对晚年生活的影响之间的联系。]]></description>
+      <guid>https://www.nber.org/papers/w33182#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>有效的长期雇佣关系中的工资调整——Michael W. L. Elsby、Axel Gottfries、Pawel M. Krolikowski、Gary Solon</title>
-      <link>https://www.nber.org/papers/w33149#fromrss</link>
-      <description><![CDATA[我们提出了一个模型，其中有效的长期雇佣关系通过生产力冲击和外部工作机会引发的工资调整来维持。由于存在重新谈判成本，这些工资调整只是偶尔发生。该模型适用于分析解决方案，为几种劳动力市场现象提供了新的见解，包括：（1）工作留守者薪酬变化的经验分布的主要特征；（2）工资动态的近乎“无记忆”的特性，即招聘工资对以后的工资和分配决策的影响有限；（3）招聘和留任奖金在维持有效的雇佣关系中起着至关重要的作用。]]></description>
-      <guid>https://www.nber.org/papers/w33149#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:21 GMT</pubDate>
+      <title>电子钱包超级应用和先买后付的兴起——边文龙、丛林威廉、杨吉</title>
+      <link>https://www.nber.org/papers/w33178#fromrss</link>
+      <description><![CDATA[超级应用数字钱包的兴起不仅为银行提供了渠道，还提供了内部支付选项，包括先买后付 (BNPL)。我们首次研究了来自领先电子钱包超级应用的与商家和消费者信息相匹配的交易，并通过随机实验补充了分析。我们记录了 BNPL 是“数字现金”的主要形式，并扩大了支付和信贷渠道，使服务不足的消费者能够获得这些服务，尽管他们的支出更多，但债务或拖欠率却没有增加。这些发现主要取决于超级应用生态系统的交叉销售能力和固有的纪律激励。我们的研究结果强调了信贷和支付之间的协同作用，并为通过超级应用驱动的平台向无现金转型的经济体提供了新颖的见解，而金融科技信贷在这些平台上具有最大的潜力。]]></description>
+      <guid>https://www.nber.org/papers/w33178#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>估算人力资本外部效应总量——郭俊杰、Nicolas A. Roys、Ananth Seshadri</title>
-      <link>https://www.nber.org/papers/w33151#fromrss</link>
-      <description><![CDATA[本文估计了两种人力资本外部性的衡量指标。通过将外部性纳入具有义务教育法 (CSL) 的人力资本积累的世代重叠模型，我们表明，人力资本外部性可以通过一代人的 CSL 对其他几代人的工资的影响来估计。使用从模型中推导出的工具变量策略，我们发现美国州一级的平均教育年限增加一年可使个人工资提高 6-8%。考虑到这一简化形式的估计，我们发现典型企业的生产力相对于经济体的平均人力资本的弹性为 0.121。]]></description>
-      <guid>https://www.nber.org/papers/w33151#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:21 GMT</pubDate>
+      <title>克服学校偏好中的种族差异：同龄人多样性对学校选择的影响——克莱门斯·M·伊杜克斯 (Clemence M. Idoux)、维奥拉·科拉迪尼 (Viola Corradini)</title>
+      <link>https://www.nber.org/papers/w33179#fromrss</link>
+      <description><![CDATA[种族间学校选择差异导致了学校隔离和进入有效学校的不平等。根据考试成绩和居住地区，黑人和西班牙裔家庭始终选择白人和亚裔学生较少、平均成绩较低、附加值较低的学校。本文结合了纽约市独特的调查数据和管理数据，以确定学校选择中种族差异的决定因素，并表明就读更加多元化的中学可以缓解种族选择差距。工具变量估计表明，接触到更加多元化的同龄人的中学学生会申请并就读同样更加多元化的高中。这些影响尤其有利于黑人和西班牙裔学生，因此，他们就读于附加值更高的高中。对高中申请人监护人的申请后调查表明，大多数跨种族选择差异源于信息差距和对学校人口统计学偏好的同质性。调查结果还表明，接触多元化的中学同学可以通过解决这些潜在决定因素来减少种族选择差异：它增加了对同学多样性的偏好并扩大了已知的学校选择范围。]]></description>
+      <guid>https://www.nber.org/papers/w33179#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>“先买后付”的经济学：商人的视角——作者：Tobias Berg、Valentin Burg、Jan Keil、Manju Puri</title>
-      <link>https://www.nber.org/papers/w33152#fromrss</link>
-      <description><![CDATA[“先买后付”（BNPL）是消费者支付领域的一项重要创新。它将产品销售与补贴贷款捆绑在一起，有效地为信用度较低的客户提供较低的价格。BNPL 允许商家对支付意愿不同的客户进行价格歧视。与价格歧视机制一致，我们发现 BNPL 可使销售额增加 20%，这得益于信用度较低的客户和市场力量较大的产品。我们发现，提供 BNPL 的好处远远超过商家的成本。我们的研究结果有助于解释 BNPL 在全球电子商务中日益流行的原因。]]></description>
-      <guid>https://www.nber.org/papers/w33152#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:21 GMT</pubDate>
+      <title>前向指导之谜不是一个谜题——作者：Gauti B. Eggertsson、Finn D. Schüle</title>
+      <link>https://www.nber.org/papers/w33180#fromrss</link>
+      <description><![CDATA[在标准的新凯恩斯主义模型中，未来降息的影响大于当前降息——这被称为前瞻性指引之谜。我们认为前瞻性指引之谜并不是一个难题。我们表明，这一难题源于令人难以置信的大规模货币制度变革，超过了大萧条以来美国历史上的任何一次变革。通过将我们的模型校准到美国大萧条期间的四次制度变革，并根据长期债券收益率的变化进行调整，我们发现该模型的预测与历史数据大致一致。]]></description>
+      <guid>https://www.nber.org/papers/w33180#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>减少监禁期间暴力和改善机构安全的疗法——Mary Kate Batistich、William N. Evans、Tyler Giles、Rebecca Margolit-Chan 著</title>
-      <link>https://www.nber.org/papers/w33147#fromrss</link>
-      <description><![CDATA[我们评估了 Step Up 的影响，这是德克萨斯州拉伯克市拉伯克县拘留中心为囚犯实施的一项认知行为治疗计划。Step Up 旨在通过小组课程、一对一咨询和结构化工作簿相结合的方式解决自我毁灭的思维和行为模式。我们在不平衡的双向固定效应框架中，将进入 Step Up 计划的个体与一组符合条件且感兴趣的非参与者进行比较。尽管可观察的特征和初始行为指标相似，但与未接受治疗的组相比，进入 Step Up 的个体每月行为事件发生率降低了 49%，下降了约 8 个百分点。典型的参与者在该计划中花费了大约 3 个月的时间，我们发现有证据表明，行为改善在计划完成后仍然存在。]]></description>
-      <guid>https://www.nber.org/papers/w33147#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:20 GMT</pubDate>
+      <title>思想的色彩：种族动态和经济学中的引文——作者：玛琳·科菲、罗兰·庞古、伦纳德·万切肯</title>
+      <link>https://www.nber.org/papers/w33150#fromrss</link>
+      <description><![CDATA[本文利用经济学论文引用网络研究了思想传播中种族差异的存在。利用 1950 年至 2021 年超过 330,000 份出版物的综合数据集，结合从数千名经济学家的简历中手动收集的数据，我们记录到非白人学者（黑人、西班牙裔或亚裔）撰写的论文的引用量比白人学者撰写的论文少 5.1% 至 9.6%。随着作者资历的提高和传统质量指标的提高，引用差距仍然存在甚至扩大，对于黑人作者来说尤其明显。此外，非白人学者撰写的论文不太可能充当引用桥梁，而且以中心性指数衡量，被高引用论文引用的次数也较少，从而限制了它们的直接和间接影响力。我们的分析表明，这种差异不是由于研究质量、作者能力或知名度的差异造成的。相反，它主要是由引用模式的同质性和网络中的种族集群所驱动，学者倾向于引用来自其种族群体的作者。这些发现可以通过一个简单的理论模型来合理化，其中引用成本和同行评审偏好会影响引用行为。然后，我们提供有启发性的证据，表明减少信息摩擦（从而降低引用成本）可以将种族引用差距缩小高达 50%。最后，使用自然语言处理，我们强调了研究中不同种族群体的互补性，并讨论了种族障碍对思想传播的潜在损失。]]></description>
+      <guid>https://www.nber.org/papers/w33150#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:15 GMT</pubDate>
     </item>
     <item>
-      <title>利用信息遏制种族歧视 -- 作者：Christopher R. Knittel、Donald MacKenzie、Michiko Namazu、Bora Ozaltun、Dan Svirsky、Stephen Zoepf</title>
-      <link>https://www.nber.org/papers/w33118#fromrss</link>
-      <description><![CDATA[我们测试了更多关于客户的信息是否会减少种族偏见。我们的背景是共享出行服务市场。Ge 等人 (2020) 的先前研究发现，如果乘客的名字主要是非裔美国人使用的名字，Uber 司机取消行程的可能性会高出两倍。在一项随机对照试验中，我们测试了对 Uber 平台应用程序的两项修改是否会减少种族歧视。在标准 Uber 应用程序中，司机在接受行程之前只会看到乘客的评分。一旦他们接受了行程，他们就会看到乘客的姓名。在第一次干预中，我们增加了评分字体的大小，以引起人们对乘客质量的关注。在第二次干预中，乘客的姓名从一开始就出现。通过对照组的观察，我们证实了非裔美国人使用姓名的可能性越大，司机取消行程的可能性就越大。然而，增加乘客评分的字体大小可以消除这种种族偏见。相比之下，我们没有发现太多证据表明在初始屏幕上显示姓名会降低或增加取消率。]]></description>
-      <guid>https://www.nber.org/papers/w33118#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:19 GMT</pubDate>
+      <title>弹性薪酬与劳动力供应：Uber 即时薪酬的证据——作者：M. Keith Chen、Katherine Feinerman、Kareem Haggag</title>
+      <link>https://www.nber.org/papers/w33177#fromrss</link>
+      <description><![CDATA[现代科技平台为工人提供了实时控制工作时间的功能，并且越来越多地提供灵活的薪酬：下班后立即获得报酬的选择。我们研究了薪酬灵活性对劳动力供应的影响以及零工经济工人的当前偏见偏好的影响。使用来自 Uber 全国随机对照试验的详细数据，我们估计了从固定的每周工资计划转换为即时支付（一种允许按需、当日提款的系统）的影响。我们发现，灵活的薪酬大大增加了司机的工作时间。此外，与当前偏见一致，当司机距离反事实的每周工资周期结束时间越远时，他们的反应就越高。我们讨论了工人能够灵活提供劳动力的情况下的福利和更广泛的影响。]]></description>
+      <guid>https://www.nber.org/papers/w33177#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:15 GMT</pubDate>
     </item>
     <item>
-      <title>女儿的力量：医生家庭如何影响女性患者的健康——Mette Gørtz、Ida L. Kristiansen、Tianyi Wang 著</title>
-      <link>https://www.nber.org/papers/w33146#fromrss</link>
-      <description><![CDATA[虽然医生对患者结果至关重要，但决定医生行为和决策的因素仍有待了解。在本文中，我们研究了医生的家庭特征如何影响医生的行为和患者的健康结果。利用丹麦的行政数据和儿童性别的自然实验，我们发现有女儿会影响男性初级保健医生的执业及其女性患者的健康。具体而言，由有一名女儿的男性医生照顾的女性患者（与有一名儿子的男性医生相比）死于女性特有癌症（包括乳腺癌和妇科癌症）的可能性降低 5.5%。这种结果的改善似乎源于加强的癌症筛查和预防工作，从而可以更早地发现并更成功地预防。探索潜在机制后，我们发现有更多女儿的男性医生对女性特有的健康指南更加关注，也更有可能与女性合作。我们还从调查数据中发现有启发性的证据，即女性患者报告对这些医生的信任度、同理心和沟通更清晰。]]></description>
-      <guid>https://www.nber.org/papers/w33146#fromrss</guid>
-      <pubDate>Mon, 18 Nov 2024 06:24:19 GMT</pubDate>
+      <title>净零银行的经济学——作者：Adair Morse、Parinitha R. Sastry</title>
+      <link>https://www.nber.org/papers/w33148#fromrss</link>
+      <description><![CDATA[银行已自愿承诺将其贷款组合与净零路径相结合，以实现脱碳经济。在这篇评论中，我们探讨了投资组合脱碳可能与贷方利润最大化相一致的经济渠道。我们提出问题的框架是，假设净零贷款可能通过风险和回报渠道创造差异价值，其中回报主题涵盖利润率和贷款账簿增长论点。然后，我们使用框架的视角来调查文献并讨论研究知识的空白。我们发现影响脱碳的风险论点具有多种作用。此外，脱碳和绿色投资与通过银行贷款增长提高盈利能力息息相关。然而，文献中仍有许多点需要连接。我们建议未来的工作可能会进一步将气候融资文献与更广泛的银行业文献联系起来，以增强我们对银行在净零转型中将发挥的作用的理解。]]></description>
+      <guid>https://www.nber.org/papers/w33148#fromrss</guid>
+      <pubDate>Mon, 25 Nov 2024 06:24:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
