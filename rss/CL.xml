@@ -96,8 +96,8 @@
     <item>
       <title>NLPineers@ 天城文脚本语言的 NLU 2025：使用基于 BERT 的模型集成进行仇恨言论检测</title>
       <link>https://arxiv.org/abs/2412.08163</link>
-      <description><![CDATA[arXiv:2412.08163v1 公告类型：新
-摘要：本文探讨了针对 CHIPSAL@COLING 2025 共享任务子任务 B 的 Devanagari 脚本语言中的仇恨言论检测，重点关注印地语和尼泊尔语。使用一系列基于 Transformer 的模型，例如 XLM-RoBERTa、MURIL 和 IndicBERT，我们检查了它们在处理仇恨言论和自由表达之间细微界限方面的有效性。我们表现最佳的模型，作为多语言 BERT 模型的集合实现，实现了 0.7762 的召回率（召回率排名 3/31）和 0.6914 的 F1 分数（排名 17/31）。为了解决类别不平衡问题，我们使用反向翻译进行数据增强，并使用余弦相似度来保持增强后的标签一致性。这项工作强调了在 Devanagari 脚本语言中进行仇恨言论检测的必要性，并为进一步的研究奠定了基础。]]></description>
+      <description><![CDATA[arXiv:2412.08163v2 公告类型：新
+摘要：本文探讨了针对 CHIPSAL@COLING 2025 共享任务的子任务 B 的 Devanagari 脚本语言中的仇恨言论检测，重点关注印地语和尼泊尔语。使用一系列基于 Transformer 的模型，例如 XLM-RoBERTa、MURIL 和 IndicBERT，我们检查了它们在处理仇恨言论和自由表达之间细微界限方面的有效性。我们表现最佳的模型，作为多语言 BERT 模型的集合实现，实现了 0.7762 的召回率（召回率排名 3/31）和 0.6914 的 F1 分数（排名 17/31）。为了解决类别不平衡问题，我们使用反向翻译进行数据增强，并使用余弦相似度来保持增强后的标签一致性。这项工作强调了在 Devanagari 脚本语言中进行仇恨言论检测的必要性，并为进一步的研究奠定了基础。]]></description>
       <guid>https://arxiv.org/abs/2412.08163</guid>
       <pubDate>Thu, 12 Dec 2024 05:00:00 GMT</pubDate>
     </item>
@@ -121,7 +121,7 @@
       <title>通过专门的 NLP 模型实现准确的医学命名实体识别</title>
       <link>https://arxiv.org/abs/2412.08255</link>
       <description><![CDATA[arXiv:2412.08255v1 Announce Type: new 
-摘要：本研究针对医学命名实体识别任务，评估了BioBERT在医学文本处理中的效果。通过与BERT、ClinicalBERT、SciBERT、BlueBERT等模型的对比实验，结果表明BioBERT在准确率和F1值上均取得了最优表现，验证了其在医学领域的适用性和优越性。BioBERT通过在生物医学数据上进行预训练，增强了对专业术语和复杂医学文本的理解能力，为医学信息提取和临床决策支持提供了有力的工具。研究还探讨了BioBERT在处理医学数据时面临的隐私和合规性挑战，并提出了未来结合其他医学专用模型提高泛化性和鲁棒性的研究方向。随着深度学习技术的发展，BioBERT在智能医疗、个性化治疗、疾病预测等应用领域的潜力将进一步拓展，未来研究可重点关注模型的实时性和可解释性，推动其在医学领域的广泛应用。]]></description>
+摘要：本研究针对医学命名实体识别任务，评估了BioBERT在医学文本处理中的效果。通过与BERT、ClinicalBERT、SciBERT、BlueBERT等模型的对比实验，结果表明BioBERT在准确率和F1值上均取得了最优表现，验证了其在医学领域的适用性和优越性。BioBERT通过在生物医学数据上进行预训练，增强了对专业术语和复杂医学文本的理解能力，为医学信息提取和临床决策支持提供了有力的工具。研究还探讨了BioBERT在处理医学数据时面临的隐私和合规挑战，并提出了未来结合其他医学专用模型提高泛化性和鲁棒性的研究方向。随着深度学习技术的发展，BioBERT在智能医疗、个性化治疗、疾病预测等应用领域的潜力将进一步拓展，未来研究可重点关注模型的实时性和可解释性，推动其在医学领域的广泛应用。]]></description>
       <guid>https://arxiv.org/abs/2412.08255</guid>
       <pubDate>Thu, 12 Dec 2024 05:00:00 GMT</pubDate>
     </item>
