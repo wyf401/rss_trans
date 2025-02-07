@@ -1,131 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>cs.CL 在 arXiv.org 上更新</title>
+    <title></title>
     <link>http://rss.arxiv.org/rss/cs.CL</link>
-    <description>cs.cl在arxiv.org e-print档案中更新。</description>
-    <lastBuildDate>Thu, 06 Feb 2025 05:00:00 GMT</lastBuildDate>
+    <description></description>
+    <lastBuildDate>Fri, 07 Feb 2025 05:00:00 GMT</lastBuildDate>
     <item>
-      <title>LLM 的无训练长度外推方法：贪婪注意 Logit 插值 (GALI)</title>
-      <link>https://arxiv.org/abs/2502.02659</link>
-      <description><![CDATA[arXiv:2502.02659v1 公告类型：新
-摘要：基于 Transformer 的大型语言模型 (LLM) 难以处理超出其训练上下文窗口的输入，由于位置分布不均 (O.O.D.) 会破坏注意力计算，导致性能下降。现有的解决方案、微调和免训练方法受到计算效率低下、注意力 logit 异常值或局部位置信息丢失的限制。为了解决这个问题，我们提出了贪婪注意力 logit 插值 (GALI)，这是一种无需训练的长度外推方法，可最大限度地利用预训练的位置间隔，同时通过注意力 logit 插值避免注意力 logit 异常值。结果表明，GALI 始终优于最先进的免训练方法。我们的研究结果表明，LLM 在训练上下文窗口内对位置间隔的解释并不均衡，这表明在较小的位置间隔范围内进行推断会产生更好的结果 - 即使对于短上下文任务也是如此。GALI 代表着朝着解决位置 O.O.D. 挑战迈出了重要一步，使 LLM 能够更可靠地理解长文本。我们对 GALI 的实现以及我们论文中的实验已在 https://github.com/AcademyCityL/GALI 上开源。]]></description>
-      <guid>https://arxiv.org/abs/2502.02659</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03552</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03552</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>变形金刚在跨样本大小的表格数据上提高决策树的性能</title>
-      <link>https://arxiv.org/abs/2502.02672</link>
-      <description><![CDATA[ARXIV：2502.02672V2公告类型：新 
-摘要：大型语言模型（LLMS）在零和少数图的表格数据集上表现出色，因为它们可以从描述特征和标签的自然语言列标题中提取含义。同样，TABPFN是在众多表面上文字学习表上预测的最新非LLM变压器，它在数据集中表现出了出色的性能，最多可达一千个样本。相比之下，通常在每个数据集中从头开始对梯度提高的决策树（GBDT）进行训练，而不会受益于预处理数据，并且必须仅凭文章中的列之间的关系，因为它们缺乏自然的语言理解。 LLMS和TABPFN在小表格数据集上表现出色，在该数据集中，强大的先验是必不可少的，但是它们与中等或大型数据集上的GBDT并不具有竞争力，因为它们的上下文长度受到限制。在本文中，我们提出了一种简单且轻巧的方法，用于将大型语言模型和TABPFN与梯度增强的决策树融合在一起，该方法允许可扩展的GBDT从自然语言能力和变压器预处理中受益。我们分别将融合方法命名为llm-boost和pfn-boost。在足够大的大小的足够小的数据集大小和GBDT上匹配或超过变压器的性能时，LLM-Boost和Pfn-Boost-Boost的表现都超过了两个独立组件，这两者之间的各种数据集大小。我们展示了针对众多基线和结合算法的最先进的性能。我们发现，PFN-Boost在我们测试的所有数据集尺寸以外测试的所有方法中都能达到最佳的平均性能。我们在http://github.com/mayukaj/llm-boost上发布代码。]]></description>
-      <guid>https://arxiv.org/abs/2502.02672</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title>在Babel中对Babble进行排序：评估Openalex数据库中语言检测算法的性能</title>
+      <link>https://arxiv.org/abs/2502.03627</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03627</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LMS如何看待社会和道德规范？</title>
-      <link>https://arxiv.org/abs/2502.02696</link>
-      <description><![CDATA[ARXIV：2502.02696V1公告类型：新 
-摘要：本文讨论并包含了令人反感的内容。语言模型（LMS）用于决策系统和交互式助手。但是，这些模型如何与人类价值观的多样性相吻合，特别是在社会和道德规范方面？在这项工作中，我们调查了LMS如何看待人口群体（例如性别，年龄和收入）的规范。我们促使11 LMS掌握了大脑规则（ROTS），并将其输出与100个人类注释者的现有响应进行比较。我们介绍了绝对距离对准度量（ADA-MET），以量化序数问题的一致性。我们发现LM响应的显着差异，年轻的高收入群体表现出更紧密的一致性，引起了对边缘化观点表示的担忧。我们的发现凸显了进一步努力使LMS更加包含多种人类价值的重要性。该代码和提示可在CC BY-NC 4.0许可证的GitHub上找到。]]></description>
-      <guid>https://arxiv.org/abs/2502.02696</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03643</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03643</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>为奥吉布韦语、米克马克语和马里西特语开发多语言语音合成系统</title>
-      <link>https://arxiv.org/abs/2502.02703</link>
-      <description><![CDATA[ARXIV：2502.02703V1公告类型：新 
-摘要：我们介绍了北美的三种土著语言的Ojibwe，Mi&#39;kmaq和Maliseet的轻巧匹配的多语言文本对语音（TTS）系统。我们的结果表明，在三种类型上类似语言上训练多语言TTS模型可以改善单语模型的性能，尤其是在数据稀缺时。无注意的体系结构具有高度竞争性的，具有更高的记忆效率的自我注意结构。我们的研究不仅为振兴低资源语言的技术发展提供了进步，而且还强调了人类评估方案中的文化差距，呼吁采取更以社区为中心的人类评估方法。]]></description>
-      <guid>https://arxiv.org/abs/2502.02703</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title>寻找内在音乐：探究LLM对文学风格的理解</title>
+      <link>https://arxiv.org/abs/2502.03647</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03647</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>低资源自然语言处理的跨语性转移</title>
-      <link>https://arxiv.org/abs/2502.02722</link>
-      <description><![CDATA[ARXIV：2502.02722V1公告类型：新 
-摘要：近年来自然语言处理（NLP）取得了显着进步，尤其是随着大型语言模型的出现，这些模型在许多任务中都实现了前所未有的表现。但是，这些发展主要使少数高资源语言（例如英语）受益。由于培训数据和计算资源的稀缺性，大多数语言仍然面临重大挑战。为了解决这个问题，本论文的重点是跨语化转移学习，这是一个研究领域，旨在利用高资源语言的数据和模型来提高低资源语言的NLP性能。具体而言，我们专注于序列标记任务，例如命名实体识别，意见目标提取和参数挖掘。
-  该研究围绕三个主要目标进行：（1）通过改进的翻译和注释投影技术来推进基于数据的跨语性转移学习方法，（2）开发利用先进的多语言的增强基于模型的转移学习方法模型，以及（3）在创建开源资源的同时，将这些方法应用于现实世界中的问题，以促进低资源NLP的未来研究。
-  更具体地说，本论文提出了一种新方法，可以用T-Procotdion（一种利用文本到文本多语言模型和机器翻译系统的最新注释投影方法）改善基于数据的传输。 T-Procotion通过广泛的边缘显着优于先前的注释投影方法。对于基于模型的传输，我们引入了一种受约束的解码算法，该算法使用文本对文本模型在零拍设置中增强了跨语义序列标记。最后，我们开发了医学MT5，这是第一个多语言文本到文本医学模型，证明了我们的研究对现实世界应用的实际影响。]]></description>
-      <guid>https://arxiv.org/abs/2502.02722</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title>在大型语言模型中推进推理：有希望的方法和方法</title>
+      <link>https://arxiv.org/abs/2502.03671</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03671</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>SmolLM2：当 Smol 变大时——以数据为中心的小型语言模型训练</title>
-      <link>https://arxiv.org/abs/2502.02737</link>
-      <description><![CDATA[arXiv:2502.02737v1 公告类型：新
-摘要：虽然大型语言模型促进了人工智能许多应用的突破，但它们固有的庞大性使其在计算上成本高昂，并且在资源受限的环境中难以部署。在本文中，我们记录了 SmolLM2 的开发，这是一种最先进的“小型”（17 亿个参数）语言模型 (LM)。为了获得强大的性能，我们使用多阶段训练过程对约 11 万亿个标记的数据进行了 SmolLM2 过度训练，该过程将网络文本与专门的数学、代码和指令跟踪数据混合在一起。我们还在发现现有数据集存在问题的小或低质量的阶段引入了新的专门数据集（FineMath、Stack-Edu 和 SmolTalk）。为了为我们的设计决策提供信息，我们执行小规模消融以及手动细化过程，根据前一阶段的性能更新每个阶段的数据集混合率。最终，我们证明了 SmolLM2 的表现优于其他近期的小型 LM，包括 Qwen2.5-1.5B 和 Llama3.2-1B。为了促进未来对 LM 开发以及小型 LM 应用的研究，我们发布了 SmolLM2 以及我们在此项目过程中准备的所有数据集。]]></description>
-      <guid>https://arxiv.org/abs/2502.02737</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03678</link>
+      <description><![CDATA[ARXIV：2502.03678V1公告类型：新 
+摘要：大型语言模型（LLMS）中文本生成的自动解码虽然缺乏内置机制来执行精炼和/或校正生成的内容，但本质上是次优的。在本文中，当共同考虑所有令牌同时考虑所有令牌时，我们从产生的响应的关节概率上考虑最佳性。从理论上讲，我们表征了自动加压力生成的响应与其全球最佳响应的潜在偏差，该响应的长度相同。我们的分析表明，当文本生成期间出现明显的不确定性时，我们需要保持谨慎，这可能表明了一代历史的次要性。为了解决文本生成自回旋解码的陷阱，我们提出了一种包含滑动反射窗口和暂停标准的方法，以便可以在解码过程中互换进行细化和生成。我们的选择性改进框架达到了效率和最佳性之间的平衡，我们广泛的实验结果证明了我们方法的有效性。]]></description>
+      <guid>https://arxiv.org/abs/2502.03678</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>SimMark：一种适用于大型语言模型的稳健的基于句子级相似度的水印算法</title>
-      <link>https://arxiv.org/abs/2502.02787</link>
-      <description><![CDATA[arXiv:2502.02787v1 公告类型：新
-摘要：大型语言模型 (LLM) 的迅速普及迫切需要可靠的方法来检测文本是否由此类模型生成。在本文中，我们提出了一种事后水印算法 SimMark，该算法使 LLM 的输出可追踪，而无需访问模型的内部逻辑，从而实现与各种 LLM 的兼容性，包括仅限 API 的模型。通过利用语义句子嵌入的相似性和拒绝抽样来施加人类无法察觉的可检测统计模式，并采用软计数机制，SimMark 实现了对释义攻击的鲁棒性。实验结果表明，SimMark 为 LLM 生成内容的鲁棒水印设定了新的基准，在鲁棒性、抽样效率和跨不同领域的适用性方面超越了之前的句子级水印技术，同时保持了文本质量。]]></description>
-      <guid>https://arxiv.org/abs/2502.02787</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03685</link>
+      <description><![CDATA[ARXIV：2502.03685V1公告类型：新 
+摘要：受控文本生成允许对大型语言模型输出的用户定义的约束，这是越来越重要的领域，因为LLMS在日常生活中变得更加普遍。一种常见的方法使用基于能量的解码，该解码通过能量函数定义目标分布，将多个约束结合到加权平均值中。但是，即使对能量函数的系数进行了广泛的调整，这些方法通常也很难平衡流利性和限制满意度。在本文中，我们确定了这种次优的平衡是由在连续空间中进行采样而不是文本令牌的自然离散空间。为了解决这个问题，我们提出了离散自动回归偏置，这是一种受控的解码算法，在完全在离散文本域中运行时利用梯度。具体而言，我们通过在生成的序列和辅助偏置序列上定义联合分布来引入一种新的公式，以实现受控文本生成。为了有效地从该联合分布中采样，我们提出了使用基于梯度的离散MCMC的langevin-gibbs采样算法。我们的方法显着提高了限制满意度，同时保持可比或更好的流利度，所有这些都以较低的计算成本。我们证明了我们受控解码方法在情感控制，语言排毒和关键字引导生成方面的优势。]]></description>
+      <guid>https://arxiv.org/abs/2502.03685</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>推测性预填充：使用轻量级和免训练的 Token 重要性估计为 TTFT 提供涡轮增压</title>
-      <link>https://arxiv.org/abs/2502.02789</link>
-      <description><![CDATA[arXiv:2502.02789v1 公告类型：新
-摘要：改进第一个标记时间 (TTFT) 是现代大型语言模型 (LLM) 推理引擎中一个非常重要的目标。因为优化 TTFT 直接导致更高的最大 QPS 并满足许多关键应用程序的要求。然而，提升 TTFT 是出了名的具有挑战性，因为它纯粹是计算受限的，性能瓶颈从自注意力转移到 MLP 部分。我们提出了 SpecPrefill，这是一个无需训练的框架，它基于以下见解加速了长上下文查询和中上下文查询的推理 TTFT：LLM 足够通用，即使在仅给出精心选择的提示标记子集的情况下仍能保持质量。在其核心，SpecPrefill 利用轻量级模型根据上下文推测本地重要标记。然后，这些标记连同必要的位置信息一起发送到主模型进行处理。我们通过一系列不同的任务对 SpecPrefill 进行了评估，然后在真实的端到端设置和消融研究中对性能改进进行了全面的基准测试。SpecPrefill 成功地为 Llama-3.1-405B-Instruct-FP8 提供了高达 $7\times$ 的最大端到端 QPS，并在基准测试期间实现了 $7.66\times$ 的 TTFT 改进。]]></description>
-      <guid>https://arxiv.org/abs/2502.02789</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03688</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03688</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>针对动机访谈咨询的一致客户模拟</title>
-      <link>https://arxiv.org/abs/2502.02802</link>
-      <description><![CDATA[arXiv:2502.02802v1 公告类型：新
-摘要：在心理健康咨询中模拟人类客户对于以可扩展的方式培训和评估咨询师（无论是人类还是模拟的）至关重要。然而，过去对客户模拟的研究并没有关注心理健康咨询等复杂的对话任务。在这些任务中，挑战在于确保客户的行为（即与咨询师的互动）与其规定的个人资料和负面行为设置一致。在本文中，我们提出了一个支持心理健康咨询的一致客户模拟的新框架。我们的框架跟踪模拟客户的心理状态，控制其状态转换，并为每个状态生成与客户的动机、信念、首选的改变计划和接受度一致的行为。通过改变客户资料和接受度，我们证明可以有效地为不同的咨询场景创建一致的模拟客户。我们对生成的咨询会话的自动和专家评估也表明，我们的客户模拟方法比以前的方法实现了更高的一致性。]]></description>
-      <guid>https://arxiv.org/abs/2502.02802</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title>LLM对齐作为检索器优化：信息检索透视图</title>
+      <link>https://arxiv.org/abs/2502.03699</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03699</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>CAMI：通过状态推断和主题探索支持动机访谈的咨询师代理</title>
-      <link>https://arxiv.org/abs/2502.02807</link>
-      <description><![CDATA[arXiv:2502.02807v1 公告类型：新
-摘要：对话咨询代理已成为满足日益增长的可扩展和可访问心理健康支持需求的重要工具。本文介绍了 CAMI，这是一种基于动机访谈 (MI) 的新型自动化咨询代理——一种以客户为中心的咨询方法，旨在解决矛盾心理并促进行为改变。CAMI 采用一种新颖的 STAR 框架，包括客户状态推理、动机主题探索和响应生成模块，利用大型语言模型 (LLM)。这些组件共同作用以引发改变谈话，符合 MI 原则并改善来自不同背景的客户的咨询结果。我们通过自动和手动评估来评估 CAMI 的性能，利用模拟客户来评估 MI 技能能力、客户状态推理准确性、主题探索能力和整体咨询成功率。结果表明，CAMI 不仅优于几种最先进的方法，而且表现出更现实的咨询师行为。此外，我们的消融研究强调了状态推理和主题探索在实现这一性能方面的关键作用。]]></description>
-      <guid>https://arxiv.org/abs/2502.02807</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03708</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03708</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>立场：多模态大型语言模型可以显著促进科学推理</title>
-      <link>https://arxiv.org/abs/2502.02871</link>
-      <description><![CDATA[arXiv:2502.02871v1 公告类型：新
-摘要：科学推理是人类运用逻辑、证据和批判性思维来探索和解释科学现象的过程，对于推进不同领域的知识推理至关重要。然而，尽管取得了重大进展，但当前的科学推理模型仍然难以实现跨领域的泛化，并且往往达不到多模态感知。多模态大型语言模型 (MLLM) 集成了文本、图像和其他模态，为克服这些限制并增强科学推理提供了令人兴奋的机会。因此，本立场文件认为，MLLM 可以显著推进数学、物理、化学和生物等学科的科学推理。首先，我们提出了科学推理能力的四阶段研究路线图，并重点介绍了 MLLM 在科学推理中的应用现状，并指出了它们集成和推理各种数据类型的能力。其次，我们总结了阻碍 MLLM 充分发挥潜力的关键挑战。为了应对这些挑战，我们提出了可行的见解和未来建议。总的来说，我们的工作为 MLLM 与科学推理的结合提供了新颖的视角，为 LLM 社区提供了实现通用人工智能 (AGI) 的宝贵愿景。]]></description>
-      <guid>https://arxiv.org/abs/2502.02871</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03711</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03711</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过图灵完备化学计算机实现操作通用性</title>
-      <link>https://arxiv.org/abs/2502.02872</link>
-      <description><![CDATA[arXiv:2502.02872v1 公告类型：新
-摘要：所有现代计算机最基本的抽象是图灵机，也就是说，如果任何现代计算机都可以模拟图灵机，即所谓的图灵完备性的等价性，那么理论上就可以通过执行一系列离散单元操作来实现任何可以用算法描述的任务。在化学中，对化学过程进行编程的能力要求很高，因为很难确保该过程可以在高抽象层次上被理解，然后付诸实践。在此，我们利用图灵完备的概念应用于化学机器人平台，该平台可用于通过使用化学感知编程语言 XDL 执行化学过程的单元操作来合成复杂分子。我们利用计算机的可计算性概念来实现自动合成机对化合物的可合成性。本文介绍了使用色域和条件逻辑对图灵完备性进行交互式演示的结果，并讨论了化学用例的示例。超过 1670 万种红、绿、蓝 (RGB) 颜色空间组合被分成 5 个离散值，并测量了超过 10 个感兴趣区域 (ROI)，每一步提供 7800 万种可能状态，并作为概念化学空间探索的代理。这种形式化描述为未来的化学编程语言建立了一个形式化框架，以确保在自动化和自主追求日益复杂的分子的过程中，复杂的逻辑运算能够正确表达和执行，并具有纠错的可能性。]]></description>
-      <guid>https://arxiv.org/abs/2502.02872</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03748</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03748</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>降低机器学习的障碍：使用LLMS在评论分类中实现零手动标记</title>
-      <link>https://arxiv.org/abs/2502.02893</link>
-      <description><![CDATA[arXiv:2502.02893v1 公告类型：新
-摘要：随着互联网的发展，消费者越来越依赖在线评论来选择服务或产品，因此企业必须分析大量客户反馈以增强其产品。虽然基于机器学习的情绪分类在这一领域前景光明，但其技术复杂性往往会阻碍小型企业和个人利用此类进步，这最终可能会使小型企业和大型企业在提高客户满意度方面的竞争差距进一步扩大。本文介绍了一种集成大型语言模型 (LLM) 的方法，特别是基于生成预训练 Transformer (GPT) 和 Transformer 的双向编码器表示 (BERT) 的模型，使其可供更广泛的受众使用。我们在各种数据集上的实验证实，我们的方法无需手动标记、调整和数据注释方面的专业知识或大量计算能力即可保持较高的分类准确率。通过显著降低应用情绪分类技术的门槛，我们的方法增强了竞争力，并为让更广泛的受众能够使用机器学习技术铺平了道路。]]></description>
-      <guid>https://arxiv.org/abs/2502.02893</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03766</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03766</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>检测法学硕士与知识图谱之间的元语言差异的基准</title>
-      <link>https://arxiv.org/abs/2502.02896</link>
-      <description><![CDATA[arXiv:2502.02896v1 公告类型：新
-摘要：评估大型语言模型 (LLM) 以执行事实提取等任务以支持知识图谱构建通常涉及使用基于知识图谱 (KG) 的地面实况基准计算准确度指标。这些评估假设错误代表事实分歧。然而，人类话语经常出现元语言分歧，其中代理不是在事实上存在分歧，而是在用于表达事实的语言的含义上存在分歧。鉴于使用 LLM 进行自然语言处理和生成的复杂性，我们问：LLM 和 KG 之间是否存在元语言分歧？基于使用 T-REx 知识对齐数据集的调查，我们假设 LLM 和 KG 之间确实存在元语言分歧，这对知识图谱工程的实践具有潜在意义。我们提出了一个基准来评估 LLM 和 KG 之间事实和元语言分歧的检测。这种基准的初步概念证明可在 Github 上找到。]]></description>
-      <guid>https://arxiv.org/abs/2502.02896</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03793</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03793</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>名字意味着什么？通过匿名化减轻文本嵌入中的名称偏见</title>
-      <link>https://arxiv.org/abs/2502.02903</link>
-      <description><![CDATA[ARXIV：2502.02903V1公告类型：新 
-摘要：文本装饰模型经常表现出训练数据的偏见。在本文中，我们研究了迄今未探索的文本式偏见：偏见是由$ \ textit {names} $的存在，例如文本中的人员，位置，组织等。我们的研究表明，在文本形式模型中，$ \ textit {name-bias} $的存在如何可能导致主题相似性评估的错误结论。文本 -  embeddings可能会错误地表明基于文本中名称的文本之间的相似性，即使当他们的实际语义内容没有相似性或表示差异时，仅仅是因为文本中文本中的名称即使在语义上匹配。我们首先在推理过程中首先证明了不同文本插入模型中名称偏差的存在，然后在推理过程中提出$ \ textit {text-nonyminization} $，其中涉及删除对名称的引用，同时保留文本的核心主题。在两个下游NLP任务上证明了匿名方法的功效，从而实现了显着的性能提高。我们简单且无训练的无效方法提供了一种实用且易于实现的解决方案，以减轻名称偏见。]]></description>
-      <guid>https://arxiv.org/abs/2502.02903</guid>
-      <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://arxiv.org/abs/2502.03799</link>
+      <description><![CDATA[]]></description>
+      <guid>https://arxiv.org/abs/2502.03799</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
