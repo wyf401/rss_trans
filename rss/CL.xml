@@ -4,129 +4,130 @@
     <title>arxiv.org上的cs.cl更新</title>
     <link>http://rss.arxiv.org/rss/cs.CL</link>
     <description>cs.cl在arxiv.org e-print档案中更新。</description>
-    <lastBuildDate>Mon, 03 Mar 2025 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 05:00:00 GMT</lastBuildDate>
     <item>
-      <title>多跳密度检索的动量后正规化</title>
-      <link>https://arxiv.org/abs/2502.20399</link>
-      <description><![CDATA[ARXIV：2502.20399V1公告类型：新 
-摘要：多跳问题回答（QA）通常需要顺序检索（多跳检索），其中每个跳跃都会根据以前的啤酒花的信息来检索缺失的知识。为了促进更有效的检索，我们旨在将知识从后验检索中提取，该检索可以访问后验信息，例如答案，并在无法获得此类信息的情况下，在推理期间使用的先前检索。不幸的是，由于两个问题，当前的一次性检索中知识蒸馏的方法对于多跳量质量质量质量检查是无效的：1）后验信息通常定义为响应（即答案），而没有中等检索的情况下可能无法清楚地连接到查询； 2）先验和后检索之间的较大知识差距使现有的蒸馏方法不稳定，甚至导致绩效损失。因此，我们提出了MOPO（动量后正规化），并具有两个关键的创新：1）一个HOP的后验信息定义为从上一个和当前啤酒花的黄金知识中的查询对焦摘要； 2）我们制定了一种有效的训练策略，在该策略中，通过动量移动平均方法对后验检索以及先前的检索进行更新，从而使其更加顺畅，有效蒸馏。 HOTPOTQA和StrategyQA的实验表明，MOPO在检索和下游QA任务中的表现都优于现有基准。]]></description>
-      <guid>https://arxiv.org/abs/2502.20399</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>Eeyore：通过监督和偏好优化的现实抑郁模拟</title>
+      <link>https://arxiv.org/abs/2503.00018</link>
+      <description><![CDATA[ARXIV：2503.00018V1公告类型：新 
+摘要：大型语言模型（LLMS）以前已经进行了用于心理保健培训和治疗客户模拟的探索，但它们在真正捕获多样化的客户特征和心理状况方面仍然缺乏。我们介绍了\ textbf {eeyore}，这是一种通过结构化对齐框架进行了为逼真的抑郁模拟优化的8B模型，在每个阶段都结合了专家输入。首先，我们系统地策划了现实世界中与抑郁症相关的对话，提取抑郁特征来指导数据过滤和心理概况构建，并将此数据集使用该数据集来指导Eyeyore以遵守个人资料依从性。接下来，为了进一步增强现实主义，Eeyore经历了迭代偏好优化 - 首先利用模型生成的偏好，然后使用一小部分专家宣布的偏好进行校准。在整个管道中，我们积极地与域专家合作，开发交互式界面以验证特质提取，并迭代地完善结构化心理概况，以实现临床上有意义的角色扮演定制。尽管模型尺寸较小，但Eyeore抑郁型模拟在语言真实性和概况依从性方面均超过了GPT-4O，促使SOTA提示策略。]]></description>
+      <guid>https://arxiv.org/abs/2503.00018</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>长篇小说理解的暂停调整：LLM注意重新校准的轻量级方法</title>
-      <link>https://arxiv.org/abs/2502.20405</link>
-      <description><![CDATA[ARXIV：2502.20405V1公告类型：新 
-摘要：LLM在理解任务方面表现出了非常熟练的水平，但继续在长期以来的理解中挣扎，尤其是在广泛投入的内容中。这种限制被称为中间（LITM）问题，它阻碍了模型在漫长的环境中完全处理和利用信息。为了解决这个问题，我们引入了暂停调整，该技术将注意力重新分布以增强对长篇文本输入的理解。我们的方法涉及具有人工插入的暂停令牌的数据集上的微调语言模型，这些模型将输入分为较小，更易于管理的部分。我们使用针中的基准测试对替代方法评估暂停调节，其中模型必须检索嵌入在多达128K代币的上下文中的信息。实验结果表明，Llama 3.2 3B指导模型和Llama 3.1 8B指导模型平均提高了10.61％和3.57％，这表明暂停调查成功增强了注意力再分配并改善了长期文本保留。代码和数据可在https://anonymon.4open.science/r/litm-pausetokens-7357上获得。]]></description>
-      <guid>https://arxiv.org/abs/2502.20405</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>对文本对图像（T2I）Gen AI模型安全性中使用的开放数据集的系统评价</title>
+      <link>https://arxiv.org/abs/2503.00020</link>
+      <description><![CDATA[ARXIV：2503.00020V1公告类型：新 
+摘要：针对文本图像图像（T2I）生成AI安全性的新颖研究通常依赖于公开可用的数据集用于培训和评估，从而使这些数据集的质量和组成至关重要。本文对T2I研究中使用的关键数据集进行了全面的评论，详细介绍了提示的收集方法，组成，语义和句法多样性以及数据集中危害类型的质量，覆盖范围和分布。通过强调数据集的优势和局限性，本研究使研究人员能够找到用例使用数据集分布的用例，尤其是在模型安全性方面，并确定未来研究的数据集覆盖率和质量差异，因此，研究人员能够找到最相关的数据集，批判性地评估其工作的下游影响。]]></description>
+      <guid>https://arxiv.org/abs/2503.00020</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Chitranuvad：调整多语言LLM用于多模式翻译</title>
-      <link>https://arxiv.org/abs/2502.20420</link>
-      <description><![CDATA[ARXIV：2502.20420V1公告类型：新 
-摘要：在这项工作中，我们在亚洲翻译研讨会（WAT2024）的研讨会上提供了作为英语的一部分提交的系统描述。我们介绍了Chitranuvad，这是一种多模型模型，可有效整合多语言LLM和一个视觉模块以进行多模式翻译。我们的方法使用VIT图像编码器将视觉表示形式提取为视觉令牌嵌入，通过适配器层将其投影到LLM空间并以自动回归方式生成翻译。我们参与了指示语言（即英文翻译到印地语，孟加拉语和马利亚拉姆）的所有三个曲目（图像字幕，仅文本和多模式翻译任务），并在挑战集中在挑战集中获得了印地语的SOTA结果，同时在共享任务中对其他语言保持竞争力。]]></description>
-      <guid>https://arxiv.org/abs/2502.20420</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>kvcrush：使用相似性的键值缓存尺寸减少</title>
+      <link>https://arxiv.org/abs/2503.00022</link>
+      <description><![CDATA[ARXIV：2503.00022V1公告类型：新 
+摘要：键值（KV）缓存已成为一种至关重要的优化技术，用于加速大型语言模型（LLMS）。通过允许注意力运行线性地扩展而不是二次地缩放，KV缓存显着增强了生成吞吐量。但是，由于现代LLM中的上下文长度较大，KV的内存足迹是直接影响模型批次大小的模型部署的巨大瓶颈，阻碍了其提供高通量的能力。现有的研究使用多种技术解决了这一挑战，例如丢弃低意见令牌，量化和矩阵近似，这通常会对模型准确性产生负面影响。
+  在本文中，我们提出了KVCrush技术，该技术可以与许多KV压缩技术结合使用，以提高在较小的内存下的模型准确性。 KVCrush为钥匙值状态提供了替代表示方案，以及一个低空的令牌修剪算法，该算法是KV CACHE中的令牌分布，这又允许较小的足迹，同时保持模型的准确性。根据我们的结果，KVCrush将Longbench KV高速缓存的大小降低了4倍，精度下降少于1％，并实现了最先进的平均准确性，而最小的开销则少于0.5％的总推断潜伏期。 KVCrush不仅要优于最先进的基于重要性的令牌保留方案的准确性，而且还与使用KV缓存计划方案（例如VLLM）和混合精度量化的典型实用LLM部署兼容。]]></description>
+      <guid>https://arxiv.org/abs/2503.00022</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>SEKI：通过大语言模型的基于自我进化和知识灵感的神经架构搜索</title>
-      <link>https://arxiv.org/abs/2502.20422</link>
-      <description><![CDATA[ARXIV：2502.20422V1公告类型：新 
-摘要：我们介绍了SEKI，这是一种新型的大型语言模型（LLM）的神经结构搜索（NAS）方法。受到现代LLMS中的经过思考链（COT）范式的启发，Seki在两个关键阶段运作：自我进化和知识蒸馏。在自我进化阶段，LLMS最初缺乏足够的参考示例，因此我们实施了一种迭代精致机制，该机制可以根据性能反馈来增强体系结构。随着时间的流逝，此过程积累了高性能体系结构的存储库。在知识蒸馏阶段，LLMS分析了这些体系结构之间的共同模式，以生成新的优化设计。结合了这两个阶段，SEKI极大地利用了LLM在NAS上的能力，而无需任何特定领域的数据。实验结果表明，SEKI在各个数据集和搜索空间上实现了最先进的（SOTA）性能，同时仅需要0.05 GPU-days，在效率和准确性方面都优于现有方法。此外，SEKI表现出强大的概括能力，在多个任务中实现了SOTA竞争的结果。]]></description>
-      <guid>https://arxiv.org/abs/2502.20422</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>情绪真的影响论点令人信服吗？基于LLM的操作检查的动态方法</title>
+      <link>https://arxiv.org/abs/2503.00024</link>
+      <description><![CDATA[ARXIV：2503.00024V1公告类型：新 
+摘要：情绪已被证明在论证令人信服中发挥了作用，但是在自然语言处理（NLP）社区中，这一方面却没有反应。与先前使用静态分析的研究，专注于单个文本领域或语言，或将情感视为众多因素之一，我们引入了一个动态框架，灵感来自心理学和社会科学中常用的操纵检查；该框架利用基于LLM的操作检查检查了感知的情绪强度影响感知到的令人信服的程度。通过人类对跨不同语言，文本领域和主题的论点的评估，我们发现，尽管有感知到的情感强度有所不同，但在超过一半的情况下，令人信服的判断仍然没有改变。当情绪确实产生影响时，它们常常会增强而不是弱化。我们进一步分析了11个LLM在同一情况下的行为方式，发现尽管LLM通常反映了人类的模式，但它们却难以捕捉单个判断中的细微情感影响。]]></description>
+      <guid>https://arxiv.org/abs/2503.00024</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>其中：一个基于游戏的框架，用于评估LLMS的说服力</title>
-      <link>https://arxiv.org/abs/2502.20426</link>
-      <description><![CDATA[ARXIV：2502.20426V1公告类型：新 
-摘要：大语言模型（LLM）和自主AI代理的扩散引起了人们对它们具有自动说服力和社会影响力的潜力的担忧。尽管现有研究探讨了基于LLM的操纵的孤立实例，但对不同模型的说服能力的系统评估仍然有限。在本文中，我们介绍了以美国为灵感的游戏框架，用于评估受控环境中的LLM欺骗技能。提出的框架使得可以按游戏统计数据比较LLM模型，并根据社会心理学和修辞学的25种说服策略来量化游戏中的操作。 8种流行类型和大小的流行语言模型之间的实验表明，所有经过测试的模型都表现出说服力，成功地采用了25种预期技术中的22种。我们还发现，较大的模型不能比较小的模型提供任何说服力的优势，并且更长的模型输出与赢得的游戏数量负相关。我们的研究提供了对LLMS欺骗能力的见解，以及用于促进该主题的未来研究的工具和数据。]]></description>
-      <guid>https://arxiv.org/abs/2502.20426</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>在西班牙医学实习生（MIR）考试2024/2025评估大型语言模型：临床推理和知识应用的比较分析</title>
+      <link>https://arxiv.org/abs/2503.00025</link>
+      <description><![CDATA[ARXIV：2503.00025V1公告类型：新 
+摘要：这项研究对西班牙医学实习生的22种大语言模型进行了比较评估，其中2024年和2025年的MIR考试重点侧重于临床推理领域特定的专业知识和多模式处理能力。MiR考试由210个多模式考试组成，由210个多项选择性问题组成，有些多种选择问题，这些问题既需要进行临床问题，又可以评估临床问题。克劳德·拉玛（Claude Llama）和双子座（Gemini）以及像Miri Pro这样的专业微调系统，它利用了西班牙医疗保健数据在医疗环境中脱颖而出
+  Recent market entries Deepseek and Grok have further enriched the evaluation landscape particularly for tasks that demand advanced visual and semantic analysis The findings indicate that while general purpose LLMs perform robustly overall fine tuned models consistently achieve superior accuracy especially in addressing nuanced domain specific challenges A modest performance decline observed between the two exam cycles appears attributable to the implementation of modified questions designed to mitigate reliance on memorization
+  结果强调了领域特定的微调和多模式整合在进行医学AI应用方面的变革潜力]]></description>
+      <guid>https://arxiv.org/abs/2503.00025</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>零阴影：区分不可思议的性能</title>
-      <link>https://arxiv.org/abs/2502.20469</link>
-      <description><![CDATA[ARXIV：2502.20469V1公告类型：新 
-摘要：有些事情是不可能的，但是有些事情可能比不可能更不可能。在我们的世界中，使用一个人的思想悬浮羽毛是不可能的，但是适合我们可能的世界的直觉理论，而在任何可能的世界中都无法想象使用第五的羽毛（“不可思议”）。尽管先前的工作已经检查了不可能的事件和不可能的事件之间的区别，但几乎没有关于不可思议性的实证研究。在这里，我们调查人们是否保持不可能和不可思议性之间的区别，以及如何做出这种区别。我们发现，使用类似于研究不可能和不可能之间的差异的分类研究，人们可以很容易地将不可能与不可想象的研究区分开来（实验1）。但是，这种区别并不能通过人们对事件可能性的主观评分来解释，事件可能性接近零且无法想象的事件描述（实验2）。最后，我们询问统计语言模型（LMS）分配给事件描述的概率是否可用于分开模态类别，以及这些概率是否与人们的评分一致（实验3）。我们发现人和LMS之间的高级相似性：在不可能的事件描述和不可想象的事件描述之间区分，LM衍生的字符串概率可以预测人们对模态类别中事件可能性的评分。我们的发现表明，可以通过对语言形式的统计学习来学习有关极少数事件（即不可能和不可思议）的细粒度知识（即，不可能的和不可思议的），但请留下一个问题，即人们是否代表了不可能的和不可想象的差异，而不是程度的差异，而是类型的差异。]]></description>
-      <guid>https://arxiv.org/abs/2502.20469</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>通过语言特征分析检测LLM生成的韩语文本</title>
+      <link>https://arxiv.org/abs/2503.00032</link>
+      <description><![CDATA[ARXIV：2503.00032V1公告类型：新 
+摘要：大语言模型（LLMS）的快速发展增加了区分人写和LLM生成的文本的困难。检测LLM生成的文本对于维护学术完整性，防止窃，保护版权和确保道德研究实践至关重要。大多数关于检测LLM生成的文本的先前研究主要集中在英语文本上。但是，具有独特形态和句法特征的语言需要专门的检测方法。它们的独特结构和使用模式可能会阻碍主要针对英语设计的方法的直接应用。在此类语言中，我们专注于韩语，韩语具有相对灵活的间距规则，丰富的形态学系统，并且与英语相比，使用频率较低。我们介绍了Katfish，这是第一个用于检测LLM生成的韩语文本的基准数据集。数据集由人类编写的文本组成，并由四种类型的四个LLM生成。
+  通过检查间距模式，言论的一部分多样性和逗号的使用，我们阐明了人文和LLM生成的韩语文本之间的语言差异。在这些观察结果的基础上，我们提出了Katfishnet，这是一种专门为韩语设计的检测方法。与表现最佳的现有检测方法相比，Katfishnet平均AUROC平均增加了19.78％。]]></description>
+      <guid>https://arxiv.org/abs/2503.00032</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>促进，压制，迭代：语言模型如何回答一对多的事实查询</title>
-      <link>https://arxiv.org/abs/2502.20475</link>
-      <description><![CDATA[ARXIV：2502.20475V1公告类型：新 
-摘要：要回答一对一的事实查询（例如，一个国家的列表城市），语言模型（LM）必须同时回忆知识并避免重复以前的答案。这两个子任务如何在内部实施和集成？在多个数据集和模型中，我们确定了一种促进式的抑制机制：该模型首先回忆所有答案，然后抑制先前生成的答案。具体而言，LMS使用主题和先前的答案令牌来执行知识回忆，并通过关注主题信息和MLP来促进答案。然后，注意并抑制先前的答案令牌，而MLP会放大抑制信号。 Our mechanism is corroborated by extensive experimental evidence: in addition to using early decoding and causal tracing, we analyze how components use different tokens by introducing both \emph{Token Lens}, which decodes aggregated attention updates from specified tokens, and a knockout method that analyzes changes in MLP outputs after removing attention to specified tokens.总体而言，我们提供了有关LMS内部组件如何与不同输入令牌相互作用以支持复杂事实召回的新见解。 Code is available at https://github.com/Lorenayannnnn/how-lms-answer-one-to-many-factual-queries.]]></description>
-      <guid>https://arxiv.org/abs/2502.20475</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>通过编辑锚压缩来限制顺序模型编辑</title>
+      <link>https://arxiv.org/abs/2503.00035</link>
+      <description><![CDATA[ARXIV：2503.00035V1公告类型：新 
+摘要：大型语言模型（LLMS）由于虚假或过时的知识而与幻觉作斗争。鉴于对这些模型的资源要求很高，因此越来越关注开发模型编辑。但是，跨下游任务的LLM的一般能力在顺序编辑过程中容易出现显着降解。从统计学上讲，本文的编辑后参数矩阵与先前的状态相比，随着编辑数量的增加，参数矩阵表现出明显的偏差。这种严重的偏差会影响LLM内的原始知识协会，并导致其一般能力的退化。为此，提出了一个称为编辑锚压缩（EAC）的框架来限制在顺序编辑过程中参数矩阵的偏差。它通过选择编辑锚来压缩编辑信息，这些锚对编码新关系很重要而不偏离原始矩阵，从而保留了一般能力。在四个任务上，将EAC应用于三个LLM的两种流行编辑方法的实验。评估结果表明，EAC可以有效地最大程度地减少模型编辑引起的不合理偏差，从而保留了超过70％的一般能力，同时与原始对应方法相比，可以更好地保留编辑知识。]]></description>
+      <guid>https://arxiv.org/abs/2503.00035</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>可解释的临床结果预测AI：对临床医生的看法和偏好的调查</title>
-      <link>https://arxiv.org/abs/2502.20478</link>
-      <description><![CDATA[ARXIV：2502.20478V1公告类型：新 
-摘要：可解释的AI（XAI）技术是必要的，以帮助临床医生理解AI预测并将预测整合到其决策工作流程中。在这项工作中，我们进行了一项调查研究，以了解不同XAI技术的临床医生偏好，以解释基于文本的EHR数据的模型预测。我们在结果预测模型上实施了四种XAI技术（石灰，基于注意力的跨度亮点，示例性患者检索以及LLMS产生的自由文本理由），该模型使用ICU录取注释来预测患者体验内医生死亡率的可能性。使用这些XAI实施，我们设计和进行了一项针对32位实践临床医生的调查研究，收集了他们对四种技术的反馈和偏好。我们将我们的发现综合为一组建议，描述了何时每种XAI技术更合适，它们的潜在局限性以及改进建议。]]></description>
-      <guid>https://arxiv.org/abs/2502.20478</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>通过LVLMS中固有的多模式比对，针对有毒图像的零射击防御</title>
+      <link>https://arxiv.org/abs/2503.00037</link>
+      <description><![CDATA[ARXIV：2503.00037V1公告类型：新 
+摘要：大型视觉模型（LVLM）在多模式理解方面取得了重大步伐，这要归功于大型视觉数据集的大量预训练和微调。但是，尽管具有强大的文本安全机制，但它们仍然容易受到有害视觉投入的影响。现有的保障措施通常依赖于预过滤或微调的高成本和整体效用。为了解决这个关键的漏洞，我们引入了SafeClip，这是一种轻巧的方法，该方法利用LVLMS固有的多模式对齐方式来零射击有毒图像检测。 By projecting CLIPs discarded CLS token into its text space and matching it with toxic descriptors, SafeCLIP detects harmful content without any architectural changes-adding minimal latency and enabling dynamic safety corrections during inference and fine-tuning.Experiments show that SafeCLIP achieves a 66.9% defense success rate with only 3.2% false positive rate and 7.2% overhead.相比之下，最先进的方法取得了52.9％的成功，但假阳性率为10.7％，开销210％。我们的工作表明，利用固有的多模式比对可以产生有效的低成本LVLM安全性。代码可在匿名。]]></description>
+      <guid>https://arxiv.org/abs/2503.00037</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>保护多模式大语模型免受误导性可视化</title>
-      <link>https://arxiv.org/abs/2502.20503</link>
-      <description><![CDATA[ARXIV：2502.20503V1公告类型：新 
-摘要：我们评估了多模式大语言模型对误导可视化的脆弱性 - 图表使用诸如截断或倒轴等技术扭曲了基础数据的图表，导致读者得出不准确的结论，这些结论可能支持误导性或阴谋理论。我们的分析表明，这些扭曲严重损害了多模式的大语言模型，将其提问的准确性降低到随机基线的水平。为了减轻这种脆弱性，我们介绍了六种推理时间方法，以提高MLLM在误导性可视化方面的性能，同时保留其在非误导性方面的准确性。最有效的方法涉及（1）提取基础数据表，以及（2）使用仅文本大型语言模型来回答基于表的问题。这种方法将误导性可视化的性能提高了15.4至19.6个百分点。]]></description>
-      <guid>https://arxiv.org/abs/2502.20503</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>从良性进口有毒：通过对抗隐喻越狱语言模型</title>
+      <link>https://arxiv.org/abs/2503.00038</link>
+      <description><![CDATA[ARXIV：2503.00038V1公告类型：新 
+摘要：当前的研究暴露了大语模型（LLMS）的风险，该模型通过越狱攻击产生有害内容。但是，他们忽略了从头开始的有害内容的直接生成比诱导LLM校准良性含量为有害形式更加困难。在我们的研究中，我们介绍了一个新颖的攻击框架，该攻击框架利用对抗性隐喻（Avatar）诱导LLM校准恶意隐喻以犯有越狱。具体而言，要回答有害的查询，阿凡达（Avatar）会自适应地识别一组良性但与逻辑相关的隐喻为初始种子。然后，在这些隐喻的驱动下，目标LLM被诱导进行推理并校准隐喻内容，从而通过直接输出有害响应或校准隐喻和专业有害内容之间的残留物来越狱。实验结果表明，阿凡达（Avatar）可以有效，可转让的越狱LLM，并在多个高级LLM中获得最先进的攻击成功率。]]></description>
+      <guid>https://arxiv.org/abs/2503.00038</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一千个单词或图像：研究角色方式在多模式LLM中的影响</title>
-      <link>https://arxiv.org/abs/2502.20504</link>
-      <description><![CDATA[ARXIV：2502.20504V1公告类型：新 
-摘要：大型语言模型（LLMS）最近在体现各种角色，增强其作为对话代理和虚拟助手的有效性方面取得了显着进步。因此，LLM在处理和整合多模式信息方面已取得了重大进步。但是，即使可以在文本和图像中表达人类角色，角色的形式影响LLM的实施方案的程度仍然在很大程度上没有探索。在本文中，我们研究了不同模态在多模式LLM中的表现力如何影响。为此，我们创建了一个新颖的模式平行数据集，该数据集的年龄，性别，职业和位置各不相同。这包括四种方式，可以等效地代表角色：仅图像，仅文本，图像和小文本的组合以及印刷图像，在该图像上进行了视觉风格的文本以传达与角色相关的属性。然后，我们创建一个系统的评估框架，其中有60个问题和相应的指标，以评估LLM在其属性和场景中体现每个角色的表现如何。 $ 5 $多模式LLMS的综合实验表明，由详细文本代表的角色显示出更多的语言习惯，而印刷图像通常显示出与角色的一致性。我们的结果表明，LLM经常忽略通过图像传达的特定于人格特定的细节，突出了基本的局限性，并为将来的研究铺平了这一差距。我们在https://github.com/claws-lab/persona-modality上发布数据和代码。]]></description>
-      <guid>https://arxiv.org/abs/2502.20504</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>评估基于LLMS的隐藏状态作为以人为中心的NLP任务的作者表示</title>
+      <link>https://arxiv.org/abs/2503.00124</link>
+      <description><![CDATA[ARXIV：2503.00124V1公告类型：新 
+摘要：与大多数NLP一样，以人为中心的NLP任务模型 - 试图评估作者级信息的任务 - 主要使用来自基于变压器LLMS的隐藏状态的表示形式。但是，LM的哪个组件用于表示形式差异很大。此外，需要隐式对作者建模并提供用户级隐藏状态的人类语言模型（HULMS）。在这里，我们系统地评估使用不同的LM和HULM体系结构来表示文档和用户的不同方式，以预测任务成果，因为动态变化的状态和平均特质的类型用户级属性，唤醒，同情和困扰。我们发现将文档表示为代币隐藏状态的平均表现最好。此外，虽然用户级隐藏状态本身很少是最佳表示，但我们发现它包含在模型中，可以增强用于得出文档和用户级表示形式的代币或文档嵌入，从而导致最佳性能。]]></description>
+      <guid>https://arxiv.org/abs/2503.00124</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tripcraft：时空上粒细菌的旅行计划的基准</title>
-      <link>https://arxiv.org/abs/2502.20508</link>
-      <description><![CDATA[ARXIV：2502.20508V1公告类型：新 
-摘要：探索大语言模型（LLM）的最新进步已经探索了其潜在的潜力作为个性化的旅行计划代理，但是现有的基准在现实世界中的适用性仍然有限。现有的数据集，例如Travel Planner和TravelPlanner+，患有半合成数据的依赖，空间不一致以及缺乏关键的旅行限制，从而无法获得实用的行程生成。为了解决这些差距，我们介绍了TripCraft，这是一个时空连贯的旅行计划数据集，该数据集集成了现实世界的限制，包括公共交通计划，事件可用性，各种吸引力类别和用户角色，以增强个性化。为了评估LLM生成的计划以外的现有二进制验证方法，我们提出了五个连续的评估指标，即时间进餐得分，时间吸引分数，空间得分，订购得分和角色分数，以评估跨多个维度的行程质量。我们的参数通知设置可显着增强进餐时间表，在7天情景中将临时进餐评分从61％提高到80％。 TripCraft为LLM驱动的个性化旅行计划建立了新的基准，为行程生成提供了更现实，更约束的意识框架。接受后，数据集和代码库将在接受后公开可用。]]></description>
-      <guid>https://arxiv.org/abs/2502.20508</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>Annocaselaw：一个富裕的数据集，用于基准可解释的法律判断预测</title>
+      <link>https://arxiv.org/abs/2503.00128</link>
+      <description><![CDATA[ARXIV：2503.00128V1公告类型：新 
+摘要：全球法律制度继续在压倒性的案件量，有限的司法资源和法律程序中日益增长的复杂性中挣扎。人工智能（AI）提供了一个有前途的解决方案，并具有法律判断预测（LJP） - 从案件事实中预测法院的判决的做法 - 成为关键研究领域。但是，现有数据集通常是不切实际地制定LJP的任务，而不是反映其真正的难度。他们还缺乏对法律推理和解释性必不可少的高质量注释。为了解决这些缺点，我们介绍了Annocaselaw，这是471个精心注释的美国上诉法院疏忽案件的首个数据集。每种情况都充满了全面，专家标记的注释，这些注释突出了司法决策的关键组成部分以及相关的法律概念。我们的数据集为更加人类，可解释的LJP模型奠定了基础。我们定义了三个与法律相关的任务：（1）判断预测； （2）概念识别； （3）自动化案例注释，并使用行业领先的大语言模型（LLM）建立绩效基线。我们的结果表明，LJP仍然是一项艰巨的任务，法律先例的应用也特别困难。代码和数据可从https://github.com/anonymonpolar1/annocaselaw获得。]]></description>
+      <guid>https://arxiv.org/abs/2503.00128</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>监督的微调LLM在编程教育中表现为教学代理</title>
-      <link>https://arxiv.org/abs/2502.20527</link>
-      <description><![CDATA[ARXIV：2502.20527V1公告类型：新 
-摘要：大型语言模型（LLM）越来越多地在高等教育中探索，但他们作为教学代理人的有效性仍然没有被忽视。在本文中，我们介绍了Guidelm的开发，Guidelm是一款专为编程教育而设计的精通LLM。 Guidelm已集成到调试C编译器（DCC）中，这是一种教育C编译器，利用LLMS生成教学上有声音错误的解释。此前，DCC依靠现成的OpenAI模型，尽管有相反的提示，但该模型通常通过直接提供解决方案而过度辅助学生。
-  为了解决这个问题，我们在528个学生疑问/教师回答对的数据集上使用了监督的微调（SFT），创建了两种模型：Guidelm和Guidelm-Mini，分别在Chatgpt-4O和4O-Mini上进行了微调。我们对每个模型进行了400个响应的专家分析，将其教学效率与基本OpenAI模型进行了比较。我们的评估基于建构主义和认知负载理论，评估了概念脚手架，清晰度和苏格拉底指导等因素。
-  结果表明，与GPT-4O相比，Guidelm和Guidelm-Mini提高了教学绩效，苏格拉底指南增长了8％，单词经济性提高了58％。但是，这种改进是以略有降低的一般准确性来实现的。尽管需要进一步的工作，但我们的发现表明，使用有针对性数据集的微调LLM是开发更适合教育环境的模型的有前途的方法。]]></description>
-      <guid>https://arxiv.org/abs/2502.20527</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>LLMS的个性化因果图推理：饮食建议的案例研究</title>
+      <link>https://arxiv.org/abs/2503.00134</link>
+      <description><![CDATA[ARXIV：2503.00134V1公告类型：新 
+摘要：大型语言模型（LLMS）有效地利用常识性知识来进行一般推理，但是当负责解释多因素个人数据时，它们在个性化的推理中挣扎。这种限制限制了它们在需要对个人量身定制的上下文意识决策的领域中的适用性。本文将个性化因果图推理作为一个代理框架，通过合并从个人数据数据中得出的个人因果图来增强LLM推理。这些图提供了指导LLM推理过程的基础。我们在针对营养方向的饮食建议的案例研究中对其进行了评估，该建议需要个人推理，这是由于隐含的独特饮食影响。我们提出了反事实评估，以估计LLM备受推测的食品用于葡萄糖管理的效率。结果表明，该提出的方法有效地提供了个性化的饮食建议，以减少在三个时间窗口中的平均葡萄糖IAUC，这表现优于先前的方法。 LLM-AS-A-A-A-Gudge评估结果表明，我们提出的方法在推理过程中增强了个性化。]]></description>
+      <guid>https://arxiv.org/abs/2503.00134</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nanogpt：纳米技术研究的查询驱动的大型语言模型检索生成系统</title>
-      <link>https://arxiv.org/abs/2502.20541</link>
-      <description><![CDATA[ARXIV：2502.20541V1公告类型：新 
-摘要：本文介绍了针对纳米技术研究量身定制的大型语言模型检索型生成（LLM-rag）系统的开发和应用。该系统利用复杂的语言模型的能力来充当智能研究助理，增强了纳米技术领域文献评论的效率和全面性。该LLM-rag系统的核心是其高级查询后端检索机制，该机制集成了来自多个信誉量的数据。该系统通过利用Google Scholar的高级搜索并刮除来自Elsevier，Springer Nature和ACS出版物的开放式论文来检索相关文献。这种多方面的方法可确保广泛而多样的最新学术文章和论文集合。拟议的系统通过提供简化，准确和详尽的文献检索过程，在帮助研究人员方面具有巨大潜力，从而加速了纳米技术的研究进步。 LLM-rag系统的有效性通过严格的测试进行了验证，这说明了其能力大大减少全面文献综述所需的时间和精力，同时保持高准确性，查询相关性和胜过标准的公开，公开可用的LLMS。]]></description>
-      <guid>https://arxiv.org/abs/2502.20541</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>得分：大语言模型的系统一致性和鲁棒性评估</title>
+      <link>https://arxiv.org/abs/2503.00137</link>
+      <description><![CDATA[ARXIV：2503.00137V1公告类型：新 
+摘要：大语言模型（LLMS）的典型评估报告每个数据集的单个度量，通常代表在精心选择的设置下模型的最佳性能。不幸的是，这种方法忽略了现实应用程序中的模型鲁棒性和可靠性。例如，在MMLU-PRO数据集上的提示简单释义会导致高达10 \％的准确性波动，同时在Agieval DataSet中重新排序答案选择会导致高达6.1 \％的准确性差异。尽管一些研究讨论了LLM鲁棒性的问题，但没有用于评估语言模型鲁棒性的统一或集中式框架。为了解决这一差距并巩固了现有的模型鲁棒性研究，我们提出得分（$ \ Mathbf {s} $ semtyatic $ \ mathbf {co} $ nsistency和$ \ MathBf {r} $ ubustness $ \ mathbf {e}得分框架通过在各种设置中的相同基准上重复测试模型来评估模型，以对其准确性和一致性进行现实估计。我们公开发布该代码，并启动LLM鲁棒性排行榜，以促进进一步的发展和研究。]]></description>
+      <guid>https://arxiv.org/abs/2503.00137</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Huamr：匈牙利AMR解析器和数据集</title>
-      <link>https://arxiv.org/abs/2502.20552</link>
-      <description><![CDATA[ARXIV：2502.20552V1公告类型：新 
-摘要：我们介绍了Huamr，这是第一个摘要含义表示（AMR）数据集和匈牙利语基于大型语言模型的大型AMR解析器的套件，目的是针对非英语语言的语义资源的稀缺性。为了创建HUAMR，我们采用Llama-3.1-70B自动生成银色标准AMR注释，然后手动进行完善以确保质量。在此数据集的基础上，我们研究了不同的模型体系结构-MT5大型和Llama-3.2-1b-以及微调策略如何影响AMR解析性能。
-  在将来自Llama-3.1-70B的银色标准AMR纳入较小模型的训练数据中并不能始终提高整体分数，但我们的结果表明，这些技术有效提高了匈牙利新闻数据（Huamr的领域）的解析准确性。我们使用Smatch分数评估了我们的解析器，并确认了Huamr和我们的解析器的潜力来推进语义解析研究。]]></description>
-      <guid>https://arxiv.org/abs/2502.20552</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>棕榈：阿拉伯语LLM的文化包含和语言多样性的数据集</title>
+      <link>https://arxiv.org/abs/2503.00151</link>
+      <description><![CDATA[ARXIV：2503.00151V1公告类型：新 
+摘要：随着大型语言模型（LLM）越来越多地整合到日常生活中，确保其文化敏感性和包容性至关重要。我们介绍了我们的数据集，这是一个为期一年的社区驱动项目，涵盖了所有22个阿拉伯国家。该数据集包括现代标准阿拉伯语（MSA）和方言阿拉伯语（DA）中的说明（输入，响应对），涵盖了20个不同的主题。由阿拉伯世界的44名研究人员组成的团队，他们都是本文的作者，我们的数据集提供了广泛而包容的观点。我们使用数据集评估了几种边境LLM的文化和方言能力，从而揭示了显着的局限性。例如，虽然封闭源LLM通常表现出很强的性能，但它们并非没有缺陷，而较小的开源型号则面临更大的挑战。此外，某些国家（例如，埃及，阿联酋）似乎比其他国家更好（例如伊拉克，毛里塔尼亚，也门）。我们的注释指南，代码和可重复性的数据公开可用。]]></description>
+      <guid>https://arxiv.org/abs/2503.00151</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从来源到引文的嘈杂路径：衡量学者如何参与过去的研究</title>
-      <link>https://arxiv.org/abs/2502.20581</link>
-      <description><![CDATA[ARXIV：2502.20581V1公告类型：新 
-摘要：学术引用广泛用于评估研究和追踪知识流。这种用途通常依赖于原始引文计数和忽略引文类型的可变性。特别是，由于引用研究的原始知识可能会被解释，汇总或重新解释，因此引用的忠诚可能会有所不同，这可能会导致从引用论文到引用论文的多少信息变化。在这项研究中，我们引入了一条计算管道，以量化引文保真度。使用论文的全文，管道可以在引用论文和引用论文中的相应主张中确定引用，并应用监督的模型来衡量句子级别的忠诚度。分析约有1300万个引用句子对的大规模多学科数据集，我们发现当作者引用论文1）1）更近且智力上更接近的论文时，引用保真度更高，2）更易于访问，3）第一位作者的h-index较低，作者团队中等大小。使用准体验，我们建立了“电话效应”  - 当引用论文对原始索赔的保真度较低时，引用引用纸的未来论文和原始论文对原始论文的保真度较低。我们的工作揭示了引文保真度的系统差异，强调了仅依赖引文数量的分析的局限性以及证据扭曲的可能性。]]></description>
-      <guid>https://arxiv.org/abs/2502.20581</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+      <title>大语言模型的不确定性估计方法的调查</title>
+      <link>https://arxiv.org/abs/2503.00172</link>
+      <description><![CDATA[ARXIV：2503.00172V1公告类型：新 
+摘要：大型语言模型（LLMS）在各种任务中都表现出了显着的功能。但是，这些模型可以提供偏见，幻觉或非事实的反应，以伪装它们的流利性和现实外观。不确定性估计是应对这一挑战的关键方法。尽管不确定性估计的研究工作正在加剧，但对LLM不确定性估计缺乏全面和专用的调查。这项调查提出了LLM不确定性估计的四个主要途径。此外，我们对多种方法和数据集进行了广泛的实验评估。最后，我们为LLM不确定性估计提供了关键和有希望的未来方向。]]></description>
+      <guid>https://arxiv.org/abs/2503.00172</guid>
+      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
