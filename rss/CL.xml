@@ -51,9 +51,9 @@
     <item>
       <title>通过语言特征分析检测LLM生成的韩语文本</title>
       <link>https://arxiv.org/abs/2503.00032</link>
-      <description><![CDATA[ARXIV：2503.00032V1公告类型：新 
+      <description><![CDATA[ARXIV：2503.00032V2公告类型：新 
 摘要：大语言模型（LLMS）的快速发展增加了区分人写和LLM生成的文本的困难。检测LLM生成的文本对于维护学术完整性，防止窃，保护版权和确保道德研究实践至关重要。大多数关于检测LLM生成的文本的先前研究主要集中在英语文本上。但是，具有独特形态和句法特征的语言需要专门的检测方法。它们的独特结构和使用模式可能会阻碍主要针对英语设计的方法的直接应用。在此类语言中，我们专注于韩语，韩语具有相对灵活的间距规则，丰富的形态学系统，并且与英语相比，使用频率较低。我们介绍了Katfish，这是第一个用于检测LLM生成的韩语文本的基准数据集。数据集由人类编写的文本组成，并由四种类型的四个LLM生成。
-  通过检查间距模式，言论的一部分多样性和逗号的使用，我们阐明了人文和LLM生成的韩语文本之间的语言差异。在这些观察结果的基础上，我们提出了Katfishnet，这是一种专门为韩语设计的检测方法。与表现最佳的现有检测方法相比，Katfishnet平均AUROC平均增加了19.78％。]]></description>
+  通过检查间距模式，言论的一部分多样性和逗号的使用，我们阐明了人文和LLM生成的韩语文本之间的语言差异。在这些观察结果的基础上，我们提出了Katfishnet，这是一种专门为韩语设计的检测方法。与表现最佳的现有检测方法相比，Katfishnet平均AUROC平均增加了19.78％。我们的代码和数据可在https://github.com/shinwoo-park/detecting_llm_generated_korean_korean_text_through_linguistic_analysis中获得。]]></description>
       <guid>https://arxiv.org/abs/2503.00032</guid>
       <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
