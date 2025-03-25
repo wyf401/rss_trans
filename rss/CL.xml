@@ -4,127 +4,127 @@
     <title>arxiv.org上的cs.cl更新</title>
     <link>http://rss.arxiv.org/rss/cs.CL</link>
     <description>cs.cl在arxiv.org e-print档案中更新。</description>
-    <lastBuildDate>Mon, 24 Mar 2025 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 04:00:00 GMT</lastBuildDate>
     <item>
-      <title>语言模型训练后的令牌级别的不确定性感知目标</title>
-      <link>https://arxiv.org/abs/2503.16511</link>
-      <description><![CDATA[ARXIV：2503.16511V1公告类型：新 
-摘要：在当前工作中，我们将因果语言建模中的令牌级别的不确定性连接到两种类型的培训目标：1）掩盖最大可能性（MLE），2）自我抗议。我们表明，蒙面的MLE有效地降低了认知不确定性，并充当有效的令牌自动课程学习技术。但是，蒙面的MLE容易过度拟合，需要自我验证正规化以改善或维持分布式任务的绩效。我们通过提出的训练目标（跨多个体系结构（Gemma，Llama，Phi）和数据集（Alpaca，ShareGPT，GSM8K）跨越了跨性能的训练目标 - 结合掩盖的MLE和自我鉴定，表明了显着的性能增长，从而在培训期间保持适应能力，从而缓解过度拟合。我们的发现表明，不确定性感知培训为增强语言模型培训提供了有效的机制。]]></description>
-      <guid>https://arxiv.org/abs/2503.16511</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>CHATGPT或无处不在的助手：大语言模型的调查</title>
+      <link>https://arxiv.org/abs/2503.17403</link>
+      <description><![CDATA[arxiv：2503.17403v1公告类型：新 
+摘要：大型语言模型（LLMS）已将自然语言处理自然语言处理（NLP）撤销，聊天生成的预训练的变压器（CHATGPT）是其高级功能和广泛应用的著名审查。这项调查提供了对Chatgpt的全面分析，探索其架构，培训过程和功能。我们研究了它与客户服务，教育，医疗保健和娱乐等行业之间的各个领域的集成。与其他LLMS的比较分析突出了Chatgpt的独特功能和性能指标。关于基准，本文研究了Chatgpt与其他LLM的比较性能，并讨论了潜在的风险，例如错误信息，偏见和数据隐私问题。此外，我们提供了许多数字和表格，概述了讨论的背景，文章的主要思想，众多LLM模型，用于预训练，微调和评估的数据集列表，以及特定的LLM应用程序。最后，我们确定了未来的研究方向和技术进步，强调了LLM的不断发展的景观及其对人工智能人工智能（AI）和社会的深远影响。]]></description>
+      <guid>https://arxiv.org/abs/2503.17403</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Medifact在Peranssumm 2025：利用轻巧模型，以特定于临床问答论坛的特定透视图</title>
-      <link>https://arxiv.org/abs/2503.16513</link>
-      <description><![CDATA[ARXIV：2503.16513V1公告类型：新 
-摘要：Peranssumm 2025挑战重点关注视角 - 意识到的医疗答案摘要（Agarwal等，2025）。这项工作建议使用浮潜-BART-SVM管道进行几次学习框架，以分类和总结开放式医疗保健社区的问题避开（CQA）。 SVM模型通过浮潜训练较弱的监督，从而增强了零拍的学习。提取性分类标识了与透视相关的句子，然后使用预验证的Bart-CNN模型进行汇总。该方法在共享任务中获得了100个团队中的第12位，证明了计算效率和上下文准确性。通过利用预处理的摘要模型，这项工作将进步医学CQA研究，并为临床决策支持系统做出了贡献。]]></description>
-      <guid>https://arxiv.org/abs/2503.16513</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>对长上下文语言建模的全面调查</title>
+      <link>https://arxiv.org/abs/2503.17407</link>
+      <description><![CDATA[ARXIV：2503.17407V1公告类型：新 
+摘要：在自然语言处理中，有效地处理长篇小说一直是一种持续的追求。随着越来越多的文档，对话和其他文本数据的数量，开发长上下文语言模型（LCLM）很重要，这些语言模型（LCLM）可以以有效而有效的方式处理和分析广泛的输入。在本文中，我们介绍了一项有关大语模型长篇小说建模的最新进展的综合调查。我们的调查围绕三个关键方面进行了结构：如何获得有效，有效的LCLM，如何有效培训和部署LCLM，以及如何全面评估和分析LCLM。对于第一个方面，我们讨论了以长上下文处理为导向的数据策略，架构设计和工作流程方法。在第二方面，我们对LCLM培训和推理所需的基础设施进行了详细的检查。对于第三方面，我们提出了长篇文化理解和长期产生以及LCLM的行为分析和机制的评估范例。除了这三个关键方面，我们还彻底探讨了已经部署现有LCLM的各种应用程序方案并概述了有希望的未来开发方向。这项调查提供了有关长篇文献LLM的文献的最新审查，我们希望为研究人员和工程师提供宝贵的资源。收集最新论文和存储库的一个相关的GitHub存储库可在以下网址获得：\ href {https://github.com/lclm-horizo​​n/a-comprehand-survey-survey-survey-for-long--context-context-context-language-modeling} {\ color [rgb]]]></description>
+      <guid>https://arxiv.org/abs/2503.17407</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LLM文献综述的跨学科系统科学综述中强调案例研究</title>
-      <link>https://arxiv.org/abs/2503.16515</link>
-      <description><![CDATA[ARXIV：2503.16515V1公告类型：新 
-摘要：大型语言模型（LLM）用于协助四个联邦科学和工业研究组织（CSIRO）研究人员进行系统文献评论（SLR）。在这些案例研究中，我们评估了SLR任务的LLMS的性能。在每个中，我们探讨了改变参数对LLM响应准确性的影响。 LLM的任务是从选定的学术论文中提取证据，以回答具体的研究问题。我们评估了模型在忠实地再现文献报价中的表现，并要求专家评估回答研究问题时的模型绩效。我们开发了一种语义文本突出显示工具，以促进对LLM响应的专家审查。
-  我们发现，最新的LLM的状态能够从准确性超过95％的文本中复制报价，并以约83％的精度回答研究问题。我们使用两种方法来确定LLM响应的正确性。专家评论和LLM的变压器嵌入和专家答案的余弦相似性。这些方法之间的相关性范围为0.48至0.77，提供了证据表明后者是测量语义相似性的有效指标。]]></description>
-      <guid>https://arxiv.org/abs/2503.16515</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>超越否定检测：临床NLP的全面断言检测模型</title>
+      <link>https://arxiv.org/abs/2503.17425</link>
+      <description><![CDATA[ARXIV：2503.17425V1公告类型：新 
+摘要：断言状态检测是临床NLP的关键但经常被忽略的组成部分，对于准确归因于提取的医学事实至关重要。过去的研究狭窄地专注于否定检测，导致诸如AWS医学理解，Azure AI文本分析和GPT-4O等表现不佳的商业解决方案，因为它们的域名有限。为了解决这一差距，我们开发了最新的断言检测模型，包括精细调整的LLM，基于变压器的分类器，少量分类器和深度学习（DL）方法。我们根据基于云的商业API解决方案，基于旧规则的NEGEX方法和GPT-4O评估了这些模型。我们的微调LLM达到了最高的总体精度（0.962），表现优于GPT-4O（0.901）和商业API，并具有明显的差距，尤其是当前（+4.2％），缺乏（+8.4％），以及假设（+23.4％）的主张。我们的基于DL的模型超过条件（+5.3％）和相关的someone-Else（+10.1％）类别的商业解决方案，而少数拍摄的分类器提供了一种轻巧但高度竞争的替代方案（0.929），使其非常适合资源受限环境。集成在Spark NLP中，我们的模型始终胜过黑盒商业解决方案，同时可以与医学NER，关系提取和术语解决方案实现可扩展的推理和无缝集成。这些结果增强了针对域的适应性，透明和可定制的NLP解决方案的重要性，而不是通用LLM和专有API的重要性。]]></description>
+      <guid>https://arxiv.org/abs/2503.17425</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用LLM进行自动隐私政策分析：及时工程，微调和解释性</title>
-      <link>https://arxiv.org/abs/2503.16516</link>
-      <description><![CDATA[ARXIV：2503.16516V1公告类型：新 
-摘要：隐私政策被数字服务广泛使用，通常是为了法律目的。已经开发出许多基于机器的基于机器的分类器来自动检测给定的隐私政策中不同概念，这可以帮助促进其他自动化任务，例如产生更友好的摘要和检测法律合规性问题。尽管大型语言模型（LLMS）成功地应用于各个领域的许多NLP任务，但研究LLM用于自动隐私政策分析的工作很少，因此，IF和LLMS可以帮助自动化隐私政策分析的方法仍然不足。为了填补这一研究差距，我们对基于LLM的隐私政策概念分类器进行了全面评估，同时采用了迅速的工程和LORA（低级别适应）微调，对四个最先进的（SOTA）隐私政策公司和分类法。我们的实验结果表明，将及时的工程和微调结合起来可以使基于LLM的分类器优于其他SOTA方法，即\ emph {显着}和\ emph {始终如一的emph {一致}跨隐私政策语料库/分类法/分类法和概念。此外，我们使用三个指标评估了基于LLM的分类器的解释性：完整性，逻辑性和可理解性。对于所有三个指标，在我们的评估中都观察到超过91.1 \％的分数，表明LLM不仅有用可改善分类性能，而且还可以增强检测结果的解释性。]]></description>
-      <guid>https://arxiv.org/abs/2503.16516</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>语言特定的神经元不会促进跨语性转移</title>
+      <link>https://arxiv.org/abs/2503.17456</link>
+      <description><![CDATA[ARXIV：2503.17456V1公告类型：新 
+摘要：多语言大语言模型（LLM）旨在跨不同语言的自然语言理解，但其表现在低资源语言上大大降低。这项工作探讨了是否可以利用识别特定语言神经元的现有技术来增强低位分子语言的跨语性任务性能。我们进行了详细的实验，涵盖了现有的语言特异性神经元识别技术（例如语言激活概率熵和基于激活概率的阈值）和神经元特异性的Lora微调，并使用Llama 3.1和Missral Nemo等模型进行了微调。我们发现，这种特定于神经元的干预措施不足以对下游任务（XNLI，Xquad）进行低分子语言的跨语性改进。这项研究强调了实现跨语性概括的挑战，并为多语言LLM提供了关键的见解。]]></description>
+      <guid>https://arxiv.org/abs/2503.17456</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>并非所有的角色都值得：文化反射性角色数据增强</title>
-      <link>https://arxiv.org/abs/2503.16520</link>
-      <description><![CDATA[ARXIV：2503.16520V1公告类型：新 
-摘要：将角色纳入会话AI模型对于实现真实和引人入胜的相互作用至关重要。但是，现有角色数据集的文化多样性和适应性经常被忽略，从而降低了它们在构建文化意识的AI系统方面的功效。为了解决这个问题，我们提出了一条两步的管道，用于产生特定文化的角色并介绍Kopersona，这是一个包含200,000个角色的数据集，旨在捕捉韩国文化价值观，行为和社会细微差别。通过各种指标进行的全面评估验证了Kopersona的质量及其与韩国文化的相关性。这项工作不仅有助于基于角色的研究，而且还建立了一种可扩展的方法来创建适应各种语言和文化背景的文化相关角色。]]></description>
-      <guid>https://arxiv.org/abs/2503.16520</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>Convogen：使用合成数据增强对话AI：一种多代理方法</title>
+      <link>https://arxiv.org/abs/2503.17460</link>
+      <description><![CDATA[ARXIV：2503.17460V1公告类型：新 
+摘要：在本文中，我们介绍了Convogen：一种创新的框架，用于使用多代理系统生成合成对话数据。我们的方法利用了很少的学习学习，并从动态更新的几个弹药中心引入了迭代采样，以创建多样化和现实的对话场景。生成的数据具有许多应用程序，包括培训和评估对话式AI模型，并为对话意图分类或对话摘要等任务增强现有数据集。我们的实验证明了该方法在产生高质量的合成对话数据方面的有效性，突出了其增强对话AI系统的开发和评估的潜力。]]></description>
+      <guid>https://arxiv.org/abs/2503.17460</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mind2：通过双向认知话语分析的心态情感支持系统</title>
-      <link>https://arxiv.org/abs/2503.16523</link>
-      <description><![CDATA[ARXIV：2503.16523V1公告类型：新 
-摘要：情感支持（ES）系统通过基于不同用户情况产生战略支持对话来减轻用户的心理困扰。但是，ES系统的生成有效对话的能力有限，包括及时的上下文和解释性，阻碍了他们获得公众信任。在认知模型的驱动下，我们提出了思想与脑海（Mind2），这是一个ES框架，从话语分析的角度来看，使用ES对话生成任务的可解释的ES上下文建模。具体来说，我们根据我们的动态话语上下文传播窗口对ES对话进行认知话语分析，该窗口随着ES系统与用户之间的对话而适应不断发展的上下文。为了增强可解释性，Mind2优先考虑将每个说话者对另一个说话者的信念的细节，以双向性，整合心理理论，生理期望效用和认知合理性，以从ES对话中提取认知知识。实验结果支持Mind2可以实现竞争性能与最先进的ES系统，而仅接受10 \％的可用培训数据培训。]]></description>
-      <guid>https://arxiv.org/abs/2503.16523</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>沙于文化：用于评估大型语言模型文化能力的基准</title>
+      <link>https://arxiv.org/abs/2503.17485</link>
+      <description><![CDATA[ARXIV：2503.17485V1公告类型：新 
+摘要：大型语言模型（LLMS）在自然语言处理中表现出了显着的功能；但是，他们经常难以准确捕捉和反映文化细微差别。这项研究通过关注沙特阿拉伯，这是一个以多种方言和丰富的文化传统为特征的国家来解决这一挑战。我们介绍了一项新颖的基准，旨在评估LLM在沙特阿拉伯独特的地理和文化背景下的文化能力。沙于文化是一个综合的数据集，涵盖了五个主要地理区域，例如西，东，南，北部和中心，以及在所有地区都适用的一般问题。数据集涵盖了许多文化领域，包括食物，服装，娱乐，庆祝活动和手工艺品。为了确保严格的评估，沙特文化包括不同复杂性的问题，例如开放式，单选项和多项选择格式，有些需要多个正确的答案。此外，数据集还区分了常见的文化知识和专业的区域方面。我们对五个LLM进行了广泛的评估，例如GPT-4，Llama 3.3，Fanar，Jais和Acegpt，分析了它们在不同问题类型和文化背景的绩效。我们的发现表明，当面对高度专业化或特定于地区的问题，尤其是那些需要多个正确回答的问题时，所有模型都会均均有显着的性能下降。此外，某些文化类别比其他文化类别更容易识别，这进一步强调了LLMS文化理解的不一致。这些结果强调了将特定区域知识纳入LLMS培训以增强其文化能力的重要性。]]></description>
+      <guid>https://arxiv.org/abs/2503.17485</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KVShare：有效的大语言模型推理的语义意识键值缓存共享</title>
-      <link>https://arxiv.org/abs/2503.16525</link>
-      <description><![CDATA[ARXIV：2503.16525V1公告类型：新 
-摘要：本文介绍了基于语义相似性的多用户键值（KV）缓存共享技术的KVShare，旨在提高大语言模型（LLMS）和多模式大语模型（MLLMS）的推理效率。 KVShare解决了现有前缀缓存（严格的文本前缀匹配）和语义缓存（响应多样性的丧失）的局限性，通过语义对齐算法和差分编辑操作，KVShare实现了细粒度的KV缓存重复使用。现实世界中用户对话数据集的实验表明，KVShare将KV Cache HIT率提高了60％以上，同时保持与完整计算相当的输出质量（BLEU和ROUGE-L METICS无显着降解）。这种方法有效地减少了GPU的资源消耗，并且适用于具有重复性查询的场景，例如医疗保健和教育。]]></description>
-      <guid>https://arxiv.org/abs/2503.16525</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>判断任何事情：MLLM作为任何方式的法官</title>
+      <link>https://arxiv.org/abs/2503.17489</link>
+      <description><![CDATA[ARXIV：2503.17489V1公告类型：新 
+摘要：评估有关开放式多模式理解（MMU）和生成（MMG）任务（例如，图像，音频，视频）的生成基础模型，由于跨模式相互作用的复杂性，构成了重大挑战。为此，随着自动化法官的出现，利用多模式LLM（MLLM）的想法已经出现，从而令人鼓舞地评估视力语言理解任务。 Moving further, this paper extends MLLM-as-a-Judge across modalities to a unified manner by introducing two benchmarks, TaskAnything and JudgeAnything, to respectively evaluate the overall performance and judging capabilities of MLLMs across any-to-any modality tasks.具体而言，Taskything评估了15个对任何一种模式类别的MMU和MMG功能，采用了1,500个从建立的基准测试中策划的查询。此外，审判从对比较和得分评估的角度评估了5个高级（例如GPT-4O和Gemini-2.0-Flash）的评判功能，从而提供了一个标准化的测试台，并提供了人类判断和详细的专栏。 Our extensive experiments reveal that while these MLLMs show promise in assessing MMU (i.e., achieving an average of 66.55% in Pair Comparison setting and 42.79% in Score Evaluation setting), they encounter significant challenges with MMG tasks (i.e., averaging only 53.37% in Pair Comparison setting and 30.05% in Score Evaluation setting), exposing cross-modality biases and hallucination issues.为了解决这个问题，我们提出了Omniarena，这是一个自动化平台，用于评估Omni模型和多模式奖励模型。我们的工作强调了需要更公平的评估协议，并且与人类偏好更加一致。源代码和数据集可公开可用：https：//urrealhero.github.io/judgeanythingweb/。]]></description>
+      <guid>https://arxiv.org/abs/2503.17489</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LLM生成的角色是一个陷阱的承诺</title>
-      <link>https://arxiv.org/abs/2503.16527</link>
-      <description><![CDATA[ARXIV：2503.16527V1公告类型：新 
-摘要：使用大语言模型（LLM）模拟人类行为已引起了人们的重大关注，尤其是通过近似个体特征的角色。基于角色的模拟有望改变依赖人口水平反馈的学科，包括社会科学，经济分析，市场研究和业务运营。收集现实角色数据的传统方法面临重大挑战。由于隐私的限制，它们非常昂贵且具有逻辑上的挑战，并且通常无法捕获多维属性，尤其是主观质量。因此，LLMS的合成角色生成提供了可扩展的，具有成本效益的替代方案。但是，当前的方法依赖于临时和启发式生成技术，这些技术不能保证方法论严格或模拟精度，从而导致下游任务的系统偏见。通过广泛的大规模实验，包括总统选举预测和对美国人口的一般意见调查，我们透露，这些偏见可能导致与现实成果的巨大偏差。我们的发现强调了开发严格的角色生成科学的必要性，并概述了方法论创新，组织和机构支持以及增强LLM驱动角色模拟的可靠性和可扩展性所需的经验基础。为了支持该领域的进一步研究和发展，我们已经开源了大约一百万个生成的角色，可在https://huggingface.co/datasets/tianyi-lab/personas上进行公共访问和分析。]]></description>
-      <guid>https://arxiv.org/abs/2503.16527</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>后续问题生成增强的患者提供对话</title>
+      <link>https://arxiv.org/abs/2503.17509</link>
+      <description><![CDATA[ARXIV：2503.17509V1公告类型：新 
+摘要：后续问题生成是对话系统的重要特征，因为它可以减少对话歧义并增强建模复杂的相互作用。会话环境通常会带来核心NLP挑战，例如（i）提取埋在零散数据源中的相关信息，以及（ii）对平行思维过程进行建模。这两个挑战经常出现在医学对话中，因为医生不仅基于患者的话语，而且还提出了以前的EHR数据和当前诊断假设的问题。在异步对话中提出医疗问题会使这些问题加剧了这些问题，因为医生只能依靠静态EHR信息来激发后续问题。
+  为了应对这些挑战，我们介绍了后续行动，这是一种增强异步医疗对话的新型框架。后续行动是一个多代理框架，可处理患者消息和EHR数据以产生个性化的后续问题，从而阐明患者报告的医疗状况。后续行动将必要的提供商的后续通信减少34％。它还分别在实际和合成数据上提高了17％和5％的性能。我们还发布了第一个与链接的EHR数据的异步医疗信息的公共数据集以及临床专家为更广泛的NLP研究社区编写的2300个后续问题。]]></description>
+      <guid>https://arxiv.org/abs/2503.17509</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>HDLCORE：用于减轻LLM生成HDL幻觉的无培训框架</title>
-      <link>https://arxiv.org/abs/2503.16528</link>
-      <description><![CDATA[ARXIV：2503.16528V1公告类型：新 
-摘要：大语言模型（LLMS）的最新进展已在代码生成任务中表现出显着的功能。但是，当应用于硬件说明语言（HDL）时，由于数据稀缺性，这些模型会出现重大限制，从而导致幻觉和代码生成不正确。为了应对这些挑战，我们提出了HDLCore，这是一个无培训的框架，通过迅速的工程技术和检索功能增强的生成（RAG）来增强LLMS的HDL生成能力。我们的方法由两个主要组成部分组成：（1）一种用自我验证提示技术提示技术的HDL感知链（COT），这些技术通过复杂性和类型对任务进行了分类，结合了域特异性知识，并通过逐步的逐步自我模拟来指导LLMS以进行错误纠正； （2）一个两阶段的异质抹布系统，通过关键组件提取来解决格式的不一致，并通过顺序滤波和重新排列有效地检索相关的HDL示例。 HDLCORE消除了对模型进行微调的需求，同时实质上提高了LLMS的HDL生成功能。实验结果表明，我们的框架在RTLLM2.0基准上实现了卓越的性能，大大降低了幻觉并提高了句法和功能正确性。]]></description>
-      <guid>https://arxiv.org/abs/2503.16528</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>语言模型可能会逐字完成，但没有明确培训</title>
+      <link>https://arxiv.org/abs/2503.17514</link>
+      <description><![CDATA[ARXIV：2503.17514V1公告类型：新 
+摘要：当今的一个重要问题是，是否使用给定文本训练大型语言模型（LLM）。经常采用A \ Emph {postemion}测试：检查LLM是否完成了足够复杂的文本。但是，这需要对成员的基础定义。最常见的是，它根据目标文本和数据集中的任何文本之间的$ n $ gram重叠定义为成员。在这项工作中，我们证明了基于$ n $ gram的会员定义可以有效地进行认可。我们研究给定$ n $的序列\ emph {nonembers}的方案，我们发现完成测试仍然成功。我们发现了许多自然案例，通过删除所有完成的训练样本后，通过从头开始重新研究LLM。这些案例包括精确的重复，近乎解复器，甚至是短的重叠。他们展示了很难为会员定义找到单一可行的$ n $选择。使用这些见解，我们设计了可以导致给定目标序列完成的对抗数据集，而无需包含它，以选择$ n $的任何合理选择。我们的发现突出了$ n $ gram会员资格的不足，这表明会员定义无法解决培训算法可用的辅助信息。]]></description>
+      <guid>https://arxiv.org/abs/2503.17514</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在中文环境下的安全评估和增强DeepSeek模型</title>
-      <link>https://arxiv.org/abs/2503.16529</link>
-      <description><![CDATA[ARXIV：2503.16529V1公告类型：新 
-摘要：DeepSeek-R1以其出色的推理能力和开源战略而闻名，它极大地影响了全球人工智能领域。但是，它表现出显着的安全缺点。 Cisco的子公司与宾夕法尼亚大学合作进行的Robust Intelligence进行的最新研究表明，DeepSeek-R1在处理有害提示时达到了100 \％的攻击成功率。此外，多个安全公司和研究机构已经确定了模型中的关键安全漏洞。尽管中国Unicom在中国环境中发现了R1的安全漏洞，但尚未对R1系列中其余蒸馏模型的安全能力进行全面评估。为了解决这一差距，这项研究利用了全面的中国安全基准Chisafetybench对DeepSeek-R1系列蒸馏模型进行了深入的安全评估。目的是在蒸馏之前和之后评估这些模型的安全能力，并进一步阐明蒸馏对模型安全的不利影响。在这些发现的基础上，我们为六种蒸馏型实施了针对性的安全性增强。评估结果表明，增强模型在没有明显降解的情况下保持推理能力的同时，可以取得显着改善。我们在https://github.com/unicomai/deepseek-r1-distill-safe/tree/main上开放安全增强模型，以作为未来研究和优化DeepSeek模型的宝贵资源。]]></description>
-      <guid>https://arxiv.org/abs/2503.16529</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>贝叶斯教学在大语言模型中启用概率推理</title>
+      <link>https://arxiv.org/abs/2503.17523</link>
+      <description><![CDATA[ARXIV：2503.17523V1公告类型：新 
+摘要：基于大语言模型（LLM）的人工智能系统越来越多地用作与用户和世界互动的代理。为此，LLMS需要成功地构建世界内部表示，并就这些表示形式形成概率的信念。为了为用户提供个性化的建议，例如，LLM需要在多个交互过程中逐渐推断用户的喜好。为了评估当代LLM是否能够做到这一点，我们使用概率理论的贝叶斯推理框架，该理论列出了在收到新信息时更新代理商信念的最佳方法。我们首先表明LLM并未像贝叶斯框架那样更新他们的信念，因此，随着更多信息的可用信息，他们的预测并没有改善，甚至比我们发现的人类所发现的要少。为了解决这个问题，我们通过训练来模仿最佳贝叶斯模型的预测来教LLMS以贝叶斯的方式进行推理。我们发现，这种方法不仅可以显着提高LLM在接受培训的特定建议任务上的性能，而且还可以对其他任务进行概括。这表明该方法赋予LLM具有更广泛的贝叶斯推理技能。更普遍地，我们的结果表明，LLM可以有效地学习推理策略并将这些技能推广到新领域，这部分解释了LLMS的经验成功。]]></description>
+      <guid>https://arxiv.org/abs/2503.17523</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用知识超图来增强LLM的生成循证医学</title>
-      <link>https://arxiv.org/abs/2503.16530</link>
-      <description><![CDATA[ARXIV：2503.16530V1公告类型：新 
-摘要：基于证据的医学（EBM）在医疗保健中大型语言模型（LLM）的应用中起着至关重要的作用，因为它为医疗决策过程提供了可靠的支持。尽管它受益于当前的检索型发电〜（RAG）技术，但它仍然面临两个重大挑战：分散证据的收集和有效的该证据的组织来支持EBM所需的复杂查询。为了解决这些问题，我们建议使用LLM从多个来源收集分散的证据，并提出基于知识的证据管理模型，以在捕获复杂的关系的同时整合这些证据。此外，为了更好地支持复杂的查询，我们开发了一种重要性驱动的证据优先级（IDEP）算法，该算法利用LLM来生成多个证据特征，每个算法都具有相关的重要性评分，然后将其用于对证据进行排名并产生最终检索结果。六个数据集的实验结果表明，我们的方法在EBM感兴趣的应用领域（例如医疗测验，幻觉检测和决策支持）优于现有的破布技术。可以通过\ href {https://drive.google.com/file/d/1wj9qtokkk3mdkjemwufqxwufqxwh96j_byawj_/view？usp = drive_link} {]]></description>
-      <guid>https://arxiv.org/abs/2503.16530</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>利用人类生产解释不对称测试LLM认知合理性</title>
+      <link>https://arxiv.org/abs/2503.17579</link>
+      <description><![CDATA[ARXIV：2503.17579V1公告类型：新 
+摘要：大型语言模型（LLMS）是否与人类相似的语言是许多理论和实用辩论的主题。我们通过在人类句子处理中发现的生产解释区别的角度来研究这个问题，并评估指导调节的LLMS在多大程度上复制这种区别。将人类的生产与解释之间的经验文献记录在隐式因果关系动词中作为测试床，我们发现某些LLMS在定量上和定性地反映了生产和解释之间的类似人类的不对称性。我们证明，这种行为是否取决于两个模型大小 - 更大的模型更有可能反映人类样模式以及用于引起行为的元语言提示的选择。]]></description>
+      <guid>https://arxiv.org/abs/2503.17579</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EEG-CLIP：从自然语言描述中学习脑电图表示</title>
-      <link>https://arxiv.org/abs/2503.16531</link>
-      <description><![CDATA[Arxiv：2503.16531V1公告类型：新 
-摘要：脑电图（EEG）解码的深网通常经常受过训练，以解决诸如病理或性别解码之类的特定任务。利用临床脑电图记录的医学报告的一种更通用的方法是学习医疗报告和脑电图记录之间的映射。这种方法在计算机视觉域匹配的图像及其文本字幕中率先开创，随后允许使用文本类提示进行成功进行零射击解码。在这项工作中，我们遵循这种方法，并开发了一个对比度学习框架eeg-clip，该框架将eeg时间序列及其相应的临床文本描述保持在共享的嵌入空间中。我们研究了其多功能脑电图解码的潜力，评估了一系列少数和零弹性设置的性能。总体而言，结果表明，EEG-CLIP管理非对齐文本和EEG表示。我们的工作提出了一种有前途的方法来学习一般脑电图表示，这可以通过零射击解码或培训特定于任务的模型从更少的培训示例来更轻松地分析各种解码问题。复制我们结果的代码可在https://github.com/tidiane-camaret/eegclip上获得。]]></description>
-      <guid>https://arxiv.org/abs/2503.16531</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>GPBENCH：作为一般从业者评估大型语言模型的全面且细粒度的基准</title>
+      <link>https://arxiv.org/abs/2503.17599</link>
+      <description><![CDATA[ARXIV：2503.17599V1公告类型：新 
+摘要：通过提供持续和全面的医疗服务，全科医生（GPS）是主要医疗保健系统的基石。但是，由于其实践，不平衡的培训和资源差距的性质，全科医生之间的临床水平在各个地区和医疗机构之间可能会有很大差异。目前，大型语言模型（LLMS）在临床和医疗应用中表现出巨大的潜力，使其成为支持通用实践的有前途的工具。但是，大多数现有的基准测试框架和评估框架都集中在考试式评估上 - 典型的多项选择问题 - 插件综合评估集，这些评估集准确地反映了GPS遇到的真实情况。为了评估LLM在GP的日常工作中如何有效地做出决策，我们设计了GPBench，其中包括临床实践和新颖的评估框架中的测试问题。该测试集包括评估一般实践的基本知识以及基于场景的问题的多项选择问题。所有问题均由专家精心注释，并结合了与临床管理有关的丰富细粒度信息。拟议的LLM评估框架基于通用实践的能力模型，提供了评估现实世界中LLM性能的全面方法。作为针对GP决策情况的第一个大型模型评估集，GPBench使我们能够评估当前的主流LLM。专家评估和评估表明，在疾病分期，并发症识别，治疗细节和用药等领域，这些模型至少表现出十个主要缺点。总体而言，现有的LLM尚不适合在没有人类监督的情况下在现实世界中的GP工作场景中独立使用。]]></description>
+      <guid>https://arxiv.org/abs/2503.17599</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从患者咨询到图表：利用LLM的患者旅程知识图构建</title>
-      <link>https://arxiv.org/abs/2503.16533</link>
-      <description><![CDATA[ARXIV：2503.16533V1公告类型：新 
-摘要：向以患者为中心的医疗保健的过渡需要对患者旅行有全面的了解，这涵盖了整个护理领域的所有医疗体验和互动。现有的医疗保健数据系统通常是分散的，缺乏对患者轨迹的整体表示，从而为协调的护理和个性化干预措施构成了挑战。患者旅程知识图（PJKGS）代表了一种新的方法，可以通过将各种患者信息整合到统一的结构化表示形式中来解决零散的医疗保健数据的挑战。本文提出了一种使用大语言模型（LLM）来构建PJKG的方法，以处理和构建正式的临床文档和非结构化的患者支持者对话。这些图形封装了临床相遇，诊断，治疗和结果之间的时间和因果关系，从而实现了高级的时间推理和个性化的护理见解。该研究以产生准确和计算有效的知识图的能力评估了四种不同的LLM，例如Claude 3.5，Mistral，Llama 3.1和Chatgpt4o。结果表明，尽管所有模型均达到完美的结构合规性，但它们在医疗实体处理和计算效率方面表现出差异。本文通过确定关键挑战和未来的研究方向结束。这项工作有助于通过发展全面，可行的知识图来推进以患者为中心的医疗保健，从而支持改善护理协调和结果预测。]]></description>
-      <guid>https://arxiv.org/abs/2503.16533</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>使用角色敏感的对比学习增强LLMS角色扮演角色扮演的角色一致性</title>
+      <link>https://arxiv.org/abs/2503.17662</link>
+      <description><![CDATA[ARXIV：2503.17662V1公告类型：新 
+摘要：近年来，大型语言模型（LLMS）在许多对话生成任务中取得了突破性的进步。但是，他们缺乏情感和精细的角色意识限制了模型进一步提供个性化和多样化互动的能力。当前的方法在为角色扮演等场景和传统人类一致性方法收集高质量注释的数据时面临高昂的成本，由于在角色扮演场景中模型行为的固有多样性，很难部署。 Inspired by the alignment of models for safety behaviors through RLHF (Reinforcement Learning from Human Feedback), in this paper, we revisit model role-playing behavior from the perspective of persona alignment and propose a novel annotation-free framework named \textbf{\underline{P}}ersona-Aware \textbf{\underline{C}}ontrastive \ textbf {\ underline {l}} restning（pcl）在角色扮演过程中与LLMS的行为保持一致，从而增强了模型的角色一致性。具体而言，我们首先设计了一种角色链方法，以鼓励模型根据角色特征和对话环境来调整人格一致性。然后，我们通过在角色特征的使用（而不是）之间进行迭代对比学习进一步增强了模型的角色扮演策略。在Black-Box和White-Box LLMS上进行的实验表明，在自动评估方法（Chareval \＆GPT-4）和人类专家评估下，配备PCL的LLMS明显胜过了PCL的LLM。]]></description>
+      <guid>https://arxiv.org/abs/2503.17662</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>大语言模型中的性别和内容偏见：Google Gemini 2.0 Flash实验的案例研究</title>
-      <link>https://arxiv.org/abs/2503.16534</link>
-      <description><![CDATA[ARXIV：2503.16534V1公告类型：新 
-摘要：这项研究评估了Gemini 2.0 Flash实验中的偏见，这是Google开发的最先进的大语言模型（LLM），重点是内容审核和性别差异。通过将其性能与作者先前的作品进行了研究，分析强调了道德节制实践的某些差异。 Gemini 2.0表现出性别偏见的减少，特别是与Chatgpt-4O获得的结果相比，女性特异性提示的接受率大幅上升。它对性内容采取了更宽松的立场，并在包括特定性别的案件在内的暴力提示中保持了相对较高的接受率。尽管有这些变化，但它们是否构成改进是有争议的。尽管性别偏见已经减少，但这种减少的代价是允许对男性和女性的更多暴力内容，可能使暴力正常而不是减轻伤害。男性特异性提示通常仍然比女性特定的提示更高。这些发现强调了使AI系统与道德标准保持一致的复杂性，从而强调了减少某些偏见的进步，同时提出了对模型允许性更广泛含义的担忧。持续的改进对于实现适度实践至关重要，以确保透明度，公平性和包容性而不会放大有害内容。]]></description>
-      <guid>https://arxiv.org/abs/2503.16534</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>LLMS可以自动化事实核对文章写作吗？</title>
+      <link>https://arxiv.org/abs/2503.17684</link>
+      <description><![CDATA[ARXIV：2503.17684V1公告类型：新 
+摘要：自动事实检查旨在通过提供可以帮助加快手动事实检查的工具来支持专业事实检查器。然而，现有框架无法解决生产适合广泛传播给公众的输出的关键步骤：当人类事实检查者通过事实检查文章传达其发现，而自动化系统通常很少或根本没有理由进行评估。在这里，我们的目标是弥合这一差距。我们主张需要通过自动生成完整的事实检查文章来扩展典型的自动事实检查管道。我们首先通过对领先事实检查组织的专家进行的一系列访谈来确定此类文章的关键Desiderata。然后，我们开发了基于LLM的代理框架Qraft，模仿了人类事实检查者的写作工作流程。最后，我们通过通过专业事实检查者的人类评估来评估QRAFT的实际实用性。我们的评估表明，尽管Qraft的表现优于先前提出的文本生成方法，但它远远落后于专家写的文章。我们希望我们的工作能够以这个新的重要方向进行进一步的研究。]]></description>
+      <guid>https://arxiv.org/abs/2503.17684</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Word2minecraft：通过大语言模型生成3D游戏水平</title>
-      <link>https://arxiv.org/abs/2503.16536</link>
-      <description><![CDATA[ARXIV：2503.16536V1公告类型：新 
-摘要：我们提出Word2Minecraft，该系统利用大型语言模型根据结构化的故事在Minecraft中生成可玩的游戏水平。该系统会改变叙事元素，例如主角目标，对手挑战和环境环境，以及具有空间和游戏限制的into游戏水平。我们引入了一个灵活的框架，该框架允许自定义故事复杂性，从而使动态级别的生成。该系统采用缩放算法来保持空间一致性，同时调整关键游戏元素。我们使用基于度量的和基于人类的方法评估Word2minecraft。我们的结果表明，GPT-4-Turbo在大多数领域的表现都优于GPT-4O-Mini，包括故事连贯性和客观享受，而后者在美学吸引力方面表现出色。我们还展示了该系统具有高地图享受的产生水平的能力，这在故事和游戏设计的交集中为前进提供了有希望的一步。我们在https://github.com/jmz-kk/word2minecraft/tree/word2mc_v0上打开代码]]></description>
-      <guid>https://arxiv.org/abs/2503.16536</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+      <title>使用合成数据和错误注入增强阿拉伯语自动论文评分</title>
+      <link>https://arxiv.org/abs/2503.17739</link>
+      <description><![CDATA[ARXIV：2503.17739V1公告类型：新 
+摘要：自动化论文评分（AES）在评估语言学习者的写作质量，降低等级工作量并提供实时反馈方面起着至关重要的作用。阿拉伯语AES系统尤其受到带注释的论文数据集的挑战。本文提出了一个新的框架，利用大型语言模型（LLM）和变形金刚生成了AES的合成阿拉伯论文数据集。我们促使LLM跨CEFR生成论文水平水平，并使用微型标准的阿拉伯BERT模型引入控制错误注入，以进行错误类型预测。我们的方法产生了类似人类的文章，贡献了3,040个注释论文的数据集。此外，我们开发了一个基于BERT的自动标记系统，以进行准确且可扩展的阿拉伯论文评估。实验结果证明了我们框架在改善阿拉伯AES性能方面的有效性。]]></description>
+      <guid>https://arxiv.org/abs/2503.17739</guid>
+      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
